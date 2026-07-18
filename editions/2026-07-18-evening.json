@@ -1,0 +1,1030 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-18-evening",
+  "date": "2026-07-18",
+  "slot": "evening",
+  "slotTitle": "Evening Edition",
+  "generatedAt": "2026-07-18T23:31:47.563Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The evening edition, assembled without its editor.",
+    "weather": {
+      "tempF": 87,
+      "condition": "clear",
+      "highF": 90,
+      "lowF": 71,
+      "precipPct": 17
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "4faf0c553ba0",
+      "headline": "Gap in Mochizuki's proof of ABC confirmed by Lean",
+      "kicker": "tech",
+      "blurb": "10 points, 1 comments on Hacker News"
+    },
+    "secondaries": [
+      {
+        "storyId": "490011935edb",
+        "headline": "Ill-disciplined England beat Argentina in thriller after controversial late TMO call",
+        "kicker": "news",
+        "blurb": "England hold on to beat Argentina in a chaotic match in the Nations Championship after the hosts have a last-gasp try controversially ruled out in Santiago del Estero."
+      },
+      {
+        "storyId": "600abfd6ba71",
+        "headline": "SQLite Query Explainer",
+        "kicker": "ai",
+        "blurb": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, "
+      },
+      {
+        "storyId": "679d78328239",
+        "headline": "Aaron Judge transferred to 60-day IL, will need another scan",
+        "kicker": "sports",
+        "blurb": "Sidelined since May 31, superstar outfielder Aaron Judge, 34, will need another scan before a major ramp-up of activity while his fractured rib heals, and the New York Yankees moved their captain to the 60-day injured list on Saturday afternoon."
+      },
+      {
+        "storyId": "f6a4dca05a12",
+        "headline": "What's the deal with Scott Galloway pod suddenly always being referenced on Reddit?",
+        "kicker": "internet",
+        "blurb": "What's the deal with Scott Galloway pod suddenly always being referenced on Reddit?"
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "651563ed5e9f",
+        "headline": "The Odyssey streaming release date window: When will it be on Peacock, Netflix, Blu-ray, and DVD?",
+        "kicker": "gaming"
+      },
+      {
+        "storyId": "97ed94b84ad9",
+        "headline": "Apple Music Top Songs (US)",
+        "kicker": "music"
+      },
+      {
+        "storyId": "5e15cf81e113",
+        "headline": "TikTok trend: UP graduates succeed at academics, fail at love - The Manila Times",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "ebd210903ce3",
+        "headline": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+        "kicker": "markets"
+      },
+      {
+        "storyId": "a20309c6ae08",
+        "headline": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+        "kicker": "tech"
+      },
+      {
+        "storyId": "35c5567898a4",
+        "headline": "Judge a book by its first pages",
+        "kicker": "tech"
+      },
+      {
+        "storyId": "dc41641ba918",
+        "headline": "Classic Amiga titles, free to download",
+        "kicker": "tech"
+      },
+      {
+        "storyId": "603bdbc95384",
+        "headline": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+        "kicker": "tech"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-18T23:31:47.563Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 64793,
+        "changePct": 1.31
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1862.01,
+        "changePct": 1.09
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "5e15cf81e113",
+          "headline": "TikTok trend: UP graduates succeed at academics, fail at love - The Manila Times",
+          "blurb": "TikTok trend: UP graduates succeed at academics, fail at love The Manila Times",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1pqRDZmOHR3M2pYYzgzSE5fd1AteXdTc3NfbWt1YmxobmZsUFpqV3lJNXZTZjNhLUp6YVVjMHZFUE9pTUJhTHRsYmw0eEtqbDFEVlNxRk9QVXVXWVlVTlNTMXVReExncmtqV1V4cHRWazI1NURMSS1mVHV2MXVEN0NHV2tkMnNFVEY4UDEtWEMyeW4tNjJXaVgxLTZGQ0V0RjI3eXptMkdQY3lBTHlwTtIBtgFBVV95cUxQNF9wU2drTXY0NmVWRjBSamptU3h0YldWVzRoV0hqMjI5N0xVR0xFaUtLNm11amhDbzluRWJ5X2xOal80ekNuZlZSbndqVVlxcUctZ3lpc1ZJbklGWE96VkdOQjhPLUtDXzQwd3ZUaDBrZlg0YTNaYmRBNzBVa09IejFSbVoyYkphR1p6UlhudFhEbkozdTljVmZOY2NNcV9nX000dTd6RHBkN3dNalZ6OEtlV2tfZw?oc=5",
+          "publishedAt": "2026-07-18T18:57:00.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. Shakira Fan 🦋 (shakirra_fan); 4. Sonicallygifted (sonicallygifted)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-18T23:31:48.754Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "eddb41becce0",
+          "headline": "TikTok’s ‘mosquito serial killer’ goes viral for bizarre experiments and notebook of victims",
+          "blurb": "TikTok user Fatsocat is being compared to Dexter after subjecting mosquitoes to bizarre experiments and taping dozens of his “victims” into a notebook.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/tiktok/tiktoks-mosquito-serial-killer-goes-viral-for-bizarre-experiments-and-notebook-of-victims-3388824/",
+          "publishedAt": "2026-07-18T20:33:34.000Z",
+          "importance": 64,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/18/mosquito-serial-killer-tiktok.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "01fcdb2a0c66",
+          "headline": "Messi bathed Yamal as a baby and now they’re set to face off in World Cup Final",
+          "blurb": "Argentina captain Lionel Messi is set to face Spain’s Lamine Yamal in the World Cup final after being photographed with him as a baby.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/messi-bathed-yamal-as-a-baby-and-now-theyre-set-to-face-off-in-world-cup-final-3388809/",
+          "publishedAt": "2026-07-18T20:14:14.000Z",
+          "importance": 56,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/18/messi-yamal.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "5063721564e0",
+          "headline": "Paint Or Seek codes (July 2026)",
+          "blurb": "Here are the latest Paint Or Seek codes for July 2026, featuring free Coins and Effect Crates for your collection.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/roblox/paint-or-seek-codes-3388797/",
+          "publishedAt": "2026-07-18T19:03:52.000Z",
+          "importance": 48,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/18/Roblox-Paint-Or-Seek-codes.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "0e765037d1cc",
+          "headline": "Man arrested after surfing naked on top of moving train",
+          "blurb": "A man has been arrested for surfing naked on top of a moving train and the sheriff’s office responsible for his arrest are seeing the funny side.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/man-arrested-after-surfing-naked-on-top-of-moving-train-3388795/",
+          "publishedAt": "2026-07-18T18:42:14.000Z",
+          "importance": 40,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/18/Train-Surf-2.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "ef371a83665b",
+          "headline": "Kai Cenat sued over alleged bodyguard attack at Dominican Day Parade",
+          "blurb": "Kai Cenat has been hit with another lawsuit involving his security, with a man claiming the streamer’s bodyguard attacked him without provocation.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/kai-cenat-sued-over-alleged-bodyguard-attack-at-dominican-day-parade-3388803/",
+          "publishedAt": "2026-07-18T18:30:34.000Z",
+          "importance": 32,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/18/kai-cenat-domican-parade-2025.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "97d8a7ddd631",
+          "headline": "Atlantic’s largest ever male great white shark emerges near busy East coast vacation spot",
+          "blurb": "The largest male great white shark ever tagged in the Atlantic Ocean recently reappeared near a bustling East coast tourist destination.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/largest-ever-male-great-white-shark-emerges-near-busy-east-coast-vacation-spot-3388788/",
+          "publishedAt": "2026-07-18T17:10:57.000Z",
+          "importance": 24,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/28/shark.jpg?width=1080&quality=75&format=auto"
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "679d78328239",
+          "headline": "Aaron Judge transferred to 60-day IL, will need another scan",
+          "blurb": "Sidelined since May 31, superstar outfielder Aaron Judge, 34, will need another scan before a major ramp-up of activity while his fractured rib heals, and the New York Yankees moved their captain to the 60-day injured list on Saturday afternoon.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49394737/aaron-judge-transferred-60-day-il-need-another-scan",
+          "publishedAt": "2026-07-18T23:26:13.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0718/r1691035_600x600_1-1.jpg"
+        },
+        {
+          "id": "102ac45c0513",
+          "headline": "Schwarber, Turner and Luzardo lead the Phillies to a 6-1 victory over the Mets",
+          "blurb": "— Kyle Schwarber hit his major league-leading 33rd home run, fellow All-Star Jesús Luzardo allowed two hits in five strong innings and the Philadelphia Phillies defeated the New York Mets 6-1 on Saturday.",
+          "source": "ESPN MLB",
+          "url": "http://www.espn.com/mlb/recap?gameId=401816158",
+          "publishedAt": "2026-07-18T23:21:30.000Z",
+          "importance": 72,
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816158.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "fe5d762feafc",
+          "headline": "San Diego Padres vs. Kansas City Royals: Game Highlights",
+          "blurb": "San Diego Padres vs. Kansas City Royals: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49394729/game-highlights",
+          "publishedAt": "2026-07-18T23:18:43.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0718/c711c5f3-2366-4dcd-9c1d-e4a3091417e1/c711c5f3-2366-4dcd-9c1d-e4a3091417e1.jpg"
+        },
+        {
+          "id": "892c16f8eff7",
+          "headline": "Nimmo delivers go-ahead, 2-run single in 6th inning and drives in 3 as Rangers edge Braves 7-6",
+          "blurb": "— Brandon Nimmo's two-run single in the sixth inning gave Texas the lead as the Rangers rallied from an early deficit to beat the Atlanta Braves 7-6 on Saturday in a matchup of...",
+          "source": "ESPN MLB",
+          "url": "http://www.espn.com/mlb/recap?gameId=401816161",
+          "publishedAt": "2026-07-18T23:17:32.000Z",
+          "importance": 56,
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816161.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "cd02eb3817b4",
+          "headline": "St. Louis Cardinals vs. Arizona Diamondbacks: Game Highlights",
+          "blurb": "St. Louis Cardinals vs. Arizona Diamondbacks: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49394649/game-highlights",
+          "publishedAt": "2026-07-18T23:13:08.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0718/8e4923f1-8e4f-4062-8272-c02d91808e54/8e4923f1-8e4f-4062-8272-c02d91808e54.jpg"
+        },
+        {
+          "id": "36824fd91286",
+          "headline": "Texas Rangers vs. Atlanta Braves: Game Highlights",
+          "blurb": "Texas Rangers vs. Atlanta Braves: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49394680/game-highlights",
+          "publishedAt": "2026-07-18T23:12:27.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0718/264a806f-9501-4e05-839d-b0f0d87c2b91/264a806f-9501-4e05-839d-b0f0d87c2b91.jpg"
+        },
+        {
+          "id": "ca2aa6c70966",
+          "headline": "Boston Celtics vs. Orlando Magic: Game Highlights",
+          "blurb": "Boston Celtics vs. Orlando Magic: Game Highlights",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/video/clip/_/id/49394257/game-highlights",
+          "publishedAt": "2026-07-18T22:38:25.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0718/4f1f89b9-c56c-4a85-a8b3-c0a42b3e30c3/4f1f89b9-c56c-4a85-a8b3-c0a42b3e30c3.jpg"
+        },
+        {
+          "id": "e08c20039c09",
+          "headline": "Sources: Moussa Cisse agrees to Knicks' 2-year offer sheet",
+          "blurb": "Restricted free agent Moussa Cisse has agreed to a two-year contract offer sheet with the New York Knicks, leaving the Mavericks 48 hours to match.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49392591/sources-moussa-cisse-agrees-knicks-2-year-offer-sheet",
+          "publishedAt": "2026-07-18T22:27:51.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0718/r1690893_600x400_3-2.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "600abfd6ba71",
+          "headline": "SQLite Query Explainer",
+          "blurb": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
+          "publishedAt": "2026-07-18T17:19:10.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "73c5f10966fb",
+          "headline": "Claude make Fable 5 permanent",
+          "blurb": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+          "publishedAt": "2026-07-18T06:00:13.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "1547a9b1ab9e",
+          "headline": "nascheme/quixote",
+          "blurb": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/quixote/",
+          "publishedAt": "2026-07-18T05:27:49.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "54aaf0c95ed4",
+          "headline": "Quoting Kimi K3",
+          "blurb": "Is there something I can actually help you with today? — Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/",
+          "publishedAt": "2026-07-17T13:43:53.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "e47e604997f1",
+          "headline": "LLM cliché highlighter",
+          "blurb": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing. Tags: tools , ai , generative-ai , llms",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/",
+          "publishedAt": "2026-07-17T12:11:11.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "3ebda52fc80e",
+          "headline": "A scorecard for the AI age",
+          "blurb": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "publishedAt": "2026-07-17T10:00:00.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "6cbe833a33e6",
+          "headline": "Spot birds not golf",
+          "blurb": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billion gallons in 2025 , so about 30 million gallons per day. The Coachella Valley has 120 golf courses e",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/",
+          "publishedAt": "2026-07-17T02:58:07.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "6115bdae58b2",
+          "headline": "Firefox in WebAssembly",
+          "blurb": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They chose Firefox/Gecko because it has strong single-process support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took advantage of a Claude Max s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/",
+          "publishedAt": "2026-07-16T23:34:16.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "490011935edb",
+          "headline": "Ill-disciplined England beat Argentina in thriller after controversial late TMO call",
+          "blurb": "England hold on to beat Argentina in a chaotic match in the Nations Championship after the hosts have a last-gasp try controversially ruled out in Santiago del Estero.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cn4ny04qnv0o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T21:52:55.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da71/live/afedbfd0-82ed-11f1-a54c-d7b64e5e84c2.jpg"
+        },
+        {
+          "id": "b87ddaad8457",
+          "headline": "Northants claim third T20 Blast title after beating Hants",
+          "blurb": "Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c1m191jkkm3o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T21:41:54.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13cd/live/6b0d8cf0-82f3-11f1-b2a8-97a80a3a9f99.jpg"
+        },
+        {
+          "id": "239300016ef2",
+          "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
+          "blurb": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T21:12:28.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg"
+        },
+        {
+          "id": "082fc20652f4",
+          "headline": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+          "blurb": "A spokesperson for the incoming prime minister says his Government would “put its focus where people need it right now”.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T20:15:26.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d5/live/98b78d40-82df-11f1-ae6b-3189bc758570.jpg"
+        },
+        {
+          "id": "a07db62a98af",
+          "headline": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+          "blurb": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+          "publishedAt": "2026-07-18T20:06:35.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "4e7115a325e4",
+          "headline": "Fleetwood still dreaming as Burns leads an open Open",
+          "blurb": "Local favourite Tommy Fleetwood is five shots behind Open leader Sam Burns after two late bogeys threaten to crush his Birkdale dreams.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T19:54:33.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/514b/live/c6cf0fe0-82e0-11f1-ae6b-3189bc758570.jpg"
+        },
+        {
+          "id": "14ad6da7433c",
+          "headline": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
+          "blurb": "George Russell says a \"serious issue\" with the straight-line performance of his Mercedes is making his title fight with Kimi Antonelli \"impossible\".",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T19:10:27.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe35/live/e1e4e510-82d7-11f1-a7b7-31e12e116164.jpg"
+        },
+        {
+          "id": "6fb4f7c80833",
+          "headline": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
+          "blurb": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+          "publishedAt": "2026-07-18T18:15:42.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "f6a4dca05a12",
+          "headline": "What's the deal with Scott Galloway pod suddenly always being referenced on Reddit?",
+          "blurb": "What's the deal with Scott Galloway pod suddenly always being referenced on Reddit?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v00hfz/whats_the_deal_with_scott_galloway_pod_suddenly/",
+          "publishedAt": "2026-07-18T16:33:12.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "f6dffac9ec69",
+          "headline": "What’s going on with Indian politics today?",
+          "blurb": "What’s going on with Indian politics today?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1uzzvte/whats_going_on_with_indian_politics_today/",
+          "publishedAt": "2026-07-18T16:09:13.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "4f83159e233e",
+          "headline": "A poster at CPAC promoting a third term for Trump",
+          "blurb": "A poster at CPAC promoting a third term for Trump",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/pics/comments/1v00rk5/a_poster_at_cpac_promoting_a_third_term_for_trump/",
+          "publishedAt": "2026-07-18T16:44:04.000Z",
+          "importance": 64,
+          "imageUrl": "https://preview.redd.it/lx5ms1emo0eh1.jpeg?width=640&crop=smart&auto=webp&s=d64d3a1b834cb9c1bdafd04d6c1ec194f6f1a5e9"
+        },
+        {
+          "id": "54b138781111",
+          "headline": "She is 10 years cancer free now!",
+          "blurb": "She is 10 years cancer free now!",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/MadeMeSmile/comments/1uzzj0q/she_is_10_years_cancer_free_now/",
+          "publishedAt": "2026-07-18T15:55:28.000Z",
+          "importance": 56,
+          "imageUrl": "https://preview.redd.it/9n160tlyf0eh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=07839c7d71ff5e73ecf7977ba0eac6ddd4215684"
+        },
+        {
+          "id": "df0c4cb977ce",
+          "headline": "'Corny On The Bob' A Rising TikTok Meme Thanks To This TikToker's Excellent Meal Showcase Videos",
+          "blurb": "Corny On the Bob refers to a series of memes and video edits of TikToker Patty Miller (@pattyzapfemiller) calling corn and corn on the cob \"corny on the bob\" while showing off what she's eating for her meals. Videos of Patty calling corn on the cob \"corny on the bob,\" and calling corn off the cob \"corny off the bob,\" date back as early as May 2025. Clips of her using the term were popularized as t",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/corny-on-the-bob",
+          "publishedAt": "2026-07-17T20:52:36.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "84044b8a5faf",
+          "headline": "For Over A Decade, This 'Billy Madison' Scene Has Been A Popular Reaction Meme For Adults Who Love Kids' Movies",
+          "blurb": "Adam Sandler Sitting With Kids or Billy Madison Sitting In First Grade Classroom is a reaction image and exploitable image macro meme format based on a scene from the 1995 Adam Sandler film Billy Madison where Billy Madison sits in his first-grade classroom for story time, surrounded by his classmates, children. The image was first used as a reaction meme as early as 2014 and became increasingly p",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/adam-sandler-sitting-with-kids-billy-madison",
+          "publishedAt": "2026-07-17T19:23:34.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "18431e3f0c83",
+          "headline": "The First 'If X Has a Million Fans, I'm One of Them' Meme Was Shared On Facebook 13 Years Ago Today",
+          "blurb": "If X Has a Million Fans, I'm One of Them is a copypasta and phrasal template in which a diehard fan of a famous person declares that they will remain their fan to their very last breath even if the entire world turns against that person. Spread as a copypasta about football player Cristiano Ronaldo on Facebook since 2013, the copypasta later gained virality in Twitch chat spam, and later with a ve",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/if-x-has-a-million-fans-im-one-of-them",
+          "publishedAt": "2026-07-17T19:01:03.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "3d0d2eb49949",
+          "headline": "The 'We'll Drive A Funky Ehhh' Meme Explained",
+          "blurb": "we'll drive a funky ehhh 🥀",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/videos/439523-well-drive-a-funky-ehh",
+          "publishedAt": "2026-07-17T18:42:21.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "markets",
+      "title": "Markets",
+      "stories": [
+        {
+          "id": "ebd210903ce3",
+          "headline": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+          "blurb": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
+          "source": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
+          "publishedAt": "2026-07-17T14:13:49.000Z",
+          "importance": 80,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "651563ed5e9f",
+          "headline": "The Odyssey streaming release date window: When will it be on Peacock, Netflix, Blu-ray, and DVD?",
+          "blurb": "The Odyssey is selling out IMAX screenings, but when will it come to streaming (Peacock and Netflix), Blu-ray, and DVD? Here's what we know.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-odyssey-streaming-release-date-peacock-netflix/",
+          "publishedAt": "2026-07-18T22:00:12.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-18.jpg"
+        },
+        {
+          "id": "47f010249cb7",
+          "headline": "AetherCycle - Official Early Access Release Window Trailer",
+          "blurb": "AetherCycle - Official Early Access Release Window Trailer",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v088am/aethercycle_official_early_access_release_window/",
+          "publishedAt": "2026-07-18T21:41:59.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "0a772597f53a",
+          "headline": "The Best Deals Today: PNY RTX 5070 OC, Apple AirPods 4, The Dark Knight Trilogy, and More",
+          "blurb": "The Best Deals Today: PNY RTX 5070 OC, Apple AirPods 4, The Dark Knight Trilogy, and More",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/best-deals-for-july-18-2026",
+          "publishedAt": "2026-07-18T21:19:06.000Z",
+          "importance": 64,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/18/daily-deals-7-18-26-1784409529664.png"
+        },
+        {
+          "id": "f24942411726",
+          "headline": "Steam Machine Engineers at Valve Signal Grim Future as Memory Crisis Is 'Still Getting Worse'",
+          "blurb": "Steam Machine engineers at Valve have warned the ongoing memory crisis in tech is \"still getting worse\" as buyers face already exorbitant prices.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/steam-machine-engineers-at-valve-signal-grim-future-as-memory-crisis-is-still-getting-worse",
+          "publishedAt": "2026-07-18T21:11:52.000Z",
+          "importance": 56,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/06/24/steammachinethumb-1782334335303.png"
+        },
+        {
+          "id": "cd1054ff1a4d",
+          "headline": "X-Men ‘97 Morph actor reveals the scope of the shapeshifter's powers and talks romance",
+          "blurb": "Actor and comedian JP Karliak takes on the the biggest questions about X-Men '97's shapeshifter, including his love for Wolverine",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/x-men-97-morph-interview-jp-karliak/",
+          "publishedAt": "2026-07-18T20:00:12.000Z",
+          "importance": 48,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/xmen-97-wolverine-and-morph.avif"
+        },
+        {
+          "id": "42ee469a89d5",
+          "headline": "Keepers of Vyrellia - Official Gameplay Trailer",
+          "blurb": "Keepers of Vyrellia - Official Gameplay Trailer",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v0594l/keepers_of_vyrellia_official_gameplay_trailer/",
+          "publishedAt": "2026-07-18T19:39:19.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "c7d7cc0033f4",
+          "headline": "Swords of Legends - Gameplay Preview",
+          "blurb": "Swords of Legends - Gameplay Preview",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v0509b/swords_of_legends_gameplay_preview/",
+          "publishedAt": "2026-07-18T19:29:29.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "61dbd8dd33b0",
+          "headline": "DREADMOOR - Official Demo Release Date Trailer",
+          "blurb": "DREADMOOR - Official Demo Release Date Trailer",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v04dw3/dreadmoor_official_demo_release_date_trailer/",
+          "publishedAt": "2026-07-18T19:04:57.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Drake – Shabang; 5. Yung Miami – Spend Dat; 6. Ella Langley – Be Her; 7. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 8. Morgan Wallen – 20 Cigarettes; 9. Drake, Future & Molly Santana – Ran To Atlanta; 10. Olivia Rodrigo – stupid song; 11. Future – Konnichiwa; 12. Future – California Girls; 13. Morg",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-18T23:32:05.481Z",
+          "importance": 80,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "25f9d84c5498",
+          "headline": "Clairo Shares “Losing Pride” Demo To Benefit Climate Justice",
+          "blurb": "Clairo hasn't released new music since her critically acclaimed 2024 LP Charm , but she's stayed busy. She's collaborated with Daniel Caesar , Smerz , Rostam , Ryan Beatty , and more; she's signed to Atlantic Records ; and she's offered updates on her forthcoming fourth album. Now, as raging Canadian wildfires prove the planet is becoming more inhospitable, the singer-songwriter is sharing a melan",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505688/clairo-shares-losing-pride-demo-to-benefit-climate-justice/music/",
+          "publishedAt": "2026-07-18T17:55:16.000Z",
+          "importance": 72,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/a1041141771_10.jpg?w=564"
+        },
+        {
+          "id": "b16a065df9a3",
+          "headline": "Pavement Return To The Road With A Very Unserious “Stairway” Cover",
+          "blurb": "Oakland, CA's Mosswood Meltdown has expanded to a three-day event for 2026, and last night it kicked off with a Pre-Party featuring Christina's Trip, Memo PST, Vivian Girls, Wednesday, and headliners Pavement. It was the '90s indie icons' first show since November, so we're now in the fifth calendar year of their second reunion era. The post Pavement Return To The Road With A Very Unserious “Stair",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505676/pavement-return-to-the-road-with-a-very-unserious-stairway-cover/news/",
+          "publishedAt": "2026-07-18T16:40:11.000Z",
+          "importance": 64,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/pavement.jpg?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "4faf0c553ba0",
+          "headline": "Gap in Mochizuki's proof of ABC confirmed by Lean",
+          "blurb": "10 points, 1 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://twitter.com/FumiharuKato/status/2078017230537892207",
+          "publishedAt": "2026-07-18T22:19:37Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "a20309c6ae08",
+          "headline": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "blurb": "50 points, 26 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "publishedAt": "2026-07-18T22:13:39Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "35c5567898a4",
+          "headline": "Judge a book by its first pages",
+          "blurb": "19 points, 15 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://uncovered.ink/",
+          "publishedAt": "2026-07-18T22:02:31Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "dc41641ba918",
+          "headline": "Classic Amiga titles, free to download",
+          "blurb": "13 points, 1 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://amigafreeware.downer.tech/",
+          "publishedAt": "2026-07-18T21:55:27Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "603bdbc95384",
+          "headline": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+          "blurb": "33 points, 26 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.neatnik.net/hardcore-indieweb",
+          "publishedAt": "2026-07-18T21:45:12Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "557ee0dfceda",
+          "headline": "Typing Speed Test, but for Developers",
+          "blurb": "75 points, 42 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://haxxorwpm.0s.is/",
+          "publishedAt": "2026-07-18T19:38:21Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "24cd97b35407",
+          "headline": "The Kimi K3 Moment",
+          "blurb": "252 points, 273 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+          "publishedAt": "2026-07-18T17:32:40Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "f46843f2f4d9",
+          "headline": "Goodbye, and Thanks for All the Bikesheds",
+          "blurb": "171 points, 175 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://queue.acm.org/detail.cfm?id=3818307",
+          "publishedAt": "2026-07-18T17:27:24Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 243
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 829
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 294
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1039
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 11
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 4
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 29
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": true,
+      "items": 5
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": true,
+      "items": 11
+    }
+  ]
+}
