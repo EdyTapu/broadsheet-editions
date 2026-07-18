@@ -4,7 +4,7 @@
   "date": "2026-07-18",
   "slot": "morning",
   "slotTitle": "Morning Edition",
-  "generatedAt": "2026-07-18T07:35:30.410Z",
+  "generatedAt": "2026-07-18T07:37:28.265Z",
   "editorial": "fallback",
   "masthead": {
     "tagline": "The morning edition, assembled without its editor.",
@@ -18,10 +18,10 @@
   },
   "frontPage": {
     "lead": {
-      "storyId": "db3b9cf15af4",
-      "headline": "Burnham to announce plans for new North Sea oil and gas drilling",
+      "storyId": "bcb2b11990b6",
+      "headline": "US strikes hit Iran for seventh consecutive night",
       "kicker": "news",
-      "blurb": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licenses."
+      "blurb": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit."
     },
     "secondaries": [
       {
@@ -34,7 +34,7 @@
         "storyId": "3ba8e5950852",
         "headline": "Regressive JPEGs",
         "kicker": "tech",
-        "blurb": "125 points, 5 comments on Hacker News"
+        "blurb": "131 points, 6 comments on Hacker News"
       },
       {
         "storyId": "c67e3b7f68b2",
@@ -71,41 +71,41 @@
         "kicker": "markets"
       },
       {
+        "storyId": "bb2728de516a",
+        "headline": "Rooney, Hart and Richards row down Hudson River",
+        "kicker": "news"
+      },
+      {
+        "storyId": "eefb445ceee8",
+        "headline": "Watch: Helicopters dump water as huge Norway fire destroys homes",
+        "kicker": "news"
+      },
+      {
+        "storyId": "db3b9cf15af4",
+        "headline": "Burnham to announce plans for new North Sea oil and gas drilling",
+        "kicker": "news"
+      },
+      {
         "storyId": "16876845de31",
         "headline": "U.S. and Iran escalate strikes across Mideast",
-        "kicker": "news"
-      },
-      {
-        "storyId": "1ed149e757c7",
-        "headline": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-        "kicker": "news"
-      },
-      {
-        "storyId": "1547a9b1ab9e",
-        "headline": "nascheme/quixote",
-        "kicker": "ai"
-      },
-      {
-        "storyId": "797d554d7d3c",
-        "headline": "Conman targeted the elderly to defraud them out of millions",
         "kicker": "news"
       }
     ]
   },
   "markets": {
-    "asOf": "2026-07-18T07:35:30.410Z",
+    "asOf": "2026-07-18T07:37:28.265Z",
     "tickers": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price": 63964,
-        "changePct": 1.71
+        "price": 63966,
+        "changePct": 1.75
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price": 1843.67,
-        "changePct": 0.84
+        "price": 1843.86,
+        "changePct": 0.93
       }
     ],
     "note": "Ticker data below; the editor was unavailable for commentary."
@@ -121,7 +121,7 @@
           "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. Shakira Fan 🦋 (shakirra_fan); 4. Sonicallygifted (sonicallygifted)",
           "source": "Tokchart",
           "url": "https://tokchart.com/",
-          "publishedAt": "2026-07-18T07:32:28.194Z",
+          "publishedAt": "2026-07-18T07:37:29.797Z",
           "importance": 80,
           "imageUrl": null
         },
@@ -348,22 +348,22 @@
           "imageUrl": null
         },
         {
+          "id": "70bfceb83de9",
+          "headline": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+          "blurb": "171 points, 98 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+          "publishedAt": "2026-07-17T21:22:53Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
           "id": "3ebda52fc80e",
           "headline": "A scorecard for the AI age",
           "blurb": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
           "source": "OpenAI",
           "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
           "publishedAt": "2026-07-17T10:00:00.000Z",
-          "importance": 32,
-          "imageUrl": null
-        },
-        {
-          "id": "6cbe833a33e6",
-          "headline": "Spot birds not golf",
-          "blurb": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billion gallons in 2025 , so about 30 million gallons per day. The Coachella Valley has 120 golf courses e",
-          "source": "Simon Willison",
-          "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/",
-          "publishedAt": "2026-07-17T02:58:07.000Z",
           "importance": 24,
           "imageUrl": null
         }
@@ -374,13 +374,43 @@
       "title": "News & Politics",
       "stories": [
         {
+          "id": "bcb2b11990b6",
+          "headline": "US strikes hit Iran for seventh consecutive night",
+          "blurb": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T07:33:40.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "bb2728de516a",
+          "headline": "Rooney, Hart and Richards row down Hudson River",
+          "blurb": "Wayne Rooney rows down the Hudson River with fellow BBC pundits Joe Hart and Micah Richards.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3w0p810dj9o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T07:30:11.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5afb/live/7591bb00-8277-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "eefb445ceee8",
+          "headline": "Watch: Helicopters dump water as huge Norway fire destroys homes",
+          "blurb": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-18T07:13:07.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8a/live/8eae9040-8277-11f1-8d6f-59537052d5b3.jpg"
+        },
+        {
           "id": "db3b9cf15af4",
           "headline": "Burnham to announce plans for new North Sea oil and gas drilling",
           "blurb": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licenses.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss",
           "publishedAt": "2026-07-18T06:53:04.000Z",
-          "importance": 80,
+          "importance": 56,
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30c/live/c032d1a0-8270-11f1-b976-0b9c15b0ccfc.jpg"
         },
         {
@@ -390,7 +420,7 @@
           "source": "NPR",
           "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
           "publishedAt": "2026-07-18T06:01:20.000Z",
-          "importance": 72,
+          "importance": 48,
           "imageUrl": null
         },
         {
@@ -400,7 +430,7 @@
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
           "publishedAt": "2026-07-18T05:58:48.000Z",
-          "importance": 64,
+          "importance": 40,
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/ad78f910-825a-11f1-9346-85db1a1d6a02.jpg"
         },
         {
@@ -410,7 +440,7 @@
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c2d89kjkkwlo?at_medium=RSS&at_campaign=rss",
           "publishedAt": "2026-07-18T05:18:49.000Z",
-          "importance": 56,
+          "importance": 32,
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e76/live/9d101250-43af-11f1-9d89-8526d1435c1c.jpg"
         },
         {
@@ -420,38 +450,8 @@
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
           "publishedAt": "2026-07-18T05:10:44.000Z",
-          "importance": 48,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e6b/live/dfb70ca0-81e7-11f1-b976-0b9c15b0ccfc.png"
-        },
-        {
-          "id": "aba93ce3b61d",
-          "headline": "Lib Dems urge FA and Uefa to withdraw from Fifa",
-          "blurb": "Sir Ed Davey says Gianni Infantino and world football's governing body is \"destroying the integrity of the beautiful game\".",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ce3qw4lq1d7o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-18T05:02:37.000Z",
-          "importance": 40,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00b0/live/b222e5d0-821d-11f1-b966-41edf3b346b4.jpg"
-        },
-        {
-          "id": "34071af0179b",
-          "headline": "The Papers: 'The Burn supremacy' and 'Spice up your wife'",
-          "blurb": "Britian's new prime minister Andy Burnham is the main focus of Saturday's papers.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwyq978dxwqo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-18T04:45:26.000Z",
-          "importance": 32,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5c/live/d2cafc90-8232-11f1-926f-c90d1bcfbc84.jpg"
-        },
-        {
-          "id": "bcb2b11990b6",
-          "headline": "US strikes hit Iran for seventh consecutive night",
-          "blurb": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-18T04:40:11.000Z",
           "importance": 24,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg"
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e6b/live/dfb70ca0-81e7-11f1-b976-0b9c15b0ccfc.png"
         }
       ]
     },
@@ -594,10 +594,10 @@
         {
           "id": "9353086b3b87",
           "headline": "Steam most played today",
-          "blurb": "1. Counter-Strike 2 (1,275,982 peak); 2. PUBG: BATTLEGROUNDS (732,248 peak); 3. Dota 2 (635,321 peak); 4. Wallpaper Engine (111,342 peak); 5. Apex Legends™ (284,062 peak); 6. Slay the Spire 2 (196,023 peak); 7. R.E.P.O. (94,560 peak); 8. Grand Theft Auto V Legacy (98,540 peak); 9. FiveM (192,252 peak); 10. Geometry Dash (68,410 peak)",
+          "blurb": "1. Counter-Strike 2 (1,275,982 peak); 2. PUBG: BATTLEGROUNDS (732,248 peak); 3. Dota 2 (635,321 peak); 4. Wallpaper Engine (111,342 peak); 5. Apex Legends™ (284,062 peak); 6. Slay the Spire 2 (196,023 peak); 7. R.E.P.O. (94,560 peak); 8. Grand Theft Auto V Version originale (98,540 peak); 9. FiveM (192,252 peak); 10. Geometry Dash (68,410 peak)",
           "source": "Steam Most Played",
           "url": "https://store.steampowered.com/charts/mostplayed",
-          "publishedAt": "2026-07-18T07:32:29.083Z",
+          "publishedAt": "2026-07-18T07:37:30.667Z",
           "importance": 56,
           "imageUrl": null
         },
@@ -653,7 +653,7 @@
           "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Ella Langley – Be Her; 5. Drake – Shabang; 6. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 7. Yung Miami – Spend Dat; 8. Morgan Wallen – 20 Cigarettes; 9. Olivia Rodrigo – stupid song; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Future – California Girls; 12. Future – Konnichiwa; 13. Aria",
           "source": "Apple Music Top 25",
           "url": "https://music.apple.com/us/room/6459306033",
-          "publishedAt": "2026-07-18T07:32:28.561Z",
+          "publishedAt": "2026-07-18T07:37:30.664Z",
           "importance": 80,
           "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
         },
@@ -736,7 +736,7 @@
         {
           "id": "3ba8e5950852",
           "headline": "Regressive JPEGs",
-          "blurb": "125 points, 5 comments on Hacker News",
+          "blurb": "131 points, 6 comments on Hacker News",
           "source": "Hacker News",
           "url": "https://maurycyz.com/projects/bad_jpeg/",
           "publishedAt": "2026-07-18T03:14:20Z",
@@ -746,7 +746,7 @@
         {
           "id": "6db357dfc79c",
           "headline": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-          "blurb": "46 points, 13 comments on Hacker News",
+          "blurb": "47 points, 13 comments on Hacker News",
           "source": "Hacker News",
           "url": "https://moonstone.sh/",
           "publishedAt": "2026-07-18T01:18:15Z",
@@ -786,7 +786,7 @@
         {
           "id": "e2ba394be362",
           "headline": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "blurb": "481 points, 307 comments on Hacker News",
+          "blurb": "482 points, 307 comments on Hacker News",
           "source": "Hacker News",
           "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
           "publishedAt": "2026-07-17T22:26:30Z",
@@ -804,12 +804,12 @@
           "imageUrl": null
         },
         {
-          "id": "70bfceb83de9",
-          "headline": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-          "blurb": "170 points, 97 comments on Hacker News",
+          "id": "3b8a70c80fcd",
+          "headline": "Open Book Touch: open-source e-reader",
+          "blurb": "95 points, 34 comments on Hacker News",
           "source": "Hacker News",
-          "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-          "publishedAt": "2026-07-17T21:22:53Z",
+          "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+          "publishedAt": "2026-07-17T20:47:57Z",
           "importance": 24,
           "imageUrl": null
         }
@@ -818,10 +818,10 @@
   ],
   "sourceHealth": [
     {
-      "source": "MacRumors",
-      "category": "tech",
+      "source": "Alpha Vantage",
+      "category": "markets",
       "ok": true,
-      "items": 20
+      "items": 0
     },
     {
       "source": "9to5Mac",
@@ -836,8 +836,20 @@
       "items": 20
     },
     {
-      "source": "Hacker News",
+      "source": "MacRumors",
       "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 243
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
       "ok": true,
       "items": 30
     },
@@ -848,46 +860,11 @@
       "items": 8
     },
     {
-      "source": "Simon Willison",
-      "category": "ai",
-      "ok": true,
-      "items": 30
-    },
-    {
       "source": "Import AI",
       "category": "ai",
-      "ok": true,
-      "items": 20
-    },
-    {
-      "source": "OpenAI",
-      "category": "ai",
-      "ok": true,
-      "items": 1039
-    },
-    {
-      "source": "Anthropic",
-      "category": "ai",
-      "ok": true,
-      "items": 243
-    },
-    {
-      "source": "Google DeepMind",
-      "category": "ai",
-      "ok": true,
-      "items": 100
-    },
-    {
-      "source": "Hugging Face",
-      "category": "ai",
-      "ok": true,
-      "items": 829
-    },
-    {
-      "source": "HN · AI",
-      "category": "ai",
-      "ok": true,
-      "items": 11
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
     },
     {
       "source": "arXiv cs.AI",
@@ -896,22 +873,28 @@
       "items": 294
     },
     {
-      "source": "NPR",
-      "category": "news",
+      "source": "Hugging Face",
+      "category": "ai",
       "ok": true,
-      "items": 10
+      "items": 829
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
     },
     {
       "source": "BBC News",
       "category": "news",
       "ok": true,
-      "items": 40
+      "items": 41
     },
     {
-      "source": "The Guardian",
-      "category": "news",
+      "source": "HN · AI",
+      "category": "ai",
       "ok": true,
-      "items": 45
+      "items": 11
     },
     {
       "source": "Google News",
@@ -926,10 +909,10 @@
       "items": 6
     },
     {
-      "source": "ESPN NBA",
-      "category": "sports",
+      "source": "NPR",
+      "category": "news",
       "ok": true,
-      "items": 6
+      "items": 10
     },
     {
       "source": "ESPN MLB",
@@ -944,13 +927,13 @@
       "items": 6
     },
     {
-      "source": "MLB scores",
+      "source": "MLS scores",
       "category": "sports",
       "ok": true,
       "items": 1
     },
     {
-      "source": "MLS scores",
+      "source": "MLB scores",
       "category": "sports",
       "ok": true,
       "items": 1
@@ -968,14 +951,20 @@
       "items": 0
     },
     {
-      "source": "Tokchart",
-      "category": "tiktok",
+      "source": "The Guardian",
+      "category": "news",
       "ok": true,
-      "items": 1
+      "items": 45
     },
     {
-      "source": "Google News · TikTok",
-      "category": "tiktok",
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
       "ok": true,
       "items": 100
     },
@@ -986,16 +975,16 @@
       "items": 50
     },
     {
-      "source": "r/OutOfTheLoop",
-      "category": "internet",
+      "source": "CoinGecko",
+      "category": "markets",
       "ok": true,
-      "items": 6
+      "items": 0
     },
     {
-      "source": "r/all",
-      "category": "internet",
+      "source": "OpenAI",
+      "category": "ai",
       "ok": true,
-      "items": 25
+      "items": 1039
     },
     {
       "source": "Know Your Meme",
@@ -1010,34 +999,28 @@
       "items": 30
     },
     {
-      "source": "CoinGecko",
-      "category": "markets",
-      "ok": true,
-      "items": 0
-    },
-    {
-      "source": "Alpha Vantage",
-      "category": "markets",
-      "ok": true,
-      "items": 0
-    },
-    {
-      "source": "Steam Most Played",
-      "category": "gaming",
-      "ok": true,
-      "items": 1
-    },
-    {
       "source": "Steam Top Sellers",
       "category": "gaming",
       "ok": true,
       "items": 1
     },
     {
-      "source": "r/Games",
-      "category": "gaming",
+      "source": "Pitchfork",
+      "category": "music",
       "ok": true,
-      "items": 25
+      "items": 29
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
     },
     {
       "source": "IGN",
@@ -1052,18 +1035,6 @@
       "items": 10
     },
     {
-      "source": "Apple Music Top 25",
-      "category": "music",
-      "ok": true,
-      "items": 1
-    },
-    {
-      "source": "Pitchfork",
-      "category": "music",
-      "ok": true,
-      "items": 29
-    },
-    {
       "source": "Stereogum",
       "category": "music",
       "ok": true,
@@ -1074,6 +1045,36 @@
       "category": "_weather",
       "ok": true,
       "items": 0
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": true,
+      "items": 25
     }
   ]
 }
