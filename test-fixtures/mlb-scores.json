@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "title": "MLB scoreboard",
+      "summary": "BOS 10 – TB 0 (F); NYY 1 – LAD 2 (F); CLE 0 – PIT 0 (Postponed); BOS 5 – TB 3 (F); TOR 4 – CHW 12 (F); ATL 15 – TEX 1 (F); MIL 2 – MIA 1 (F); CHC 2 – MIN 5 (F); HOU 2 – BAL 3 (F); KC 7 – SD 6 (F); COL 2 – CIN 7 (F); LAA 1 – DET 2 (F); ARI 4 – STL 5 (F); ATH 4 – WSH 23 (F); SEA 0 – SF 7 (F)",
+      "url": "https://www.espn.com/mlb/scoreboard",
+      "publishedAt": "2026-07-18T07:32:27.626Z",
+      "imageUrl": null,
+      "isChart": true
+    }
+  ]
+}

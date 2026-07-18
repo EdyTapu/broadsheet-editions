@@ -1,0 +1,19 @@
+{
+  "items": [],
+  "data": {
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 63964,
+        "changePct": 1.71
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1843.67,
+        "changePct": 0.84
+      }
+    ]
+  }
+}

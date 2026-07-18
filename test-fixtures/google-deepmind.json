@@ -1,0 +1,704 @@
+{
+  "items": [
+    {
+      "title": "Our approach to bioresilience",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "publishedAt": "2026-07-16T09:30:42.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "publishedAt": "2026-07-13T12:37:28.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "publishedAt": "2026-07-03T14:25:43.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "publishedAt": "2026-06-30T16:02:40.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "publishedAt": "2026-06-24T16:30:01.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "publishedAt": "2026-06-16T21:29:50.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "publishedAt": "2026-06-16T15:46:31.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "summary": "",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "publishedAt": "2026-06-10T16:24:11.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "publishedAt": "2026-06-10T10:21:19.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "publishedAt": "2026-06-09T15:16:25.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "publishedAt": "2026-06-09T14:10:19.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "summary": "",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "publishedAt": "2026-06-09T14:02:33.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "publishedAt": "2026-06-08T13:04:59.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "summary": "",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "publishedAt": "2026-05-21T19:46:42.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "publishedAt": "2026-05-18T18:21:39.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Xyt_1kwd_q4W4dKV0YND9MzHJF0UOGAYyZjfKEVQK0LoE2HC7i29ZnIG32Sd8RR1qj5iXEzbexg20aePXF5vLjYUB5vO_zdoqAZhKrSV4VVyce5VT1s=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "publishedAt": "2026-05-17T19:53:18.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "publishedAt": "2026-05-17T19:50:57.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "publishedAt": "2026-05-17T19:43:45.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "publishedAt": "2026-05-17T13:50:34.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "publishedAt": "2026-05-17T13:43:50.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "publishedAt": "2026-05-16T09:13:34.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Woiv_MqlJsgv6bSWD505JCSu936VdLLtR0y7Ev1wPWDmuhFK1SYxkpyU4N2vhSpSMl22NAtbxuZ1yFMHIcDFwABNZIgRtX0ccRXxWiBaHETRXUQEZQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "publishedAt": "2026-05-16T08:16:06.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/N1YiCxjf6dUaR3FRHJhNIw6EiWvYEIUrcRZqQJXAJK96qNIio-YlutelO-JQBcmWugKOGF4Cc5n_ugnggILDFXvfud-hTAb3qAQVED2NWcR9TW6azQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "publishedAt": "2026-05-16T08:08:44.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/B7CCW8x-V6U0PvCuF6-9V6Cm50m5gRG8SigI6yTMQYs-S7HpY_cKeGn8uLZrJom_0Wuok-iltNFic4I8Eel7riB7Dytm2k1_pytxTtvk-vrEIxw9pg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "publishedAt": "2026-05-16T08:00:15.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/BviYtfKhFkYTOW9MCZSU9GB3fFLNEupgc1ZynnxKJDiZqNVBaCN-1vtpF1H5e9vXubypNvruDDTrEMwuUEEHPiO4DeohPfocpIXVR7hdcolcP5WX3K4=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "publishedAt": "2026-05-16T07:53:11.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/fR4KAfFp4Ns7W90QSrwVipuPprhWP4kEnH-hYbP07bEryUBVGjCAm4yEgo6MRBZAhf6Hp6TTzA-z9EKXm7doG9A-hHTbL1IVeIcjtVg_8cI06LYf=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "publishedAt": "2026-05-16T07:40:27.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/WjgQH7IbetdRNwoNAOp7_2JAoHaEckFl7ph9ffhCEtEiGWqzonO9MtqdjOl3n_ZEIAb3uVQ3z-Hq3whlg3ob9lcx6vDOF5lb3MyTE1rIoAeX6peAhOM=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "publishedAt": "2026-05-16T03:14:17.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/iLgzjfK9faS-SQePs9fq0zjKGOVGpcyS0J0wQ3SS7llJjJhzz214LUtuy82bJIjweaMRiRWcLMDhPxdP1Z2VitCvWEQyMpY8xLFekP2RG255e2td=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "publishedAt": "2026-05-15T22:50:12.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "publishedAt": "2026-05-12T14:40:07.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/8kFWTjhROuwZK6kVFk-ol13YlKLABvppqzVl9LIhYyY3NP4Z8Y0i2ubSuVIfgmknluXTgYmTMAzRR21CxJPbgSK5m37ARzv26S8TPX5QhNWG6wq11Q=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "publishedAt": "2026-05-06T10:43:49.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/UNlyTVoqkmAoTzbbF4QRoPXr-X-QBkXeVpcHxIjte0y5mn_f6ZYHVsynQswOhGLJx-7hnbwt1NcTOQDQoCbum3-l8wPPP5dC6kw0tGmBQAw60nEHog=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "publishedAt": "2026-04-30T12:14:15.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/z2sN_eil5tgap-Ji1W_4l1xnbfLRghzxdXzyCMdnKFVW1xTfgm0o8bpg9pNwE4RcHTR2QGEGhGx7LFn7Q6bg-LEPBW20d4Djo3Erii8PBYYrWz36=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "publishedAt": "2026-04-27T07:00:06.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/3q6uiTEWOv5PKJQYWgYLxCgohyndMqdWTFiwFDbxSzk-tW0HeannPdF7kvqR2hmE_tvSeryfw4IvG7gwuZ11rBgIYGvapEQvHO9RRJXw4JCqyme6uA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "summary": "",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "publishedAt": "2026-04-22T10:20:03.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/1-K_kcmoX-fIzTJ13T0-uF4gylS2tK00ZVvx87B2WSayzUS2fxDoDDXFq5hOhxptrBeG8AbjG_URN5OOTpGMqad9zILjMsTdAHWroiDKpziBQjzErw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Partnering with industry leaders to accelerate AI transformation",
+      "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "publishedAt": "2026-04-21T14:54:15.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/t9KvGjgjHJMLDqzAzXuDUOXFI4IlnMiYLhRmxohCRvB1qGSr8-8-TDEI24qk8ilY4OzRB2et5dSlWOjMs6lm-R718xmtQwdiGBxOO7VjxBfMq4a3yoI=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "publishedAt": "2026-04-15T16:03:19.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/O9K0a0MXOACPhUzvThQiyTaWdZ95b_hS-foyHQcYMiCQCB5HKoBXYGyEjnsqcQEjHYjwfNVyqg4Ipk0G-fLiP9hd6JfbD9S-jx7ndLgImfZankCY-9I=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+      "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "publishedAt": "2026-04-13T15:52:13.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/bQ5TgF2iHJq48mxL5ZVxz3KGmIhOj7c62H7WEWrHqIWGrMexTYoqtrAhF8z12ESUeAj4miWZrHKF-SpMkXG3VVqNtzfJDBULlkMZZw06k05QLuHCww=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "publishedAt": "2026-04-02T16:00:49.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/dP82fYfjynerdo1ze8VAz5F-miu-ghwM9mrzzQoi_FDYVcG4lLTtb7id7b_IKbFVDuv9q765JG_dEWRJK8cFDrxfCeMpzjzvlj3kwqyZWA6zqt_ecw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Reimagining the mouse pointer for the AI era",
+      "summary": "Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "publishedAt": "2026-03-29T10:50:49.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/6ktOlNMbk7CGwt_Oyi8aCEfeSX1B2DJUnrMF5X9bmzo0MdX9AHqW3iCCGo4RUFX2_8eN_4U3Sam_3tnc8Q0uLK6dMmcC3j5aiAyFMe9AhwYaYF59KA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "publishedAt": "2026-03-26T15:23:35.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/X3xXSd8ns-IojsGTjvadPFyaBWT5bBGhubcQd_WSiIgQ9bESUPceaHtfOxwgYzwv3P-Gtz2r3sWs-1XFB5X72HuTMbVz30hqJCKOxBaQdq1Oq6895A=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Protecting people from harmful manipulation",
+      "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "publishedAt": "2026-03-25T16:46:20.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/IH7SOCSd4lrXu8YVkyRw45zg4Jc__pHM0SJlbDssVL3_5XjYGVYE1jt8DCiPgM9JGdwmdO_gYnQ4-QIo2l9Rz04l7KK4jAbsdAyWLriTV-iOC2_Y3bI=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "publishedAt": "2026-03-25T16:01:39.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/jcDZxU6wx4tQ5XBOVae89SPyssJfB24ifHGOA_pGrzdRp9SgP6q2vnx5rr6yeyr_nuFh6b3qHDQzqZFDB3ey-inIlXC2aEEXzUhr_Vy_9AuE7dPuSRs=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "summary": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+      "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "publishedAt": "2026-03-17T16:03:47.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/kOpPqSCIuZr9xSaOZM-eZl314VHQ80Nmv-PfUJgzGOaHU0KY08nNAahjcjoNWT4T_xy5DH6TfOCXwhgR6POERmrPoXnpCsN8J2LJPgoM01rO3nAWPg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "publishedAt": "2026-03-09T13:52:36.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/kKeug1hkQnNyG362692WROTmFRkJUTgZ3TnYbLZPTIbjvYL9np0UqAGJS0uxRhZLq_LSBOroG486f9RRLv0mKESv1RP-6JfEdI3SMXsEyeVTaXlnOEg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "publishedAt": "2026-03-03T16:35:55.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/L943nW-XsLGjzWrBOj8x7RhlajW6yigzhd8q45ia33L0uNyClu_XT600bTZevv5c2end6MZ5dFKekGXGMjfxIsYCdlqYlcnyNEmAy4Gd0B6Ovd6Z=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "publishedAt": "2026-02-26T16:01:50.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/uzAd6nlnEh3lSFyE5Ay-1tvY6xesJLBuPucsK64LfxUwhMk5odcsyH-pAaIKRDVh1PniKOsihrha1qqspCc2f3CgPv61TSgTReKWdUlPiavUkH3R8lM=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "publishedAt": "2026-02-19T16:06:14.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/bZ8aFD7yMP8ue-XfAwrEMPDLgVua4ThZvdZu9mFYcsQTk0QVfc_kd2ygbXCCmTOR6dTvw6FhCkzc55j7-rUW_cYHnsOzmPHrzzJqDLTCCrhnCrOQkg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "A new way to express yourself: Gemini can now create music",
+      "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+      "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+      "publishedAt": "2026-02-18T16:01:38.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/WaabCY2Z_smMKiEvzihBKsLEg8g8pNqP_TIy1il9bQGD1zbwwoyAjwawnHB5WRpqyeozc4kiNDFTJY1UTbvoia-FwMM8rI9LPVmt3ESbzKAcDf5j=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Accelerating discovery in India through AI-powered science and education",
+      "summary": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education",
+      "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+      "publishedAt": "2026-02-17T13:42:20.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/YElycD2T8J2GDnFczuvtRJbPHGUMWPZiT-sLhQdv0ngl9hX0-Y4-KsOWaQxpUuwBCLrjW0FnWncfwgVP6TySgyUPjqyqd7x4czAJbGrRvTlhiV87sA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "summary": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "publishedAt": "2026-02-12T16:15:09.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/RlrY06Cc3MLbXna5gqMdx9jpY1yDikXD5v5qOFSgfDsnXOR71u3s1_dh6hWimLrEybCkyGyqazG6UF2DWrK4F52tVpdaf9amz5R-ZgJQ7uogoSuo-g=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "summary": "Research papers point to the growing impact of Deep Think across fields",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "publishedAt": "2026-02-09T16:12:06.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/bbLVCxqhbnzzj_eIy29oKJigrlL6m4ewSwfCK-sNKVI0l1StFklsEADVPHXtTw9YorgOeIiQmM8vzmM3LBRyKu0pQeMHK4pzA_r4oIVjB_5dj8DU=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+      "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "publishedAt": "2026-01-29T17:01:05.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/g1e5YBOfHlTTVhsysCBrfpB_kVz2HZf2MUyvKmA_GkGPil0NridDLi-Iy5qz3EbmG_dB7OhzqEWUHsZMRTkb4bjtUPeFovOGi6zG1di9UTHFGDXLw7A=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "publishedAt": "2026-01-16T10:39:00.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/ozG6v7VcBOV2eYZ8TnGTAe1Z-7EjkNiBPHxdQEG1wy_F5QwRN_4IJ_jJYMNQiOMHEWyNMZg3tmC00bzGQX0IYfXHMVuoQS6OLptEV-H6CUpIOnWOaQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+      "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+      "publishedAt": "2026-01-13T17:00:18.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/PfhcT9uJ6J5kHhhqYkeW2gP7Ae-Oj74cyXy7rK9urd9IrVCTZcyF8poHTklbLZXYH4TTNJ22N-NgABm9hA_0AybulGLtmTQSA85OqKyWdThLc-S095s=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+      "summary": "Google 2025 recap: Research breakthroughs of the year",
+      "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+      "publishedAt": "2025-12-23T17:01:02.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/CKYdTuHZvo3suDXuWRQfFRfWZdWC3ahrFgIB7eTfGc1zJTcfwiFGNR9WEKRZHrpf8thov-uMXgW1fMYCcIot1NqvvmwBkZFhu7azK0sIlzr0tlBZ9A=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 3 Flash: frontier intelligence built for speed",
+      "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+      "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+      "publishedAt": "2025-12-17T11:58:17.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/6RPdrvGOHnyvo4twPwkjLRiZ37xYNnjBm6YyAp3Q52T-hJcOSNLzS7ErxFMV64G4Ir4yMLpKCxJ9amMQaNq01GpSwusn1i7JM1UVwQ47FqPuOCRUYg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+      "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+      "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+      "publishedAt": "2025-12-16T10:14:24.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/6xaDTQdD_X-XOnyaiOJyIeZrXSldI98ijQCzxNqtmlQvsl-Qy6B3qUQIbCnkY2Cfa2AV4hNwo7UV2wzZ6mG1O5q0tfBfYSGZhOH1Cpp7AKfApuY1=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Improved Gemini audio models for powerful voice experiences",
+      "summary": "",
+      "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+      "publishedAt": "2025-12-12T17:50:50.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/cJcAt2SxY4kjrZw_0k3hRQXJo81A-BhMUGWVnNVR0Uy8-ieIlWZyID9gRpioFGH1P9ODTf5rd3--9jJ9vUOnAM969Sprqbj0Sg6-RW87Ll_XPJw-_g=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Deepening our partnership with the UK AI Security Institute",
+      "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
+      "url": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+      "publishedAt": "2025-12-11T00:06:40.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/AMN7wwGsZm8pTcW-nitk9SkxhXFSiFV4aM44e4NzZlbm0MgdLCUYrhsW312j9DpOvtiBv9COlSOTf90tsFp0FuBQ_ggpm-ft4IZrtPo95uC8B73mgw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
+      "summary": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
+      "url": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+      "publishedAt": "2025-12-10T14:59:21.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/9ovdV4CyNmELMyuOSj2ZpyzRnJymh1gWQpzYVfd0oDzN82i8p08x_JRnArOWGge9IxvraD6ZRxYWD3pKNB0hhhueSmVHHn1xY4iXAOi2v7b0IYb8iw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+      "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+      "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+      "publishedAt": "2025-12-09T11:29:03.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/eEfDhwb-u99oZnuvwc3STyyWrtN-4LnaqKBXCTP6Zy7yZGEJ-ryNjOOYaWJ3Lc8JmRXVH9DA-EqSb7k61rXtDeG0wB6Tj0ho0mAax8QWUHDkpyUjig=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Engineering more resilient crops for a warming climate",
+      "summary": "Scientists are using AlphaFold to strengthen a photosynthesis enzyme for resilient, heat-tolerant crops.",
+      "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+      "publishedAt": "2025-12-04T16:23:24.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/SmNXY162ZZ5ADiU59tS5YPlCdCd7A7G8ubHeSH8CAyniaPAUUEvrNUm_u7ve1S7QGpNjajkmrQWzSz-ZTG58RNRVVl8GEFcajpTK7rA6VCFnMdC0=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "AlphaFold: Five years of impact",
+      "summary": "Explore how AlphaFold has accelerated science and fueled a global wave of biological discovery.",
+      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "publishedAt": "2025-11-25T16:00:12.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/ilVw2lFf7j4sXdrcpi5lAe9Hl3ZjGXdj92fjgmtmTkIKIW69XiTfosSpaGmTqJif6_yjlQAVdMFBfxfLRMC9oYqEWFvX0lY6f9J7tMm7SNzTysGbng=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Revealing a key protein behind heart disease",
+      "summary": "AlphaFold has revealed the structure of a key protein behind heart disease",
+      "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
+      "publishedAt": "2025-11-25T15:52:51.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/RwD4LRoI4MaL8yOjRgJoH9cjv4T54vy4V7ZNnToTVaVksw4pCKyRwoz1RbCwweWxot6Q2vLEZdSk-29k79pNqutMiBrRHd6IbvKepvWQvjpWxIenFg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Google DeepMind supports U.S. Department of Energy on Genesis: a national mission to accelerate innovation and scientific discovery",
+      "summary": "Google DeepMind and the DOE partner on Genesis, a new effort to accelerate science with AI.",
+      "url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/",
+      "publishedAt": "2025-11-24T14:12:03.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Aij3S61tCOKUv_-lxFEBAvGZBWAlGh2E0gGRyol8p0L53KFkhgEEDcuw2rg9JzpdH40kwy_e_PkjaHdvbInPj55lDIKx6cd9xzzmRAy9eUapVkKJrw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "How we’re bringing AI image verification to the Gemini app",
+      "summary": "",
+      "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
+      "publishedAt": "2025-11-20T15:13:19.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
+      "publishedAt": "2025-11-20T15:11:14.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Nano Banana Pro",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+      "publishedAt": "2025-11-20T15:05:02.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Start building with Gemini 3",
+      "summary": "",
+      "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
+      "publishedAt": "2025-11-18T17:49:13.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "We’re expanding our presence in Singapore to advance AI in the Asia-Pacific region",
+      "summary": "Google DeepMind opens a new Singapore research lab, accelerating AI progress in the Asia-Pacific region.",
+      "url": "https://deepmind.google/blog/were-expanding-our-presence-in-singapore-to-advance-ai-in-the-asia-pacific-region/",
+      "publishedAt": "2025-11-18T17:00:00.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/FD0l9MC2qTshsHf8AaVKRbfdkExWeGVCEKAxiEBeN3DzSUf9mS3eFBbsJBtFEbmQD8NZm75g1a59VBkkTSmpRAVCmShn82wjgukKzIJk54p4S3QM3A=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "A new era of intelligence with Gemini 3",
+      "summary": "",
+      "url": "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/",
+      "publishedAt": "2025-11-18T16:06:41.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Google Antigravity",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity/",
+      "publishedAt": "2025-11-18T16:06:32.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "WeatherNext 2: Our most advanced weather forecasting model",
+      "summary": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions.",
+      "url": "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model/",
+      "publishedAt": "2025-11-17T15:09:23.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/nLLjA96gb4kz3UEnKvyMjFdJQwud0fvr8kyoBLzvb28GjhS22TCTdRAAnBKSFs5GO_IfhXjAeHvGWDXM7Bqp9024X-K2mgSCLuhb-KW7weQbXruZOg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
+      "summary": "Introducing SIMA 2, a Gemini-powered AI agent that can think, understand, and take actions in interactive environments.",
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "publishedAt": "2025-11-13T14:52:18.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/A5vgACWjzxaEanLkjrZSNlQDjI0SEZ4tKJqE2EtboljSRIkcbEVv4JA2H7a-BEYNoWK097hNdthFdB6h537DUVvFbAUwhWUFSzzA0E0ndr6zMC8tMA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Teaching AI to see the world more like we do",
+      "summary": "Our new paper analyzes the important ways AI systems organize the visual world differently from humans.",
+      "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/",
+      "publishedAt": "2025-11-11T11:49:13.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/pr1odwZzuCO8826Vd7ekb3yIHpt4iP9sULx5f_fa-BaTzJob88Lsr_y03zjtGV6J0q-zfPOe7Ym9JE2nyoGV7a4MbNZ3VP5IEAQCCUhzL7YZlT7KRg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "How AI is giving Northern Ireland teachers time back",
+      "summary": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participating teachers an average of 10 hours per week.",
+      "url": "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back/",
+      "publishedAt": "2025-11-10T16:50:39.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Mapping, modeling, and understanding nature with AI",
+      "summary": "AI models can help map species, protect forests and listen to birds around the world",
+      "url": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/",
+      "publishedAt": "2025-11-05T16:59:46.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/gAGr-25CPQL8Ewa1qI2LxPmBSpfIfjXOOYoMhGxW94q4ORz9fe7koObRkriLCE5WPPRQiHZtKRBzdSgBd0fSDFX_tjf7NnqtBEugJ4KF07IUdmdEWg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Accelerating discovery with the AI for Math Initiative",
+      "summary": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
+      "url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/",
+      "publishedAt": "2025-10-29T14:31:13.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
+      "summary": "Introducing T5Gemma, a new collection of encoder-decoder LLMs.",
+      "url": "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models/",
+      "publishedAt": "2025-10-25T18:14:00.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/G6ZuFr6d2i13JlGsO-_Sw5JxpyrqKqeQWkfCQRfgFZfabMfHW4kHIBxnFnvQz8Y5-VrTrX_4gY4PdmSm59R3rVKMoS7R6rH4ymrt-SSzvMedTINZBQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "MedGemma: Our most capable open models for health AI development",
+      "summary": "We’re announcing new multimodal models in the MedGemma collection, our most capable open models for health AI development.",
+      "url": "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/",
+      "publishedAt": "2025-10-25T18:02:50.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/9ORfmyRK985B2p8J18NGBCEKWe9deGWaYCxvKtMg8FULW2eiShH-OfZh72wAXROrpcC4UalsW_cGIVzBssP8Q3NZJEQbsD9RwWvy9tJpzNpTNklHqQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Introducing Gemma 3n: The developer guide",
+      "summary": "Gemma 3n is designed for the developer community that helped shape Gemma.",
+      "url": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide/",
+      "publishedAt": "2025-10-25T17:54:47.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Ri-lKi1MXY7To2V-fqySROe00Ch5OIvyTsN0p3cuEr7DbumWfLwOLOomK66OiS6WDs6UGAYM9vso9kOsaXCshYBVM09VDrgMOnQJToQpCJET5zLgxw=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini 2.5 Flash-Lite is now ready for scaled production use",
+      "summary": "Gemini 2.5 Flash-Lite, previously in preview, is now stable and generally available. This cost-efficient model provides high quality in a small size, and includes 2.5 family features like a 1 million-token context window and multimodality.",
+      "url": "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/",
+      "publishedAt": "2025-10-25T17:34:32.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/dPmQ-koIEMBj9zIAJpOyeALOE4GFH_HWC5ra3kAa76NkGuX_YkpQ25tG25Bpqeq4idwYwt2GTBw-8lfJMzxsvHsGp07l2F_R2TDmEAwTyPLgnCSxlg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
+      "summary": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
+      "url": "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/",
+      "publishedAt": "2025-10-25T17:27:10.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/q5T7-rJ0N5GKh8w1VSMyJo64aLMkxGZkzy0kaLuVe3tzL5RN9N2owKza3BLdyW6QXUImofOc2F9MnBHwKOGIUzBcrQKGhPNTCertEY-jmBc6w_DGww=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
+      "summary": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
+      "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+      "publishedAt": "2025-10-24T19:06:32.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/7vH7h8I8REIlyuvVWa6rIBAuFi8Wgx2YNE5j2F1tcym5UCjH6e6KcDji_ZHvYutiLFypKUuHK-fvJ2LaGTTp_8Fxs-qLf_ul74zLW-Y5pMWiYwfskg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Exploring the context of online images with Backstory",
+      "summary": "New experimental AI tool helps people explore the context and origin of images seen online.",
+      "url": "https://deepmind.google/blog/exploring-the-context-of-online-images-with-backstory/",
+      "publishedAt": "2025-10-24T03:17:11.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/2Cwwo2mo_5ltAq1yvhcn6ACIDM_Ssy97xFjF0uMH1AKq04Vc2v6ArZnnw4IiSwx-MTzTvF1WNCYMxu_zFoc0xF_ZqkrYuQHlP9_zwKjYGFoH99SPOA=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad",
+      "summary": "The International Mathematical Olympiad (“IMO”) is the world’s most prestigious competition for young mathematicians, and has been held annually since 1959. Each country taking part is represented by six elite, pre-university mathematicians who compete to solve six exceptionally difficult problems in algebra, combinatorics, geometry, and number theory.",
+      "url": "https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
+      "publishedAt": "2025-10-24T03:12:29.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/dMX-NWqRTUb0n79tmSHEBiBGJT7THkkAf9dxVviw9zXMF4YYTUl8K4s1reIPTYNvOer7-_aAlIMFQLdcTscYaHtS7Uw2BIkzh6gPmvwUVzThkjf46h4=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Aeneas transforms how historians connect the past",
+      "summary": "Introducing the first model for contextualizing ancient inscriptions, designed to help historians better interpret, attribute and restore fragmentary texts.",
+      "url": "https://deepmind.google/blog/aeneas-transforms-how-historians-connect-the-past/",
+      "publishedAt": "2025-10-24T02:58:37.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/RtYRby64YEBq-DMmlqZsVIMpiuVymqQD27nSvo1UJoxtcPOH4bmu0Of7Vm4vUC1xxOA91DhGh5-dHVHsy3f-7Vz6f-y7RjXDfOyz0z4e7aK8_65_LQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Genie 3: A new frontier for world models",
+      "summary": "Genie 3 can generate dynamic worlds that you can navigate in real time at 24 frames per second, retaining consistency for a few minutes at a resolution of 720p.",
+      "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
+      "publishedAt": "2025-10-24T02:54:30.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/MZsGi3QroEY4lNLxrQVBVpn_5NZDXMCKwXs8nStlzGvjS7p76pP-FjyyO-hrYuBhERc60C5-KosmVJFfITEYN7wx_cV94Wju48IyYRwQ39_DtRDU=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "How AI is helping advance the science of bioacoustics to save endangered species",
+      "summary": "Our new Perch model helps conservationists analyze audio faster to protect endangered species, from Hawaiian honeycreepers to coral reefs.",
+      "url": "https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/",
+      "publishedAt": "2025-10-24T02:30:54.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/ZQcPGFYeQXxngk2iQlNKgcUUOyGORpNFEDVCq2jNDL3sBDCgCQ-UsgB8hWFtxvEBHycX_WlV3tdho0Ppn8av9nykERWjrMw4QRqhBc-TObJ2Cv-0=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Using AI to perceive the universe in greater depth",
+      "summary": "Using AI to perceive the universe in greater depth",
+      "url": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+      "publishedAt": "2025-10-24T02:21:07.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/GgO6VkvHoYDdCPahHFAkWhCeSLm6MtzzF0zsfiH-qDtjWOB68fD0pFRfurPaY9ZjFbZAXK6YjKeXVrD-O_OWI1-0MOhrGirdgf9i1C0ohRHhsSgM5g=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini achieves gold-medal level at the International Collegiate Programming Contest World Finals",
+      "summary": "Gemini 2.5 Deep Think achieves breakthrough performance at the world’s most prestigious computer programming competition, demonstrating a profound leap in abstract problem solving.",
+      "url": "https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals/",
+      "publishedAt": "2025-10-24T00:22:10.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/qvRvHwfAo6VBmQsyNOWvRJ5N-H_sYxezQa7ap6SPxLhWT7jUi7EvI7TK6dZmsO8WtS7xkC6uqMOUHSPNF8y9KFuRg_FUievitpcgJX_wOQnle8jg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Discovering new solutions to century-old problems in fluid dynamics",
+      "summary": "Our new method could help mathematicians leverage AI techniques to tackle long-standing challenges in mathematics, physics and engineering.",
+      "url": "https://deepmind.google/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/",
+      "publishedAt": "2025-10-24T00:02:06.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/zv1R07FlUC13VLtRxjmaGze53ybr3AgVpR_xP69HtBbEsQWOMH0qxWpiVhRxl2fP4kjUBi2OP4RR093Sll7KYkNeKAuIS2K1nu1gZWPZnj_T7GGM5Q=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Strengthening our Frontier Safety Framework",
+      "summary": "We’re strengthening the Frontier Safety Framework (FSF) to help identify and mitigate severe risks from advanced AI models.",
+      "url": "https://deepmind.google/blog/strengthening-our-frontier-safety-framework/",
+      "publishedAt": "2025-10-23T23:44:10.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/XBQUPBcBgBVTRKNQ1O15YdcfRRmjOAYakt8-ikTza94oBRBz6dq5A4goEDahtZ7KN3NhfOltH3MLtIgiQ1OnutYe1m8DRjVNJ8mHS2WuPjqqvpSrOts=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
+      "summary": "We’re powering an era of physical agents — enabling robots to perceive, plan, think, use tools and act to better solve complex, multi-step tasks.",
+      "url": "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
+      "publishedAt": "2025-10-23T23:33:58.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/6AYpHM-f9lYVHZSRX_NkYS5S8Lk8J9-6SFz8yZlyLJtAWnETOksYNd5TEf3bq_Zx_wxSxCWOsBayp2IVV05wwy7jiTkKfHIJFhX80lsRmzp5r8g8kQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Introducing CodeMender: an AI agent for code security",
+      "summary": "Using advanced AI to fix critical software vulnerabilities",
+      "url": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security/",
+      "publishedAt": "2025-10-23T23:05:51.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/k8UqDSugJHO4Rf-O3s7Hm9jxtuHtK93lQI1KFdoElscGZywC7x5Xuuw_LlzNTvt3fx_Shho1BjokMBVH5ACIt7hmx_y6P4PO0dfvwOlBj7JVAsC_Kg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Bringing AI to the next generation of fusion energy",
+      "summary": "We’re partnering with Commonwealth Fusion Systems (CFS) to bring clean, safe, limitless fusion energy closer to reality.",
+      "url": "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
+      "publishedAt": "2025-10-23T22:04:14.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/I0hKlXnKlWRgtf0wd3UNbqHoLCzBo-AhaA-lRU99ohvb90leYc-IWZVsS2a9_kQNO4EphPerQjYNehMGmsBUu2S1HAfrIRJO6h_5hCrGYA80PPq7=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Try Deep Think in the Gemini app",
+      "summary": "We're rolling out Deep Think in the Gemini app for Google AI Ultra subscribers, and we're giving select mathematicians access to the full version of the Gemini 2.5 Deep Think model entered into the IMO competition.",
+      "url": "https://deepmind.google/blog/try-deep-think-in-the-gemini-app/",
+      "publishedAt": "2025-10-23T18:54:19.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/_aOt_AgzrKwu6-2-4w04bWFaWnbagJ9nHCx4kIQwJQPlzt7NxAdAacSMVb1H6qAkT1PQ23MNeXP33Z7leGfYjk4fjZoJfw4LSeA78JzLKyl2NgY_=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Rethinking how we measure AI intelligence",
+      "summary": "Game Arena is a new, open-source platform for rigorous evaluation of AI models. It allows for head-to-head comparison of frontier systems in environments with clear winning conditions.",
+      "url": "https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence/",
+      "publishedAt": "2025-10-23T18:52:06.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/2WyNtbfktF5_6esvBvhLRr_Rlzh7UQwyb1yISpp9KZxQxcJkEBXrYDNjtHcQ3bSb0lhJ8l-iynBcjar4QRCpBJ_8dmBGMJJ4hpUe6AkrX_UnX12OSg=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Introducing Gemma 3 270M: The compact model for hyper-efficient AI",
+      "summary": "Today, we're adding a new, highly specialized tool to the Gemma 3 toolkit: Gemma 3 270M, a compact, 270-million parameter model.",
+      "url": "https://deepmind.google/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/",
+      "publishedAt": "2025-10-23T18:50:11.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/Cj5-NRySEIqc358UslPI7Dm-e-vQndVW8nVvtJnoXmxSZFygqHqKLOsefc6ohOFNojkFdRaYYCCpcigEHqVP5xGx9yLyrldbw0-atctzJM_cW8z1=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Image editing in Gemini just got a major upgrade",
+      "summary": "Transform images in amazing new ways with updated native image editing in the Gemini app.",
+      "url": "https://deepmind.google/blog/image-editing-in-gemini-just-got-a-major-upgrade/",
+      "publishedAt": "2025-10-23T18:48:30.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/lO9TXZYt8a2_kJFCs-_fjBXKXh11uig76_ykc8-E3ChCbkkx3vLA9H_eMgsKUKh5RL4oNlas0S4uYBBkUQQ1RsAQzn1YsOWvGty_c5_QTbiGChR7=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "VaultGemma: The world's most capable differentially private LLM",
+      "summary": "We introduce VaultGemma, the most capable model trained from scratch with differential privacy.",
+      "url": "https://deepmind.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/",
+      "publishedAt": "2025-10-23T18:42:54.000Z",
+      "imageUrl": "https://lh3.googleusercontent.com/KD1gM-4cczisPKkhOg47FmPjkJbE1bTzLU_QB0Il6ITen15chFme1B0cyuRlUBQUppBGhvLQ9xzpjz-z2Kv1P15iZ1tcIYiVI_XxSANbdxouEQY5cg=w528-h297-n-nu-rw-lo"
+    }
+  ]
+}

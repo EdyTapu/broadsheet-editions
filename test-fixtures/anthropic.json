@@ -1,0 +1,1705 @@
+{
+  "items": [
+    {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "summary": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude for Teachers",
+      "summary": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing a way to reflect on how you use Claude",
+      "summary": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "summary": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Inviting hard questions",
+      "summary": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "summary": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "summary": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Redeploying Fable 5",
+      "summary": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Tag",
+      "summary": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Results from the first Anthropic Public Record",
+      "summary": "Results from the first Anthropic Public Record",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Corps",
+      "summary": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "summary": "Claude Fable 5 and Claude Mythos 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "summary": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "summary": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "summary": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "publishedAt": "2026-06-01T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Opus 4.8",
+      "summary": "Introducing Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "summary": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "summary": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "url": "https://www.anthropic.com/news/milan-office-opening",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "summary": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "publishedAt": "2026-05-26T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "summary": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "summary": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "publishedAt": "2026-05-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Widening the conversation on frontier AI",
+      "summary": "Widening the conversation on frontier AI",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai",
+      "publishedAt": "2026-05-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "summary": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "publishedAt": "2026-05-18T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "summary": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "publishedAt": "2026-05-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "summary": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "publishedAt": "2026-05-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude for Small Business",
+      "summary": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "publishedAt": "2026-05-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "summary": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "publishedAt": "2026-05-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Agents for financial services",
+      "summary": "Agents for financial services",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "publishedAt": "2026-05-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "summary": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "publishedAt": "2026-05-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude for Creative Work",
+      "summary": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "summary": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "url": "https://www.anthropic.com/news/anthropic-nec",
+      "publishedAt": "2026-04-24T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "An update on our election safeguards",
+      "summary": "An update on our election safeguards",
+      "url": "https://www.anthropic.com/news/election-safeguards-update",
+      "publishedAt": "2026-04-24T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "publishedAt": "2026-04-20T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "summary": "Introducing Claude Design by Anthropic Labs",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "publishedAt": "2026-04-17T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Opus 4.7",
+      "summary": "Introducing Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "publishedAt": "2026-04-16T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "summary": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "url": "https://www.anthropic.com/news/narasimhan-board",
+      "publishedAt": "2026-04-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "publishedAt": "2026-04-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Australian government and Anthropic sign MOU for AI safety and research",
+      "summary": "Australian government and Anthropic sign MOU for AI safety and research",
+      "url": "https://www.anthropic.com/news/australia-MOU",
+      "publishedAt": "2026-03-31T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "summary": "Anthropic invests $100 million into the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/claude-partner-network",
+      "publishedAt": "2026-03-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing The Anthropic Institute",
+      "summary": "Introducing The Anthropic Institute",
+      "url": "https://www.anthropic.com/news/the-anthropic-institute",
+      "publishedAt": "2026-03-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+      "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+      "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "publishedAt": "2026-03-10T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Partnering with Mozilla to improve Firefox’s security",
+      "summary": "Partnering with Mozilla to improve Firefox’s security",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "publishedAt": "2026-03-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Where things stand with the Department of War",
+      "summary": "Where things stand with the Department of War",
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "publishedAt": "2026-03-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "summary": "Statement on the comments from Secretary of War Pete Hegseth",
+      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "publishedAt": "2026-02-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "summary": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "publishedAt": "2026-02-26T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "url": "https://www.anthropic.com/news/acquires-vercept",
+      "publishedAt": "2026-02-25T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+      "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "publishedAt": "2026-02-24T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Detecting and preventing distillation attacks",
+      "summary": "Detecting and preventing distillation attacks",
+      "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "publishedAt": "2026-02-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Making frontier cybersecurity capabilities available to defenders",
+      "summary": "Making frontier cybersecurity capabilities available to defenders",
+      "url": "https://www.anthropic.com/news/claude-code-security",
+      "publishedAt": "2026-02-20T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+      "summary": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+      "url": "https://www.anthropic.com/news/anthropic-infosys",
+      "publishedAt": "2026-02-17T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6",
+      "summary": "Introducing Claude Sonnet 4.6",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "publishedAt": "2026-02-17T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+      "summary": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+      "url": "https://www.anthropic.com/news/anthropic-rwanda-mou",
+      "publishedAt": "2026-02-17T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
+      "summary": "Anthropic opens Bengaluru office and announces new partnerships across India",
+      "url": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
+      "publishedAt": "2026-02-16T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Chris Liddell appointed to Anthropic’s board of directors",
+      "summary": "Chris Liddell appointed to Anthropic’s board of directors",
+      "url": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
+      "publishedAt": "2026-02-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+      "summary": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+      "url": "https://www.anthropic.com/news/anthropic-codepath-partnership",
+      "publishedAt": "2026-02-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic is donating $20 million to Public First Action",
+      "summary": "Anthropic is donating $20 million to Public First Action",
+      "url": "https://www.anthropic.com/news/donate-public-first-action",
+      "publishedAt": "2026-02-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+      "summary": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "publishedAt": "2026-02-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Covering electricity price increases from our data centers",
+      "summary": "Covering electricity price increases from our data centers",
+      "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
+      "publishedAt": "2026-02-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Introducing Claude Opus 4.6",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "publishedAt": "2026-02-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude is a space to think",
+      "summary": "Claude is a space to think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "publishedAt": "2026-02-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Apple’s Xcode now supports the Claude Agent SDK",
+      "summary": "Apple’s Xcode now supports the Claude Agent SDK",
+      "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+      "publishedAt": "2026-02-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+      "summary": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+      "publishedAt": "2026-02-02T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+      "summary": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+      "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+      "publishedAt": "2026-01-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+      "summary": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+      "url": "https://www.anthropic.com/news/gov-UK-partnership",
+      "publishedAt": "2026-01-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude's new constitution",
+      "summary": "Claude's new constitution",
+      "url": "https://www.anthropic.com/news/claude-new-constitution",
+      "publishedAt": "2026-01-22T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+      "summary": "Anthropic and Teach For All launch global AI training initiative for educators",
+      "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
+      "publishedAt": "2026-01-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
+      "summary": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+      "publishedAt": "2026-01-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+      "summary": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+      "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+      "publishedAt": "2026-01-16T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "How scientists are using Claude to accelerate research and discovery",
+      "summary": "How scientists are using Claude to accelerate research and discovery",
+      "url": "https://www.anthropic.com/news/accelerating-scientific-research",
+      "publishedAt": "2026-01-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Labs",
+      "summary": "Introducing Labs",
+      "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
+      "publishedAt": "2026-01-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Advancing Claude in healthcare and the life sciences",
+      "summary": "Advancing Claude in healthcare and the life sciences",
+      "url": "https://www.anthropic.com/news/healthcare-life-sciences",
+      "publishedAt": "2026-01-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
+      "summary": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
+      "url": "https://www.anthropic.com/news/compliance-framework-SB53",
+      "publishedAt": "2025-12-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Protecting the wellbeing of our users",
+      "summary": "Protecting the wellbeing of our users",
+      "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
+      "publishedAt": "2025-12-18T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+      "summary": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+      "url": "https://www.anthropic.com/news/genesis-mission-partnership",
+      "publishedAt": "2025-12-18T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
+      "summary": "Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
+      "url": "https://www.anthropic.com/news/anthropic-accenture-partnership",
+      "publishedAt": "2025-12-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+      "summary": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "publishedAt": "2025-12-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
+      "summary": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+      "publishedAt": "2025-12-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+      "summary": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+      "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+      "publishedAt": "2025-12-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude for Nonprofits",
+      "summary": "Claude for Nonprofits",
+      "url": "https://www.anthropic.com/news/claude-for-nonprofits",
+      "publishedAt": "2025-12-02T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Opus 4.5",
+      "summary": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "publishedAt": "2025-11-24T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
+      "summary": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
+      "url": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education",
+      "publishedAt": "2025-11-18T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
+      "summary": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
+      "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+      "publishedAt": "2025-11-18T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
+      "summary": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
+      "url": "https://www.anthropic.com/news/claude-in-microsoft-foundry",
+      "publishedAt": "2025-11-18T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Measuring political bias in Claude",
+      "summary": "Measuring political bias in Claude",
+      "url": "https://www.anthropic.com/news/political-even-handedness",
+      "publishedAt": "2025-11-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "The state of Maryland partners with Anthropic to better serve residents",
+      "summary": "The state of Maryland partners with Anthropic to better serve residents",
+      "url": "https://www.anthropic.com/news/maryland-partnership",
+      "publishedAt": "2025-11-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "summary": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+      "publishedAt": "2025-11-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic invests $50 billion in American AI infrastructure",
+      "summary": "Anthropic invests $50 billion in American AI infrastructure",
+      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+      "publishedAt": "2025-11-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "New offices in Paris and Munich expand Anthropic’s European presence",
+      "summary": "New offices in Paris and Munich expand Anthropic’s European presence",
+      "url": "https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence",
+      "publishedAt": "2025-11-07T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+      "summary": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+      "url": "https://www.anthropic.com/news/economic-futures-uk-europe",
+      "publishedAt": "2025-11-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
+      "summary": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
+      "url": "https://www.anthropic.com/news/cognizant-partnership",
+      "publishedAt": "2025-11-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
+      "summary": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
+      "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
+      "publishedAt": "2025-11-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute",
+      "summary": "Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute",
+      "url": "https://www.anthropic.com/news/opening-our-tokyo-office",
+      "publishedAt": "2025-10-29T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Advancing Claude for Financial Services",
+      "summary": "Advancing Claude for Financial Services",
+      "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
+      "publishedAt": "2025-10-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Expanding our use of Google Cloud TPUs and Services",
+      "summary": "Expanding our use of Google Cloud TPUs and Services",
+      "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+      "publishedAt": "2025-10-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth",
+      "summary": "Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth",
+      "url": "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific",
+      "publishedAt": "2025-10-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+      "summary": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+      "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
+      "publishedAt": "2025-10-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude for Life Sciences",
+      "summary": "Claude for Life Sciences",
+      "url": "https://www.anthropic.com/news/claude-for-life-sciences",
+      "publishedAt": "2025-10-20T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Haiku 4.5",
+      "summary": "Introducing Claude Haiku 4.5",
+      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "publishedAt": "2025-10-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+      "summary": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+      "publishedAt": "2025-10-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Rahul Patil joins Anthropic as Chief Technology Officer",
+      "summary": "Rahul Patil joins Anthropic as Chief Technology Officer",
+      "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
+      "publishedAt": "2025-10-07T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Expanding our global operations to India with our second Asia Pacific office",
+      "summary": "Expanding our global operations to India with our second Asia Pacific office",
+      "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
+      "publishedAt": "2025-10-07T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Deloitte will make Claude available to 470,000 people across its global network",
+      "summary": "Deloitte will make Claude available to 470,000 people across its global network",
+      "url": "https://www.anthropic.com/news/deloitte-anthropic-partnership",
+      "publishedAt": "2025-10-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.5",
+      "summary": "Introducing Claude Sonnet 4.5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "publishedAt": "2025-09-29T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Enabling Claude Code to work more autonomously",
+      "summary": "Enabling Claude Code to work more autonomously",
+      "url": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
+      "publishedAt": "2025-09-29T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
+      "summary": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
+      "url": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
+      "publishedAt": "2025-09-26T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude is now generally available in Xcode",
+      "summary": "Claude is now generally available in Xcode",
+      "url": "https://www.anthropic.com/news/claude-in-xcode",
+      "publishedAt": "2025-09-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+      "summary": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+      "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+      "publishedAt": "2025-09-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic is endorsing SB 53",
+      "summary": "Anthropic is endorsing SB 53",
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
+      "publishedAt": "2025-09-08T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Signs White House Pledge to America's Youth: Investing in AI Education",
+      "summary": "Anthropic Signs White House Pledge to America's Youth: Investing in AI Education",
+      "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+      "publishedAt": "2025-09-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Updating restrictions of sales to unsupported regions",
+      "summary": "Updating restrictions of sales to unsupported regions",
+      "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
+      "publishedAt": "2025-09-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "summary": "Anthropic raises $13B Series F at $183B post-money valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "publishedAt": "2025-09-02T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Updates to Consumer Terms and Privacy Policy",
+      "summary": "Updates to Consumer Terms and Privacy Policy",
+      "url": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
+      "publishedAt": "2025-08-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Education Report: How educators use Claude",
+      "summary": "Anthropic Education Report: How educators use Claude",
+      "url": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
+      "publishedAt": "2025-08-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing the Anthropic National Security and Public Sector Advisory Council",
+      "summary": "Introducing the Anthropic National Security and Public Sector Advisory Council",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
+      "publishedAt": "2025-08-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Detecting and countering misuse of AI: August 2025",
+      "summary": "Detecting and countering misuse of AI: August 2025",
+      "url": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
+      "publishedAt": "2025-08-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Developing nuclear safeguards for AI through public-private partnership",
+      "summary": "Developing nuclear safeguards for AI through public-private partnership",
+      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
+      "publishedAt": "2025-08-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic launches higher education advisory board and AI Fluency courses",
+      "summary": "Anthropic launches higher education advisory board and AI Fluency courses",
+      "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
+      "publishedAt": "2025-08-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Code and new admin controls for business plans",
+      "summary": "Claude Code and new admin controls for business plans",
+      "url": "https://www.anthropic.com/news/claude-code-on-team-and-enterprise",
+      "publishedAt": "2025-08-20T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Usage policy update",
+      "summary": "Usage policy update",
+      "url": "https://www.anthropic.com/news/usage-policy-update",
+      "publishedAt": "2025-08-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Offering expanded Claude access across all three branches of the U.S. government",
+      "summary": "Offering expanded Claude access across all three branches of the U.S. government",
+      "url": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
+      "publishedAt": "2025-08-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Building safeguards for Claude",
+      "summary": "Building safeguards for Claude",
+      "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
+      "publishedAt": "2025-08-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
+      "summary": "Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
+      "url": "https://www.anthropic.com/news/head-of-japan-hiring-plans",
+      "publishedAt": "2025-08-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
+      "summary": "Federal government departments and agencies can now purchase Claude through the GSA schedule",
+      "url": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
+      "publishedAt": "2025-08-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Opus 4.1",
+      "summary": "Claude Opus 4.1",
+      "url": "https://www.anthropic.com/news/claude-opus-4-1",
+      "publishedAt": "2025-08-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Our framework for developing safe and trustworthy agents",
+      "summary": "Our framework for developing safe and trustworthy agents",
+      "url": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
+      "publishedAt": "2025-08-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Signs CMS Health Tech Ecosystem Pledge to Advance Healthcare Interoperability",
+      "summary": "Anthropic Signs CMS Health Tech Ecosystem Pledge to Advance Healthcare Interoperability",
+      "url": "https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability",
+      "publishedAt": "2025-07-30T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research",
+      "summary": "Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
+      "publishedAt": "2025-07-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Thoughts on America’s AI Action Plan",
+      "summary": "Thoughts on America’s AI Action Plan",
+      "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+      "publishedAt": "2025-07-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic to sign the EU Code of Practice",
+      "summary": "Anthropic to sign the EU Code of Practice",
+      "url": "https://www.anthropic.com/news/eu-code-practice",
+      "publishedAt": "2025-07-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Build AI in America",
+      "summary": "Build AI in America",
+      "url": "https://www.anthropic.com/news/build-ai-in-america",
+      "publishedAt": "2025-07-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Investing in energy to secure America's AI future",
+      "summary": "Investing in energy to secure America's AI future",
+      "url": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future",
+      "publishedAt": "2025-07-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude for Financial Services",
+      "summary": "Claude for Financial Services",
+      "url": "https://www.anthropic.com/news/claude-for-financial-services",
+      "publishedAt": "2025-07-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
+      "summary": "Paul Smith to join Anthropic as Chief Commercial Officer",
+      "url": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
+      "publishedAt": "2025-07-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
+      "summary": "Anthropic and the Department of Defense to advance responsible AI in defense operations",
+      "url": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
+      "publishedAt": "2025-07-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers",
+      "summary": "Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers",
+      "url": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
+      "publishedAt": "2025-07-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Advancing Claude for Education",
+      "summary": "Advancing Claude for Education",
+      "url": "https://www.anthropic.com/news/advancing-claude-for-education",
+      "publishedAt": "2025-07-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "The need for transparency in Frontier AI",
+      "summary": "The need for transparency in Frontier AI",
+      "url": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
+      "publishedAt": "2025-07-07T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "How people use Claude for support, advice, and companionship",
+      "summary": "How people use Claude for support, advice, and companionship",
+      "url": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship",
+      "publishedAt": "2025-06-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing the Anthropic Economic Futures Program",
+      "summary": "Introducing the Anthropic Economic Futures Program",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program",
+      "publishedAt": "2025-06-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude in Amazon Bedrock: Approved for use in FedRAMP High and DoD IL4/5 workloads",
+      "summary": "Claude in Amazon Bedrock: Approved for use in FedRAMP High and DoD IL4/5 workloads",
+      "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
+      "publishedAt": "2025-06-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
+      "summary": "National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
+      "url": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
+      "publishedAt": "2025-06-07T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude Gov models for U.S. national security customers",
+      "summary": "Claude Gov models for U.S. national security customers",
+      "url": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
+      "publishedAt": "2025-06-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Reed Hastings appointed to Anthropic’s board of directors",
+      "summary": "Reed Hastings appointed to Anthropic’s board of directors",
+      "url": "https://www.anthropic.com/news/reed-hastings",
+      "publishedAt": "2025-05-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude 4",
+      "summary": "Introducing Claude 4",
+      "url": "https://www.anthropic.com/news/claude-4",
+      "publishedAt": "2025-05-22T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Activating AI Safety Level 3 protections",
+      "summary": "Activating AI Safety Level 3 protections",
+      "url": "https://www.anthropic.com/news/activating-asl3-protections",
+      "publishedAt": "2025-05-22T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Testing our safety defenses with a new bug bounty program",
+      "summary": "Testing our safety defenses with a new bug bounty program",
+      "url": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
+      "publishedAt": "2025-05-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Anthropic's AI for Science Program",
+      "summary": "Introducing Anthropic's AI for Science Program",
+      "url": "https://www.anthropic.com/news/ai-for-science-program",
+      "publishedAt": "2025-05-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Securing America's compute advantage: Anthropic’s position on the diffusion rule",
+      "summary": "Securing America's compute advantage: Anthropic’s position on the diffusion rule",
+      "url": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
+      "publishedAt": "2025-04-30T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing the Anthropic Economic Advisory Council",
+      "summary": "Introducing the Anthropic Economic Advisory Council",
+      "url": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council",
+      "publishedAt": "2025-04-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Detecting and countering malicious uses of Claude: March 2025",
+      "summary": "Detecting and countering malicious uses of Claude: March 2025",
+      "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+      "publishedAt": "2025-04-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Our approach to understanding and addressing AI harms",
+      "summary": "Our approach to understanding and addressing AI harms",
+      "url": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
+      "publishedAt": "2025-04-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic appoints Guillaume Princen as Head of EMEA and announces 100+ new roles across the region",
+      "summary": "Anthropic appoints Guillaume Princen as Head of EMEA and announces 100+ new roles across the region",
+      "url": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
+      "publishedAt": "2025-04-08T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Education Report: How university students use Claude",
+      "summary": "Anthropic Education Report: How university students use Claude",
+      "url": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
+      "publishedAt": "2025-04-08T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Anthropic's first developer conference: Code with Claude",
+      "summary": "Introducing Anthropic's first developer conference: Code with Claude",
+      "url": "https://www.anthropic.com/news/Introducing-code-with-claude",
+      "publishedAt": "2025-04-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude for Education",
+      "summary": "Introducing Claude for Education",
+      "url": "https://www.anthropic.com/news/introducing-claude-for-education",
+      "publishedAt": "2025-04-02T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+      "summary": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
+      "publishedAt": "2025-03-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Progress from our Frontier Red Team",
+      "summary": "Progress from our Frontier Red Team",
+      "url": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
+      "publishedAt": "2025-03-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s response to Governor Newsom’s AI working group draft report",
+      "summary": "Anthropic’s response to Governor Newsom’s AI working group draft report",
+      "url": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
+      "publishedAt": "2025-03-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic’s recommendations to OSTP for the U.S. AI action plan",
+      "summary": "Anthropic’s recommendations to OSTP for the U.S. AI action plan",
+      "url": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
+      "publishedAt": "2025-03-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic raises Series E at $61.5B post-money valuation",
+      "summary": "Anthropic raises Series E at $61.5B post-money valuation",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "publishedAt": "2025-03-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
+      "summary": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam",
+      "publishedAt": "2025-02-28T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Anthropic's Transparency Hub",
+      "summary": "Introducing Anthropic's Transparency Hub",
+      "url": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
+      "publishedAt": "2025-02-27T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude and Alexa+",
+      "summary": "Claude and Alexa+",
+      "url": "https://www.anthropic.com/news/claude-and-alexa-plus",
+      "publishedAt": "2025-02-26T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude’s extended thinking",
+      "summary": "Claude’s extended thinking",
+      "url": "https://www.anthropic.com/news/visible-extended-thinking",
+      "publishedAt": "2025-02-24T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude 3.7 Sonnet and Claude Code",
+      "summary": "Claude 3.7 Sonnet and Claude Code",
+      "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+      "publishedAt": "2025-02-24T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
+      "summary": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
+      "url": "https://www.anthropic.com/news/mou-uk-government",
+      "publishedAt": "2025-02-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Statement from Dario Amodei on the Paris AI Action Summit",
+      "summary": "Statement from Dario Amodei on the Paris AI Action Summit",
+      "url": "https://www.anthropic.com/news/paris-ai-summit",
+      "publishedAt": "2025-02-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "The Anthropic Economic Index",
+      "summary": "The Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
+      "publishedAt": "2025-02-10T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
+      "summary": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
+      "url": "https://www.anthropic.com/news/lyft-announcement",
+      "publishedAt": "2025-02-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic achieves ISO 42001 certification for responsible AI",
+      "summary": "Anthropic achieves ISO 42001 certification for responsible AI",
+      "url": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
+      "publishedAt": "2025-01-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Elections and AI in 2024: observations and learnings",
+      "summary": "Elections and AI in 2024: observations and learnings",
+      "url": "https://www.anthropic.com/news/elections-ai-2024",
+      "publishedAt": "2024-12-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing the Model Context Protocol",
+      "summary": "Introducing the Model Context Protocol",
+      "url": "https://www.anthropic.com/news/model-context-protocol",
+      "publishedAt": "2024-11-25T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Powering the next generation of AI development with AWS",
+      "summary": "Powering the next generation of AI development with AWS",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-trainium",
+      "publishedAt": "2024-11-22T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "The case for targeted regulation",
+      "summary": "The case for targeted regulation",
+      "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
+      "publishedAt": "2024-10-31T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude 3.5 Sonnet on GitHub Copilot",
+      "summary": "Claude 3.5 Sonnet on GitHub Copilot",
+      "url": "https://www.anthropic.com/news/github-copilot",
+      "publishedAt": "2024-10-29T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+      "summary": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+      "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+      "publishedAt": "2024-10-22T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Developing a computer use model",
+      "summary": "Developing a computer use model",
+      "url": "https://www.anthropic.com/news/developing-computer-use",
+      "publishedAt": "2024-10-22T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Announcing our updated Responsible Scaling Policy",
+      "summary": "Announcing our updated Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "publishedAt": "2024-10-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "U.S. Elections Readiness",
+      "summary": "U.S. Elections Readiness",
+      "url": "https://www.anthropic.com/news/us-elections-readiness",
+      "publishedAt": "2024-10-08T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Contextual Retrieval",
+      "summary": "Introducing Contextual Retrieval",
+      "url": "https://www.anthropic.com/news/contextual-retrieval",
+      "publishedAt": "2024-09-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Salesforce teams up with Anthropic to enhance Einstein capabilities with Claude",
+      "summary": "Salesforce teams up with Anthropic to enhance Einstein capabilities with Claude",
+      "url": "https://www.anthropic.com/news/salesforce-partnership",
+      "publishedAt": "2024-09-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Expanding our model safety bug bounty program",
+      "summary": "Expanding our model safety bug bounty program",
+      "url": "https://www.anthropic.com/news/model-safety-bug-bounty",
+      "publishedAt": "2024-08-08T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude is now available in Brazil",
+      "summary": "Claude is now available in Brazil",
+      "url": "https://www.anthropic.com/news/claude-brazil",
+      "publishedAt": "2024-08-01T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+      "summary": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
+      "publishedAt": "2024-07-17T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Fine-tune Claude 3 Haiku in Amazon Bedrock",
+      "summary": "Fine-tune Claude 3 Haiku in Amazon Bedrock",
+      "url": "https://www.anthropic.com/news/fine-tune-claude-3-haiku",
+      "publishedAt": "2024-07-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "A new initiative for developing third-party model evaluations",
+      "summary": "A new initiative for developing third-party model evaluations",
+      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "publishedAt": "2024-07-01T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Expanding access to Claude for government",
+      "summary": "Expanding access to Claude for government",
+      "url": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
+      "publishedAt": "2024-06-26T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Collaborate with Claude on Projects",
+      "summary": "Collaborate with Claude on Projects",
+      "url": "https://www.anthropic.com/news/projects",
+      "publishedAt": "2024-06-25T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude 3.5 Sonnet",
+      "summary": "Claude 3.5 Sonnet",
+      "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+      "publishedAt": "2024-06-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Challenges in red teaming AI systems",
+      "summary": "Challenges in red teaming AI systems",
+      "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
+      "publishedAt": "2024-06-12T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Testing and mitigating elections-related risks",
+      "summary": "Testing and mitigating elections-related risks",
+      "url": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
+      "publishedAt": "2024-06-06T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude to Canada",
+      "summary": "Introducing Claude to Canada",
+      "url": "https://www.anthropic.com/news/introducing-claude-to-canada",
+      "publishedAt": "2024-06-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Jay Kreps appointed to Anthropic's Board of Directors",
+      "summary": "Jay Kreps appointed to Anthropic's Board of Directors",
+      "url": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors",
+      "publishedAt": "2024-05-29T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Golden Gate Claude",
+      "summary": "Golden Gate Claude",
+      "url": "https://www.anthropic.com/news/golden-gate-claude",
+      "publishedAt": "2024-05-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Krishna Rao joins Anthropic as Chief Financial Officer",
+      "summary": "Krishna Rao joins Anthropic as Chief Financial Officer",
+      "url": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
+      "publishedAt": "2024-05-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Reflections on our Responsible Scaling Policy",
+      "summary": "Reflections on our Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
+      "publishedAt": "2024-05-20T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Mike Krieger joins Anthropic as Chief Product Officer",
+      "summary": "Mike Krieger joins Anthropic as Chief Product Officer",
+      "url": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
+      "publishedAt": "2024-05-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude is now available in Europe",
+      "summary": "Claude is now available in Europe",
+      "url": "https://www.anthropic.com/news/claude-europe",
+      "publishedAt": "2024-05-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Updating our Usage Policy",
+      "summary": "Updating our Usage Policy",
+      "url": "https://www.anthropic.com/news/updating-our-usage-policy",
+      "publishedAt": "2024-05-10T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Aligning on child safety principles",
+      "summary": "Aligning on child safety principles",
+      "url": "https://www.anthropic.com/news/child-safety-principles",
+      "publishedAt": "2024-04-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Third-party testing as a key ingredient of AI policy",
+      "summary": "Third-party testing as a key ingredient of AI policy",
+      "url": "https://www.anthropic.com/news/third-party-testing",
+      "publishedAt": "2024-03-25T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
+      "summary": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
+      "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
+      "publishedAt": "2024-03-20T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude 3 models on Vertex AI",
+      "summary": "Claude 3 models on Vertex AI",
+      "url": "https://www.anthropic.com/news/google-vertex-general-availability",
+      "publishedAt": "2024-03-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude 3 Haiku: our fastest model yet",
+      "summary": "Claude 3 Haiku: our fastest model yet",
+      "url": "https://www.anthropic.com/news/claude-3-haiku",
+      "publishedAt": "2024-03-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing the next generation of Claude",
+      "summary": "Introducing the next generation of Claude",
+      "url": "https://www.anthropic.com/news/claude-3-family",
+      "publishedAt": "2024-03-04T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Prompt engineering for business performance",
+      "summary": "Prompt engineering for business performance",
+      "url": "https://www.anthropic.com/news/prompt-engineering-for-business-performance",
+      "publishedAt": "2024-02-29T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Preparing for global elections in 2024",
+      "summary": "Preparing for global elections in 2024",
+      "url": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024",
+      "publishedAt": "2024-02-16T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Expanded legal protections and improvements to our API",
+      "summary": "Expanded legal protections and improvements to our API",
+      "url": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
+      "publishedAt": "2023-12-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude 2.1",
+      "summary": "Introducing Claude 2.1",
+      "url": "https://www.anthropic.com/news/claude-2-1",
+      "publishedAt": "2023-11-21T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
+      "summary": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
+      "url": "https://www.anthropic.com/news/policy-recap-q4-2023",
+      "publishedAt": "2023-11-05T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
+      "summary": "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/uk-ai-safety-summit",
+      "publishedAt": "2023-11-01T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Expanding access to safer AI with Amazon",
+      "summary": "Expanding access to safer AI with Amazon",
+      "url": "https://www.anthropic.com/news/anthropic-amazon",
+      "publishedAt": "2023-09-25T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Prompt engineering for Claude's long context window",
+      "summary": "Prompt engineering for Claude's long context window",
+      "url": "https://www.anthropic.com/news/prompting-long-context",
+      "publishedAt": "2023-09-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "The Long-Term Benefit Trust",
+      "summary": "The Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+      "publishedAt": "2023-09-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Anthropic's Responsible Scaling Policy",
+      "summary": "Introducing Anthropic's Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+      "publishedAt": "2023-09-19T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic partners with BCG",
+      "summary": "Anthropic partners with BCG",
+      "url": "https://www.anthropic.com/news/anthropic-bcg",
+      "publishedAt": "2023-09-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude Pro",
+      "summary": "Introducing Claude Pro",
+      "url": "https://www.anthropic.com/news/claude-pro",
+      "publishedAt": "2023-09-07T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "SKT Partnership Announcement",
+      "summary": "SKT Partnership Announcement",
+      "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+      "publishedAt": "2023-08-15T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Releasing Claude Instant 1.2",
+      "summary": "Releasing Claude Instant 1.2",
+      "url": "https://www.anthropic.com/news/releasing-claude-instant-1-2",
+      "publishedAt": "2023-08-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Frontier threats red teaming for AI safety",
+      "summary": "Frontier threats red teaming for AI safety",
+      "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
+      "publishedAt": "2023-07-26T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Frontier Model Security",
+      "summary": "Frontier Model Security",
+      "url": "https://www.anthropic.com/news/frontier-model-security",
+      "publishedAt": "2023-07-25T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude 2",
+      "summary": "Claude 2",
+      "url": "https://www.anthropic.com/news/claude-2",
+      "publishedAt": "2023-07-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Charting a path to AI accountability",
+      "summary": "Charting a path to AI accountability",
+      "url": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
+      "publishedAt": "2023-06-13T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
+      "summary": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
+      "url": "https://www.anthropic.com/news/anthropic-series-c",
+      "publishedAt": "2023-05-23T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Zoom Partnership and Investment in Anthropic",
+      "summary": "Zoom Partnership and Investment in Anthropic",
+      "url": "https://www.anthropic.com/news/zoom-partnership-and-investment",
+      "publishedAt": "2023-05-16T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing 100K Context Windows",
+      "summary": "Introducing 100K Context Windows",
+      "url": "https://www.anthropic.com/news/100k-context-windows",
+      "publishedAt": "2023-05-11T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Claude’s Constitution",
+      "summary": "Claude’s Constitution",
+      "url": "https://www.anthropic.com/news/claudes-constitution",
+      "publishedAt": "2023-05-09T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Partnering with Scale to Bring Generative AI to Enterprises",
+      "summary": "Partnering with Scale to Bring Generative AI to Enterprises",
+      "url": "https://www.anthropic.com/news/partnering-with-scale",
+      "publishedAt": "2023-04-26T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
+      "summary": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
+      "url": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
+      "publishedAt": "2023-04-20T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Introducing Claude",
+      "summary": "Introducing Claude",
+      "url": "https://www.anthropic.com/news/introducing-claude",
+      "publishedAt": "2023-03-14T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Core views on AI safety: When, why, what, and how",
+      "summary": "Core views on AI safety: When, why, what, and how",
+      "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "publishedAt": "2023-03-08T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Partners with Google Cloud",
+      "summary": "Anthropic Partners with Google Cloud",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+      "publishedAt": "2023-02-03T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
+      "summary": "Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai",
+      "publishedAt": "2022-04-29T00:00:00.000Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Anthropic raises $124 million to build more reliable, general AI systems",
+      "summary": "Anthropic raises $124 million to build more reliable, general AI systems",
+      "url": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
+      "publishedAt": "2021-05-28T00:00:00.000Z",
+      "imageUrl": null
+    }
+  ]
+}

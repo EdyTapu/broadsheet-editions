@@ -1,0 +1,85 @@
+# Prints and publishes a Broadsheet edition three times a day.
+#
+# Crons are UTC and set ~25 min before the target US-Eastern drop times
+# (8am / 2pm / 7pm EDT) because GitHub Actions schedules drift 5-30 min at
+# busy times. The slot is derived from wide UTC-hour bands, not exact times,
+# so drift can never mislabel an edition. DST: local drop times shift one
+# hour later in winter; accepted (see plan).
+name: Print edition
+
+on:
+  schedule:
+    - cron: '35 11 * * *'   # ~7:35am EDT -> morning
+    - cron: '35 17 * * *'   # ~1:35pm EDT -> midday
+    - cron: '35 22 * * *'   # ~6:35pm EDT -> evening
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: 'Edition slot'
+        required: true
+        default: 'morning'
+        type: choice
+        options: [morning, midday, evening]
+      no_claude:
+        description: 'Skip the Claude editor (heuristic fallback)'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: print-edition
+  cancel-in-progress: false
+
+jobs:
+  print:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Determine slot
+        id: slot
+        run: |
+          if [ -n "${{ inputs.slot }}" ]; then
+            SLOT="${{ inputs.slot }}"
+          else
+            H=$(date -u +%H)
+            if   [ "$H" -lt 14 ]; then SLOT=morning
+            elif [ "$H" -lt 20 ]; then SLOT=midday
+            else                       SLOT=evening
+            fi
+          fi
+          echo "slot=$SLOT" >> "$GITHUB_OUTPUT"
+          echo "Printing the $SLOT edition"
+
+      - name: Build edition
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
+          TZ: America/New_York
+        run: |
+          FLAGS=""
+          if [ "${{ inputs.no_claude }}" = "true" ]; then FLAGS="--no-claude"; fi
+          node build-edition.js --slot "${{ steps.slot.outputs.slot }}" $FLAGS
+
+      - name: Commit and push edition
+        run: |
+          git config user.name "broadsheet-press"
+          git config user.email "press@users.noreply.github.com"
+          git add editions/
+          git diff --cached --quiet && { echo "nothing to publish"; exit 0; }
+          ID=$(node -e "console.log(JSON.parse(require('fs').readFileSync('editions/latest.json','utf8')).id)")
+          git commit -m "print $ID"
+          # Another slot's run may have pushed meanwhile.
+          git pull --rebase origin main
+          git push origin main

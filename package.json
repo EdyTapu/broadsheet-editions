@@ -1,0 +1,15 @@
+{
+  "name": "broadsheet-press",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The printing press: fetch feeds, normalize, run the Claude editorial pass, emit edition JSON.",
+  "type": "commonjs",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node build-edition.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.57.0",
+    "fast-xml-parser": "^5.2.5"
+  }
+}

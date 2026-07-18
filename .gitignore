@@ -1,0 +1,4 @@
+node_modules/
+editions/normalized.json
+.DS_Store
+.env

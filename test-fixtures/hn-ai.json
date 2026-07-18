@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "title": "A grumpy screed about AI in software engineering",
+      "summary": "52 points, 63 comments on Hacker News",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "publishedAt": "2026-07-18T00:40:08Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "summary": "482 points, 307 comments on Hacker News",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "publishedAt": "2026-07-17T22:26:30Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "summary": "64 points, 61 comments on Hacker News",
+      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+      "publishedAt": "2026-07-17T21:24:07Z",
+      "imageUrl": null
+    },
+    {
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "summary": "170 points, 97 comments on Hacker News",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "publishedAt": "2026-07-17T21:22:53Z",
+      "imageUrl": null
+    },
+    {
+      "title": "The state of open source AI",
+      "summary": "417 points, 302 comments on Hacker News",
+      "url": "https://stateofopensource.ai/",
+      "publishedAt": "2026-07-17T14:31:10Z",
+      "imageUrl": null
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "summary": "92 points, 6 comments on Hacker News",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "publishedAt": "2026-07-17T14:21:35Z",
+      "imageUrl": null
+    },
+    {
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "summary": "68 points, 33 comments on Hacker News",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "publishedAt": "2026-07-17T12:42:12Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
+      "summary": "203 points, 1 comments on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48945681",
+      "publishedAt": "2026-07-17T10:45:21Z",
+      "imageUrl": null
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "summary": "322 points, 126 comments on Hacker News",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "publishedAt": "2026-07-16T20:18:15Z",
+      "imageUrl": null
+    },
+    {
+      "title": "Kimi K3 Intelligence, Performance and Price Analysis",
+      "summary": "51 points, 2 comments on Hacker News",
+      "url": "https://artificialanalysis.ai/models/kimi-k3",
+      "publishedAt": "2026-07-16T20:09:46Z",
+      "imageUrl": null
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "summary": "388 points, 520 comments on Hacker News",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "publishedAt": "2026-07-16T20:03:23Z",
+      "imageUrl": null
+    }
+  ]
+}
