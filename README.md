@@ -9,9 +9,12 @@ The result is a static `editions/<date>-<slot>.json` (plus `editions/latest.json
 ```sh
 npm install
 node build-edition.js --slot morning --dry-run     # fetch + normalize only -> editions/normalized.json
-node build-edition.js --slot morning --no-claude   # full edition, heuristic editor (no key needed)
-ANTHROPIC_API_KEY=sk-ant-... node build-edition.js --slot morning
+node build-edition.js --slot morning --no-claude   # full edition, heuristic editor
+node build-edition.js --slot morning               # full edition; editor uses ANTHROPIC_API_KEY if set,
+                                                   # else the `claude` CLI on your Claude subscription
 ```
+
+In CI the editor authenticates with `CLAUDE_CODE_OAUTH_TOKEN` (from `claude setup-token`) - no API key required.
 
 Flags: `--slot morning|midday|evening`, `--dry-run`, `--no-claude`, `--fixtures` (replay canned feeds from `test-fixtures/`), `--save-fixtures`.
 
