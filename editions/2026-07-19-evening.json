@@ -1,0 +1,901 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-19-evening",
+  "date": "2026-07-19",
+  "slot": "evening",
+  "slotTitle": "Evening Edition",
+  "generatedAt": "2026-07-19T23:33:08.000Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The evening edition, assembled without its editor.",
+    "weather": {
+      "tempF": 78,
+      "condition": "overcast",
+      "highF": 93,
+      "lowF": 72,
+      "precipPct": 32
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "31994017dd46",
+      "headline": "Mbappe first to win Golden Boot twice as Rodri named best player",
+      "kicker": "news",
+      "blurb": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament, while Spain's Rodri lands the Golden Ball as the best player."
+    },
+    "secondaries": [
+      {
+        "storyId": "63a6a9bdc3f1",
+        "headline": "We want Texans to know their rights",
+        "kicker": "tech",
+        "blurb": "61 points, 8 comments on Hacker News"
+      },
+      {
+        "storyId": "f298cc87c2f7",
+        "headline": "Gilbert has 10 strikeouts in 6 innings, Raley and Young hit HRs as Mariners beat Giants 6-3",
+        "kicker": "sports",
+        "blurb": "— Logan Gilbert had 10 strikeouts across six strong innings, Luke Raley and Cole Young homered, and the Seattle Mariners beat the San Francisco Giants 6-3 on Sunday."
+      },
+      {
+        "storyId": "e17718920c17",
+        "headline": "AI Mania Is Eviscerating Global Decision-Making",
+        "kicker": "ai",
+        "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s"
+      },
+      {
+        "storyId": "27c8a171f932",
+        "headline": "10 best anime to watch if you love The Odyssey (#4 is a near-perfect masterpiece)",
+        "kicker": "gaming",
+        "blurb": "Some are sword-and-sandals classics, while others are homecoming adventures."
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "de713e9d45fc",
+        "headline": "Watch Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
+        "kicker": "music"
+      },
+      {
+        "storyId": "ab63cbd2522f",
+        "headline": "$5 Dinners?! TikTok chef shares viral affordable recipes amid rising food costs - Modern Ghana",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "51bace5a9fb1",
+        "headline": "Who made the difference for Spain? World Cup final player ratings",
+        "kicker": "news"
+      },
+      {
+        "storyId": "1573541d165b",
+        "headline": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+        "kicker": "news"
+      },
+      {
+        "storyId": "f4c62a58efc4",
+        "headline": "Ferran Torres gives Spain extra-time lead against Argentina",
+        "kicker": "news"
+      },
+      {
+        "storyId": "99918ac0a48c",
+        "headline": "Show HN: A canvas-based note taking and organizer app",
+        "kicker": "tech"
+      },
+      {
+        "storyId": "e4f7cf4893fb",
+        "headline": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+        "kicker": "news"
+      },
+      {
+        "storyId": "417a710eff9f",
+        "headline": "How to Abandon Your Climate Commitments and Get Away with It",
+        "kicker": "tech"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-19T23:33:08.000Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 64656,
+        "changePct": -0.19
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1869.11,
+        "changePct": 0.43
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "ab63cbd2522f",
+          "headline": "$5 Dinners?! TikTok chef shares viral affordable recipes amid rising food costs - Modern Ghana",
+          "blurb": "$5 Dinners?! TikTok chef shares viral affordable recipes amid rising food costs Modern Ghana",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyR25PTVFjR3JnR1VJUk9nc3d2d2xnV2ZGVHJEX2drcDRBcF9XdVBKZU1kcEJRUHhNc3FRSDZDWi14cldFWmVjaTF0WnNOd2Q0WG5MVFpaVG9tUVpocHdV0gFcQVVfeXFMTlhwVVJIaWYwMnpHY2lFVUJ3Sldubm9CLU84YmEyRWhQVV9UY092d1F1b3FvdzlBVHktV0IzZDZWZmNRNWtYbGlFRkFTeUlsaDRraEpMTkx5ZG1yMl8?oc=5",
+          "publishedAt": "2026-07-19T20:11:42.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2); 4. najaah (na_ajahhhhh)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-19T23:33:09.056Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "7b61cef6eb0e",
+          "headline": "YouTubers sneak into The Odyssey screening by bringing Trojan Horse to theater",
+          "blurb": "In a video shared to TikTok, a team of YouTubers tried to avoid paying for tickets to see The Odyssey by sneaking into the cinema in a Trojan horse.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/youtubers-sneak-into-the-odyssey-screening-by-bringing-trojan-horse-to-theater-3388912/",
+          "publishedAt": "2026-07-19T20:00:47.000Z",
+          "importance": 64,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/trojan-.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "5dab6f7b6105",
+          "headline": "Hatsune Miku World Cup custody battle timeline: Every owner and victim of the 2-1 curse",
+          "blurb": "Hatsune Miku has passed from Japan to Brazil, Norway, England, and Argentina during the 2026 World Cup, with Spain now able to claim her in the final.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/hatsune-miku-world-cup-custody-battle-timeline-every-owner-and-victim-of-the-2-1-curse-3388916/",
+          "publishedAt": "2026-07-19T19:48:24.000Z",
+          "importance": 56,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/hatsune-miku-custody-battle.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "478570d0b402",
+          "headline": "Hatsune Miku figure turns pop-star into DoodleBob armed with the magic pencil",
+          "blurb": "Hatsune Miku has joined forces with one of SpongeBob SquarePants’ strangest villains for a limited-edition DoodleBob figure.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/hatsune-miku-figure-turns-pop-star-into-doodlebob-armed-with-the-magic-pencil-3388905/",
+          "publishedAt": "2026-07-19T19:00:21.000Z",
+          "importance": 48,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/hatsune-miku-doodle-bob.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "41be1403918c",
+          "headline": "Skydiving priest performs blessing 14,000 ft in the air",
+          "blurb": "A vicar from the UK completed his first-ever skydive from 14,000 feet to raise money for his church, and performed a blessing mid-fall.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/skydiving-priest-performs-blessing-14000-ft-in-the-air-3388904/",
+          "publishedAt": "2026-07-19T18:46:29.000Z",
+          "importance": 40,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/skydive.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "375d7f8f513d",
+          "headline": "Old School RuneScape comes to indie mega-hit Meccha Chameleon with Lumbridge map",
+          "blurb": "Jagex has teamed up with community creators to turn Lumbridge into a playable Meccha Chameleon arena, complete with classic NPCs and RuneScape items.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/gaming/old-school-runescape-comes-to-indie-mega-hit-meccha-chameleon-with-lumbridge-map-3388900/",
+          "publishedAt": "2026-07-19T17:35:17.000Z",
+          "importance": 32,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/meccha-chameleon-OSRS-map.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "1d75834c1baa",
+          "headline": "Elderly man arrested in 45-year-long murder case after police use his trash to find DNA",
+          "blurb": "A 79-year-old man has been arrested after investigators linked him to a decades-old murder case using DNA samples found in his trash.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/elderly-man-arrested-in-45-year-long-murder-case-after-police-use-his-trash-to-find-dna-3388890/",
+          "publishedAt": "2026-07-19T16:25:20.000Z",
+          "importance": 24,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/collage-2.jpg?width=1080&quality=75&format=auto"
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "f298cc87c2f7",
+          "headline": "Gilbert has 10 strikeouts in 6 innings, Raley and Young hit HRs as Mariners beat Giants 6-3",
+          "blurb": "— Logan Gilbert had 10 strikeouts across six strong innings, Luke Raley and Cole Young homered, and the Seattle Mariners beat the San Francisco Giants 6-3 on Sunday.",
+          "source": "ESPN MLB",
+          "url": "http://www.espn.com/mlb/recap?gameId=401816183",
+          "publishedAt": "2026-07-19T23:25:30.000Z",
+          "importance": 80,
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816183.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "9377f9bf7a82",
+          "headline": "Cardinals executive to appeal ban for violating NFL's gambling policy",
+          "blurb": "Cardinals personnel executive Ryan Gold is appealing an indefinite suspension for violating the NFL's gambling policy, his attorney said.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49404894/cardinals-executive-appeal-ban-violating-nfl-gambling-policy",
+          "publishedAt": "2026-07-19T23:23:57.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/photo/2024/0422/r1322967_1296x729_16-9.jpg"
+        },
+        {
+          "id": "bf480c2e6315",
+          "headline": "Johnson, Soler and Neto power the Angels to a 3-2 win over the Tigers",
+          "blurb": "— Ryan Johnson struck out five and allowed one run in five solid innings, Jorge Soler and Zach Neto delivered RBI hits and the Los Angeles Angels snapped a four-game skid with a 3-2 win over the Detroit Tigers on Sunday.",
+          "source": "ESPN MLB",
+          "url": "http://www.espn.com/mlb/recap?gameId=401816182",
+          "publishedAt": "2026-07-19T23:17:29.000Z",
+          "importance": 64,
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816182.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "f3f60277817c",
+          "headline": "San Francisco Giants vs. Seattle Mariners: Game Highlights",
+          "blurb": "San Francisco Giants vs. Seattle Mariners: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49404998/game-highlights",
+          "publishedAt": "2026-07-19T23:10:09.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0719/d4fe42fc-6600-4f0c-adc4-7edd706b31b2/d4fe42fc-6600-4f0c-adc4-7edd706b31b2.jpg"
+        },
+        {
+          "id": "bcc2b4abbd0f",
+          "headline": "Abrams and Crews hit back-to-back homers Nationals beat Athletics 5-2",
+          "blurb": "— CJ Abrams and Dylan Crews hit back-to-back homers in the fifth inning to send the Washington Nationals to a 5-2 victory over the Athletics on Sunday.",
+          "source": "ESPN MLB",
+          "url": "http://www.espn.com/mlb/recap?gameId=401816185",
+          "publishedAt": "2026-07-19T23:03:29.000Z",
+          "importance": 48,
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816185.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "904eadb837be",
+          "headline": "Brooklyn Nets vs. Oklahoma City Thunder: Game Highlights",
+          "blurb": "Brooklyn Nets vs. Oklahoma City Thunder: Game Highlights",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/video/clip/_/id/49404860/game-highlights",
+          "publishedAt": "2026-07-19T23:01:11.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0719/b6104f18-c1c2-4735-a41c-79c16d759880/b6104f18-c1c2-4735-a41c-79c16d759880.jpg"
+        },
+        {
+          "id": "3bee54f5188f",
+          "headline": "Buoyed by Drake Baldwin's breakout, Braves secure series win",
+          "blurb": "After returning from an oblique injury that kept him sidelined for nearly a month, Atlanta Braves catcher Drake Baldwin was a career-best 5 for 5 at the plate and homered twice in his club's 8-5 victory over the Texas Rangers on Sunday at Truist Park.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49404665/buoyed-drake-baldwin-breakout-braves-secure-series-win",
+          "publishedAt": "2026-07-19T22:54:17.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691496_600x600_1-1.jpg"
+        },
+        {
+          "id": "346c862016b2",
+          "headline": "Washington Nationals vs. Athletics: Game Highlights",
+          "blurb": "Washington Nationals vs. Athletics: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49404627/game-highlights",
+          "publishedAt": "2026-07-19T22:52:49.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0719/a521fd5c-e3dd-429d-b0b5-0077917412a2/a521fd5c-e3dd-429d-b0b5-0077917412a2.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "e17718920c17",
+          "headline": "AI Mania Is Eviscerating Global Decision-Making",
+          "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+          "publishedAt": "2026-07-19T05:06:21.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "375000db8198",
+          "headline": "Claude Code uses Bun written in Rust now",
+          "blurb": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "publishedAt": "2026-07-19T03:54:09.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "600abfd6ba71",
+          "headline": "SQLite Query Explainer",
+          "blurb": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
+          "publishedAt": "2026-07-18T17:19:10.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "73c5f10966fb",
+          "headline": "Claude make Fable 5 permanent",
+          "blurb": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+          "publishedAt": "2026-07-18T06:00:13.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "1547a9b1ab9e",
+          "headline": "nascheme/quixote",
+          "blurb": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/quixote/",
+          "publishedAt": "2026-07-18T05:27:49.000Z",
+          "importance": 48,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "31994017dd46",
+          "headline": "Mbappe first to win Golden Boot twice as Rodri named best player",
+          "blurb": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament, while Spain's Rodri lands the Golden Ball as the best player.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T23:00:56.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a21/live/f2d6a7c0-83b1-11f1-a653-459bdcde0787.jpg"
+        },
+        {
+          "id": "51bace5a9fb1",
+          "headline": "Who made the difference for Spain? World Cup final player ratings",
+          "blurb": "BBC Sport journalist Neil Johnston rates the players after the World Cup final between Spain and Argentina.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgjgp7656xo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T22:44:27.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60c2/live/b52da1c0-83b2-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "1573541d165b",
+          "headline": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+          "blurb": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T22:16:39.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467e/live/42b59d30-83af-11f1-ab77-f798412624b5.jpg"
+        },
+        {
+          "id": "f4c62a58efc4",
+          "headline": "Ferran Torres gives Spain extra-time lead against Argentina",
+          "blurb": "Ferran Torres breaks the deadlock, scoring in extra time for Spain in the World Cup final against Argentina at the New York New Jersey Stadium.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cp30nd7vpn2o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T22:03:04.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd2/live/82b38750-83bc-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "e4f7cf4893fb",
+          "headline": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+          "blurb": "With President Trump in attendance, an all-superstar lineup that included Madonna, BTS, Justin Bieber and Burna Boy felt a little more political than it might have otherwise.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
+          "publishedAt": "2026-07-19T21:29:52.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "a10f18761f0d",
+          "headline": "Fire crews battling blaze on Arthur’s Seat in Edinburgh",
+          "blurb": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T20:49:32.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb3b/live/88099920-83ac-11f1-ab77-f798412624b5.jpg"
+        },
+        {
+          "id": "86392d3caac4",
+          "headline": "Burnham to promise 'more breathing room' for people in first speech as PM",
+          "blurb": "The Labour leader will say he is \"acutely conscious\" of the UK's high turnover of prime ministers, as he becomes the seventh in 10 years on Monday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T20:19:06.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/c05bf310-83a5-11f1-8175-0b71720eeb65.jpg"
+        },
+        {
+          "id": "c748f1f1ebcf",
+          "headline": "Evenepoel criticises 'inhuman' night doping tests as Vingegaard crashes out",
+          "blurb": "Remco Evenepoel criticises \"inhuman\" middle-of-the night doping tests at the Tour de France after winning stage 15, while two-time champion Jonas Vingegaard crashes out.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/cycling/articles/c0jl84wp50wo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T19:47:12.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4771/live/a1054610-8391-11f1-a4c3-dfd0ee4be073.jpg"
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "27c8a171f932",
+          "headline": "10 best anime to watch if you love The Odyssey (#4 is a near-perfect masterpiece)",
+          "blurb": "Some are sword-and-sandals classics, while others are homecoming adventures.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/best-anime-like-the-odyssey/",
+          "publishedAt": "2026-07-19T23:00:12.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-17.jpg"
+        },
+        {
+          "id": "07a5b958da1c",
+          "headline": "World of Warcraft and RuneScape Fans Want Official Jimothy Support After Game Devs Show Love for Viral Raccoon",
+          "blurb": "The internet has fallen in love with a viral raccoon named Jimothy, and so has the gaming industry.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/world-of-warcraft-and-runescape-fans-want-official-jimothy-support-after-game-devs-show-love-for-viral-raccoon",
+          "publishedAt": "2026-07-19T21:42:47.000Z",
+          "importance": 72,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/19/jimothy-the-raccoon-in-video-games-1784496214229.png"
+        },
+        {
+          "id": "726a2258a070",
+          "headline": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games",
+          "blurb": "Executives at Xbox have once again attempted to clarify the company's approach to exclusives, promising that \"Gears of War: E-Day and Clockwork Revolution are not the only titles\" it's planning.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
+          "publishedAt": "2026-07-19T19:15:57.000Z",
+          "importance": 64,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png"
+        },
+        {
+          "id": "25bab1e01630",
+          "headline": "Game of Thrones is finally getting the PC game we've been waiting for next year",
+          "blurb": "Game of Thrones: War for Westeros has been delayed into early 2027, so we'll have to wait and see if it can redeem the franchise's video game woes",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/game-of-thrones-is-getting-a-new-game/",
+          "publishedAt": "2026-07-19T18:35:09.000Z",
+          "importance": 56,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/game-of-thrones-war-for-westeros.jpg"
+        },
+        {
+          "id": "9353086b3b87",
+          "headline": "Steam most played today",
+          "blurb": "1. Counter-Strike 2 (1,275,982 peak); 2. PUBG: BATTLEGROUNDS (732,248 peak); 3. Dota 2 (635,321 peak); 4. Wallpaper Engine (111,342 peak); 5. Apex Legends™ (284,062 peak); 6. Slay the Spire 2 (196,023 peak); 7. R.E.P.O. (94,560 peak); 8. Grand Theft Auto V Legacy (98,540 peak); 9. FiveM (192,252 peak); 10. Geometry Dash (68,410 peak)",
+          "source": "Steam Most Played",
+          "url": "https://store.steampowered.com/charts/mostplayed",
+          "publishedAt": "2026-07-19T23:33:09.992Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "548f42227aaa",
+          "headline": "The Odyssey's massive $124 million weekend is another win for Christopher Nolan",
+          "blurb": "The massive opening weekend box office for The Odyssey should show studios that if they let visionary filmmakers do great work, people will come",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-odyssey-opening-weekend-box-office/",
+          "publishedAt": "2026-07-19T17:46:00.000Z",
+          "importance": 40,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-odyssey-_-official-trailer-0-35-screenshot.jpeg"
+        },
+        {
+          "id": "e720a52e5ab4",
+          "headline": "The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend",
+          "blurb": "Director Christopher Nolan's The Odyssey has blown box office expectations out of the water with an opening weekend that brought home an incredible $264.064 million worldwide.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
+          "publishedAt": "2026-07-19T17:25:46.000Z",
+          "importance": 32,
+          "imageUrl": "https://assets-prd.ignimgs.com/2025/03/15/the-odyssey-thumb-1741998682527.jpg"
+        },
+        {
+          "id": "12e1d0270b76",
+          "headline": "Matt Damon's forgotten fantasy blockbuster deserves another look before The Odyssey",
+          "blurb": "Before Mat Damon sets sail in Christopher Nolan's The Odyssey, dive into this Chinese-U.S. co-production that's stupid fun.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-best-matt-damon-movie-to-watch-while-waiting-for-the-odyssey-isnt-one-youd-expect/",
+          "publishedAt": "2026-07-19T17:00:12.000Z",
+          "importance": 24,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-great-wall-4.jpg"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "de713e9d45fc",
+          "headline": "Watch Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
+          "blurb": "The 11-minute spectacle included performances by Shakira, Justin Bieber, BTS, Burna Boy, and Coldplay’s Chris Martin",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
+          "publishedAt": "2026-07-19T21:48:09.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5d3e836a8427b11c98f333/master/pass/GettyImages-2286189927.jpg"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Yung Miami – Spend Dat; 5. Ella Langley – Be Her; 6. Drake – Shabang; 7. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 8. Morgan Wallen – 20 Cigarettes; 9. Olivia Rodrigo – stupid song; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Morgan Wallen – I'm The Problem; 12. Lil Baby – Freestyle; 1",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-19T23:33:09.513Z",
+          "importance": 72,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "e42e8e0220c9",
+          "headline": "Canada’s FEQ Gets The Festival Experience Right",
+          "blurb": "If the summer 2026 US concert season has a theme, it’s blue dot fever . Tour cancellations abound, while other shows are way undersold. Theories abound as to why this fever rages, although it goes without saying that concerts are expensive: A Pollstar study found that the average ticket price for the top 100 worldwide tours rose by 37.2% between 2019 and 2025. The post Canada’s FEQ Gets The Festiv",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505733/festival-dete-de-quebec/reviews/concert-review/",
+          "publishedAt": "2026-07-19T18:10:24.000Z",
+          "importance": 64,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/feq-2026.jpg?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "63a6a9bdc3f1",
+          "headline": "We want Texans to know their rights",
+          "blurb": "61 points, 8 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+          "publishedAt": "2026-07-19T22:03:11Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "99918ac0a48c",
+          "headline": "Show HN: A canvas-based note taking and organizer app",
+          "blurb": "23 points, 6 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.passinote.app/",
+          "publishedAt": "2026-07-19T21:31:48Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "417a710eff9f",
+          "headline": "How to Abandon Your Climate Commitments and Get Away with It",
+          "blurb": "34 points, 3 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
+          "publishedAt": "2026-07-19T21:24:03Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "fd0a7ef35a9d",
+          "headline": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "blurb": "164 points, 71 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "publishedAt": "2026-07-19T21:18:10Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "c71e6b13e93e",
+          "headline": "A new Intel Itanium (IA-64) emulator that boots Windows",
+          "blurb": "31 points, 20 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+          "publishedAt": "2026-07-19T20:50:42Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "c51bfc745a3b",
+          "headline": "Americans are angry about data centers. Politicians are feeling the pressure",
+          "blurb": "34 points, 14 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/",
+          "publishedAt": "2026-07-19T20:50:07Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "6225cfd7b374",
+          "headline": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+          "blurb": "64 points, 15 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+          "publishedAt": "2026-07-19T19:27:16Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "cca06f216a08",
+          "headline": "The Last MPEG-4 Visual Patent Has Expired",
+          "blurb": "143 points, 32 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+          "publishedAt": "2026-07-19T16:45:17Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 243
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 829
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1039
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 4
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 29
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day"
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/all/top/.rss?t=day"
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 429 for https://www.reddit.com/r/Games/top/.rss?t=day"
+    }
+  ]
+}
