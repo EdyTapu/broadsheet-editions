@@ -47,6 +47,11 @@ jobs:
 
       - run: npm ci
 
+      # The editor runs on the Claude subscription via the claude CLI
+      # (CLAUDE_CODE_OAUTH_TOKEN from `claude setup-token`). No API key needed;
+      # if ANTHROPIC_API_KEY is ever set as a secret, the SDK path wins instead.
+      - run: npm install -g @anthropic-ai/claude-code
+
       - name: Determine slot
         id: slot
         run: |
@@ -64,6 +69,7 @@ jobs:
 
       - name: Build edition
         env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
           TZ: America/New_York

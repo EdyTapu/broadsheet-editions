@@ -4,111 +4,121 @@
   "date": "2026-07-19",
   "slot": "morning",
   "slotTitle": "Morning Edition",
-  "generatedAt": "2026-07-19T12:28:21.982Z",
-  "editorial": "fallback",
+  "generatedAt": "2026-07-19T22:21:10.560Z",
+  "editorial": "claude",
   "masthead": {
-    "tagline": "The morning edition, assembled without its editor.",
+    "tagline": "Overcast at 87, high of 93, and a 28 percent chance the sky does anything about it.",
     "weather": {
-      "tempF": 75,
-      "condition": "clear",
+      "tempF": 87,
+      "condition": "overcast",
       "highF": 93,
       "lowF": 72,
-      "precipPct": 19
+      "precipPct": 28
     }
   },
   "frontPage": {
     "lead": {
-      "storyId": "faf8c0007eca",
-      "headline": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
-      "kicker": "news",
-      "blurb": "Meanwhile Conservative leader Kemi Badenoch says Burnham is a \"people pleaser\", ahead of him becoming prime minister on Monday."
+      "storyId": "9d1ca5a29431",
+      "headline": "Third US Soldier Killed as Iran Strikes Widen",
+      "kicker": "Middle East",
+      "blurb": "A US service member died in Iraq during the controlled detonation of a downed Iranian drone, a day after two troops were killed in Jordan, and Washington answered with fresh airstrikes on Iran. Iranian missiles fired toward Jordan now risk pulling Israel into the exchange."
     },
     "secondaries": [
       {
-        "storyId": "17312165a5ba",
-        "headline": "The death and rebirth of my home server",
-        "kicker": "tech",
-        "blurb": "11 points, 3 comments on Hacker News"
+        "storyId": "f4c62a58efc4",
+        "headline": "Torres Breaks Deadlock in Extra Time of World Cup Final",
+        "kicker": "World Cup",
+        "blurb": "Ferran Torres scored in extra time to put Spain ahead of a ten-man Argentina at the New York New Jersey Stadium. Trump watched from the stands under heavy security."
       },
       {
-        "storyId": "e17718920c17",
-        "headline": "AI Mania Is Eviscerating Global Decision-Making",
-        "kicker": "ai",
-        "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s"
+        "storyId": "86392d3caac4",
+        "headline": "Burnham Takes Over as Britain's Seventh PM in a Decade",
+        "kicker": "Britain",
+        "blurb": "The Labour leader enters Downing Street on Monday promising \"more breathing room\" and fresh backing for the North Sea. Thames Water creditors are already drafting a legal challenge to any nationalisation."
       },
       {
-        "storyId": "04d023004215",
-        "headline": "NFL players love wearing their 'slippers and slides, baby!'",
-        "kicker": "sports",
-        "blurb": "From Hulk slides to Hot Wheels slippers to therapeutic mules, NFL players focus on their feet off the field."
+        "storyId": "f4bd263aa059",
+        "headline": "Russia Fires 41 Missiles and 125 Drones at Ukraine",
+        "kicker": "Ukraine",
+        "blurb": "Eight people were killed and dozens injured as several cities were struck overnight, with Kyiv the primary target. Ukraine continued its own campaign against Russian infrastructure."
       },
       {
-        "storyId": "25a9b4bf853e",
-        "headline": "Games like The Odyssey: 10 games that capture the spirit of Christopher Nolan's latest",
-        "kicker": "gaming",
-        "blurb": "From Assassin's Creed: Odyssey to God of War, and Hades to Shadow of the Colossus"
+        "storyId": "73c5f10966fb",
+        "headline": "Anthropic Keeps Fable 5 in Max and Team Plans",
+        "kicker": "AI",
+        "blurb": "From July 20 Fable 5 stays bundled at half limits for Max and Team Premium, with Pro users getting a one-time $100 credit. Competitive pressure from GPT-5.6 Sol made removing it untenable."
       }
     ],
     "briefs": [
       {
-        "storyId": "97ed94b84ad9",
-        "headline": "Apple Music Top Songs (US)",
-        "kicker": "music"
+        "storyId": "225f1c1a975c",
+        "headline": "Apple Retakes Most-Valuable-Company Title From Nvidia",
+        "kicker": "Markets"
       },
       {
-        "storyId": "e16ede50400a",
-        "headline": "Trending TikTok sounds",
-        "kicker": "tiktok"
+        "storyId": "a33f88c801fe",
+        "headline": "Ryan Fox Birdies the 72nd to Win The Open",
+        "kicker": "Golf"
       },
       {
-        "storyId": "df0c4cb977ce",
-        "headline": "'Corny On The Bob' A Rising TikTok Meme Thanks To This TikToker's Excellent Meal Showcase Videos",
-        "kicker": "internet"
+        "storyId": "c4962e7031dd",
+        "headline": "Dozens Missing After Ferry Sinks Off Guyana",
+        "kicker": "World"
       },
       {
-        "storyId": "ebd210903ce3",
-        "headline": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-        "kicker": "markets"
+        "storyId": "3aec985379c8",
+        "headline": "Moonshot Halts New Signups Under Kimi K3 Load",
+        "kicker": "AI"
       },
       {
-        "storyId": "fdf722c98f4c",
-        "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-        "kicker": "news"
+        "storyId": "e720a52e5ab4",
+        "headline": "Nolan's Odyssey Opens to $264 Million Worldwide",
+        "kicker": "Film"
       },
       {
-        "storyId": "f4bd263aa059",
-        "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
-        "kicker": "news"
+        "storyId": "6fe4b5af0b08",
+        "headline": "Thunder Send Lu Dort to Hawks in Three-Team Deal",
+        "kicker": "NBA"
+      },
+      {
+        "storyId": "ec866975dde1",
+        "headline": "Apple Music Rises to $11.99 in Latest Price Round",
+        "kicker": "Consumer"
+      },
+      {
+        "storyId": "70389c25f144",
+        "headline": "Builder Replaces $120,000 Bowling System With ESP32s",
+        "kicker": "Hardware"
       },
       {
         "storyId": "8b7fdb3f783a",
-        "headline": "Tate brothers arrested in US as further UK charges take total to 59",
-        "kicker": "news"
+        "headline": "Tate Brothers Arrested in Miami as UK Charges Reach 59",
+        "kicker": "Courts"
       },
       {
-        "storyId": "d3f518aa004f",
-        "headline": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
-        "kicker": "news"
+        "storyId": "7e7a8dc57beb",
+        "headline": "Peru Earthquakes Kill Six, Displace Hundreds",
+        "kicker": "World"
       }
     ]
   },
   "markets": {
-    "asOf": "2026-07-19T12:28:21.982Z",
+    "asOf": "2026-07-19T22:21:10.560Z",
     "tickers": [
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "price": 64319,
-        "changePct": 0.4
+        "price": 64789,
+        "changePct": 0.09
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "price": 1870.26,
-        "changePct": 1.59
+        "price": 1873.27,
+        "changePct": 0.62
       }
     ],
-    "note": "Ticker data below; the editor was unavailable for commentary."
+    "note": "Crypto barely moved, with bitcoin flat near $64,800 and ether up 0.6% to $1,873."
   },
   "sections": [
     {
@@ -116,44 +126,64 @@
       "title": "TikTok Trends",
       "stories": [
         {
-          "id": "e16ede50400a",
-          "headline": "Trending TikTok sounds",
-          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2); 4. najaah (na_ajahhhhh)",
-          "source": "Tokchart",
-          "url": "https://tokchart.com/",
-          "publishedAt": "2026-07-19T12:28:23.019Z",
-          "importance": 80,
-          "imageUrl": null
-        },
-        {
-          "id": "34e45f06d46b",
-          "headline": "Birmingham doctor warns against 'harmful' TikTok 'parasite cleanse' trend - Yahoo News UK",
-          "blurb": "Birmingham doctor warns against 'harmful' TikTok 'parasite cleanse' trend Yahoo News UK",
-          "source": "Google News · TikTok",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOG9FWjJSaVVCM3dWNzZiQi0zZTFQRGpkanZnMWEyVUM2QjJabXpZY2ZaYXRKNk1FajdUT01oUnV1MW93WGZtNU1zeUFBdjJzdmppb1ZZSVI5SENod1F6OFBvRk5pUVFWVDFTc2JyazNFOU9fNjdPeVItMmpKN3dNU1FKcTFCMzg?oc=5",
-          "publishedAt": "2026-07-19T05:07:00.000Z",
-          "importance": 72,
-          "imageUrl": null
-        },
-        {
-          "id": "2d3366341213",
-          "headline": "Researchers create robot suit that dresses you and feels straight out of Iron Man",
-          "blurb": "Researchers from South Korea’s KAIST and Stanford University have unveiled a self-dressing robotic suit that can fit a person in around 10 seconds.",
+          "id": "b9cb724ec3c1",
+          "headline": "Brain Implant Restores Touch to Paralyzed Man",
+          "blurb": "The recipient can now feed himself, drink from a cup, and feel his dog's fur. It is the clearest consumer-legible demonstration yet of restored sensation, not just movement.",
           "source": "Dexerto",
-          "url": "https://www.dexerto.com/uncategorized/researchers-create-robot-suit-that-dresses-you-and-feels-straight-out-of-iron-man-3388859/",
+          "url": "https://www.dexerto.com/entertainment/paralyzed-man-able-to-pet-dog-for-first-time-in-years-after-brain-implant-3388880/",
+          "publishedAt": "2026-07-19T15:08:47.000Z",
+          "importance": 58,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/keith-thomas.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "1d75834c1baa",
+          "headline": "DNA From Trash Closes a 45-Year-Old Murder Case",
+          "blurb": "A 79-year-old man was arrested after investigators matched samples pulled from his discarded rubbish. Genetic cold-case work keeps compressing decades into weeks.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/elderly-man-arrested-in-45-year-long-murder-case-after-police-use-his-trash-to-find-dna-3388890/",
+          "publishedAt": "2026-07-19T16:25:20.000Z",
+          "importance": 50,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/collage-2.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "7cc569399b09",
+          "headline": "KAIST and Stanford Build a Suit That Dresses You",
+          "blurb": "The robotic rig fits a person in roughly ten seconds. The obvious application is assistive care, not the Iron Man comparison the demo invites.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/researchers-create-robot-suit-that-dresses-you-and-feels-straight-out-of-iron-man-3388859/",
           "publishedAt": "2026-07-19T10:58:10.000Z",
-          "importance": 64,
+          "importance": 44,
           "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/iron-man-suit-up.jpg?width=1080&quality=75&format=auto"
         },
         {
-          "id": "a9b4be5cffef",
-          "headline": "Andrew and Tristan Tate arrested in Miami over 38 new UK charges",
-          "blurb": "Andrew and Tristan Tate were arrested by the US Marshals in Miami after British authorities issued an extradition request following new criminal charges.",
+          "id": "263c73be5105",
+          "headline": "Nvidia CEO's Leather Jacket Sells for Nearly $1 Million",
+          "blurb": "The garment went for just under seven figures at a New York auction. A useful gauge of where the AI trade sits culturally.",
           "source": "Dexerto",
-          "url": "https://www.dexerto.com/entertainment/andrew-and-tristan-tate-arrested-in-miami-over-38-new-uk-charges-3388833/",
-          "publishedAt": "2026-07-19T09:43:28.000Z",
-          "importance": 56,
-          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/andrew-and-tristan-tate.jpg?width=1080&quality=75&format=auto"
+          "url": "https://www.dexerto.com/entertainment/leather-jacket-worn-by-nvidia-ceo-fetches-near-1m-at-auction-3388879/",
+          "publishedAt": "2026-07-19T14:30:19.000Z",
+          "importance": 40,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/nuang.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "5dab6f7b6105",
+          "headline": "World Cup's Hatsune Miku Curse Reaches the Final",
+          "blurb": "The mascot has passed from Japan to Brazil, Norway, England and Argentina, each losing 2-1 after taking her on. Spain now has a claim.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/hatsune-miku-world-cup-custody-battle-timeline-every-owner-and-victim-of-the-2-1-curse-3388916/",
+          "publishedAt": "2026-07-19T19:48:24.000Z",
+          "importance": 30,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/hatsune-miku-custody-battle.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Shushy Leads This Week's Trending TikTok Sounds",
+          "blurb": "The prodshushy track tops a short list ahead of 0landrys and CK Music. A thin chart by recent standards.",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-19T22:21:13.457Z",
+          "importance": 18,
+          "imageUrl": null
         }
       ]
     },
@@ -162,84 +192,44 @@
       "title": "Sports",
       "stories": [
         {
-          "id": "04d023004215",
-          "headline": "NFL players love wearing their 'slippers and slides, baby!'",
-          "blurb": "From Hulk slides to Hot Wheels slippers to therapeutic mules, NFL players focus on their feet off the field.",
+          "id": "6fe4b5af0b08",
+          "headline": "Dort Traded to Hawks in Three-Team Deal",
+          "blurb": "Oklahoma City sent the All-Defensive wing to Atlanta for three second-round picks, with Zaccharie Risacher going to Dallas and Ryan Nembhard to the Hawks. Atlanta buys defense; the Thunder bank flexibility.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49400155/thunder-send-dort-hawks-three-team-trade-sources-say",
+          "publishedAt": "2026-07-19T22:02:44.000Z",
+          "importance": 62,
+          "imageUrl": "https://a.espncdn.com/photo/2025/0419/r1480744_1296x729_16-9.jpg"
+        },
+        {
+          "id": "adf37fcbf951",
+          "headline": "Padres Hang 19 on Royals as Cubs Rout Twins",
+          "blurb": "San Diego hit five home runs in a 19-2 demolition in Kansas City, while Shota Imanaga threw seven shutout innings in a 10-1 Cubs win. Atlanta beat Texas 8-5.",
+          "source": "MLB scores",
+          "url": "https://www.espn.com/mlb/scoreboard",
+          "publishedAt": "2026-07-19T22:21:12.727Z",
+          "importance": 46,
+          "imageUrl": null
+        },
+        {
+          "id": "13797f43b889",
+          "headline": "Barkley and Family Unhurt in Attempted Home Burglary",
+          "blurb": "Tredyffrin Township police responded to an attempted break-in at the Eagles running back's home Saturday morning. No one was injured.",
           "source": "ESPN NFL",
-          "url": "https://www.espn.com/nfl/story/_/id/49248781/nfl-slippers-slides-therapeutic-kyle-pitts-brian-thomas-jr-devon-witherspoon",
-          "publishedAt": "2026-07-19T11:20:17.000Z",
-          "importance": 80,
-          "imageUrl": "https://a.espncdn.com/photo/2026/0713/nfl_slides-slippers_16x9_608x342.jpg"
+          "url": "https://www.espn.com/nfl/story/_/id/49399314/eagles-saquon-barkley-family-ok-attempted-burglary-home",
+          "publishedAt": "2026-07-19T14:14:57.000Z",
+          "importance": 38,
+          "imageUrl": "https://a.espncdn.com/photo/2025/1207/r1586301_1296x729_16-9.jpg"
         },
         {
-          "id": "a47d70691b9f",
-          "headline": "Where does Jets rookie QB Klubnik stand ahead of training camp?",
-          "blurb": "New York's fourth-round pick has made a good impression on the coaching staff.",
-          "source": "ESPN NFL",
-          "url": "https://www.espn.com/nfl/story/_/id/49295893/new-york-jets-rookie-qb-klubnik-future-hope",
-          "publishedAt": "2026-07-19T10:00:02.000Z",
-          "importance": 72,
-          "imageUrl": "https://a.espncdn.com/photo/2026/0707/r1685885_608x342_16-9.jpg"
-        },
-        {
-          "id": "b906a3e26d32",
-          "headline": "Patriots to begin training camp on a Saturday for first time in decades",
-          "blurb": "QB Drake Maye kicks off a historic moment for New England as well as the start of Year 3 for him.",
-          "source": "ESPN NFL",
-          "url": "https://www.espn.com/nfl/story/_/id/49385736/new-england-patriots-starts-2026-training-camp-saturday-drake-maye",
-          "publishedAt": "2026-07-19T10:00:02.000Z",
-          "importance": 64,
-          "imageUrl": "https://a.espncdn.com/photo/2026/0717/r1690571_608x342_16-9.jpg"
-        },
-        {
-          "id": "d3850343160f",
-          "headline": "Guardians and Pirates play, winner secures 3-game series",
-          "blurb": "Pittsburgh Pirates (51-48, fourth in the NL Central) vs. Cleveland Guardians (52-47, second in the AL Central)",
-          "source": "ESPN MLB",
-          "url": "http://www.espn.com/mlb/preview?gameId=401816174",
-          "publishedAt": "2026-07-19T08:03:00.000Z",
-          "importance": 56,
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816174.png?templateId=espn.applewatch.awayhome.1"
-        },
-        {
-          "id": "59a4bd685494",
-          "headline": "Mariners and Giants meet, winner takes 3-game series",
-          "blurb": "San Francisco Giants (42-56, fourth in the NL West) vs. Seattle Mariners (49-50, second in the AL West)",
-          "source": "ESPN MLB",
-          "url": "http://www.espn.com/mlb/preview?gameId=401816183",
-          "publishedAt": "2026-07-19T08:02:57.000Z",
-          "importance": 48,
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816183.png?templateId=espn.applewatch.awayhome.1"
-        },
-        {
-          "id": "acb979815ac9",
-          "headline": "Rumfield leads Rockies against the Reds after 4-hit outing",
-          "blurb": "Cincinnati Reds (44-53, fifth in the NL Central) vs. Colorado Rockies (40-60, fifth in the NL West)",
-          "source": "ESPN MLB",
-          "url": "http://www.espn.com/mlb/preview?gameId=401816181",
-          "publishedAt": "2026-07-19T08:02:54.000Z",
-          "importance": 40,
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816181.png?templateId=espn.applewatch.awayhome.1"
-        },
-        {
-          "id": "41ab9fb6b36e",
-          "headline": "Astros aim to stop 3-game skid, play the Orioles",
-          "blurb": "Baltimore Orioles (48-51, fourth in the AL East) vs. Houston Astros (47-53, third in the AL West)",
-          "source": "ESPN MLB",
-          "url": "http://www.espn.com/mlb/preview?gameId=401816177",
-          "publishedAt": "2026-07-19T08:02:50.000Z",
-          "importance": 32,
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816177.png?templateId=espn.applewatch.awayhome.1"
-        },
-        {
-          "id": "27cb45ec7673",
-          "headline": "Braves and Rangers square off in series rubber match",
-          "blurb": "Texas Rangers (50-48, first in the AL West) vs. Atlanta Braves (56-41, first in the NL East)",
-          "source": "ESPN MLB",
-          "url": "http://www.espn.com/mlb/preview?gameId=401816176",
-          "publishedAt": "2026-07-19T08:02:47.000Z",
+          "id": "821f76cb838d",
+          "headline": "Knicks Edge Spurs 94-90 in Summer Action",
+          "blurb": "New York held off San Antonio in the day's only NBA result. A quiet scoreboard in a loud offseason.",
+          "source": "NBA scores",
+          "url": "https://www.espn.com/nba/scoreboard",
+          "publishedAt": "2026-07-19T22:21:12.600Z",
           "importance": 24,
-          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816176.png?templateId=espn.applewatch.awayhome.1"
+          "imageUrl": null
         }
       ]
     },
@@ -248,73 +238,63 @@
       "title": "Artificial Intelligence",
       "stories": [
         {
-          "id": "e17718920c17",
-          "headline": "AI Mania Is Eviscerating Global Decision-Making",
-          "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s",
-          "source": "Simon Willison",
-          "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
-          "publishedAt": "2026-07-19T05:06:21.000Z",
-          "importance": 80,
-          "imageUrl": null
-        },
-        {
-          "id": "375000db8198",
-          "headline": "Claude Code uses Bun written in Rust now",
-          "blurb": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: s",
-          "source": "Simon Willison",
-          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-          "publishedAt": "2026-07-19T03:54:09.000Z",
-          "importance": 72,
-          "imageUrl": null
-        },
-        {
-          "id": "600abfd6ba71",
-          "headline": "SQLite Query Explainer",
-          "blurb": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, ",
-          "source": "Simon Willison",
-          "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
-          "publishedAt": "2026-07-18T17:19:10.000Z",
-          "importance": 64,
-          "imageUrl": null
-        },
-        {
           "id": "73c5f10966fb",
-          "headline": "Claude make Fable 5 permanent",
-          "blurb": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent ",
+          "headline": "Fable 5 Stays in Max and Team Subscriptions",
+          "blurb": "Anthropic reverses course from July 20, keeping Fable 5 bundled at 50% of limits for Max and Team Premium. Pro and Team Standard fall back to usage credits plus a one-time $100 grant.",
           "source": "Simon Willison",
           "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
           "publishedAt": "2026-07-18T06:00:13.000Z",
+          "importance": 78,
+          "imageUrl": null
+        },
+        {
+          "id": "e17718920c17",
+          "headline": "Consultant Says AI Mania Is Hollowing Out Corporate Strategy",
+          "blurb": "Nik Suresh's account of enterprise AI adoption includes an executive who wrote an AI-centered strategy for a $2B company without ever having used a chatbot. The anecdotes are anonymous but the pattern is familiar.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+          "publishedAt": "2026-07-19T05:06:21.000Z",
           "importance": 56,
           "imageUrl": null
         },
         {
-          "id": "1547a9b1ab9e",
-          "headline": "nascheme/quixote",
-          "blurb": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks",
+          "id": "375000db8198",
+          "headline": "Claude Code Ships on the Rust Rewrite of Bun",
+          "blurb": "Simon Willison confirmed via strings on his own binary that Claude Code v2.1.181 onward runs Bun's Rust port. Startup got 10% faster on Linux and nobody noticed.",
           "source": "Simon Willison",
-          "url": "https://simonwillison.net/2026/Jul/18/quixote/",
-          "publishedAt": "2026-07-18T05:27:49.000Z",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "publishedAt": "2026-07-19T03:54:09.000Z",
           "importance": 48,
           "imageUrl": null
         },
         {
-          "id": "54aaf0c95ed4",
-          "headline": "Quoting Kimi K3",
-          "blurb": "Is there something I can actually help you with today? — Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
+          "id": "600abfd6ba71",
+          "headline": "Browser Tool Explains SQLite Query Plans",
+          "blurb": "A Pyodide-hosted SQLite runs EXPLAIN and EXPLAIN QUERY PLAN in the browser and annotates the output. Useful if you have ever stared blankly at a query plan.",
           "source": "Simon Willison",
-          "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/",
-          "publishedAt": "2026-07-17T13:43:53.000Z",
-          "importance": 40,
+          "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
+          "publishedAt": "2026-07-18T17:19:10.000Z",
+          "importance": 38,
           "imageUrl": null
         },
         {
-          "id": "a0bbc2c6e6f2",
-          "headline": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "blurb": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "source": "Hugging Face",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "publishedAt": "2026-07-17T15:57:54.000Z",
-          "importance": 32,
+          "id": "025193bf4ac8",
+          "headline": "Perforce Charges $500 for AI-Narrated Training Videos",
+          "blurb": "A Hacker News thread piles on the vendor for selling synthetic-voice courseware at enterprise prices. The complaint is less about the AI than the invoice.",
+          "source": "HN · AI",
+          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+          "publishedAt": "2026-07-19T08:00:24Z",
+          "importance": 30,
+          "imageUrl": null
+        },
+        {
+          "id": "1547a9b1ab9e",
+          "headline": "Quixote Web Framework Gets a Commit After 21 Years",
+          "blurb": "The Python framework's repository, whose first commit was a Subversion import two decades ago, saw activity this week. A small note in favor of software that refuses to die.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/quixote/",
+          "publishedAt": "2026-07-18T05:27:49.000Z",
+          "importance": 22,
           "imageUrl": null
         }
       ]
@@ -324,145 +304,83 @@
       "title": "News & Politics",
       "stories": [
         {
-          "id": "faf8c0007eca",
-          "headline": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
-          "blurb": "Meanwhile Conservative leader Kemi Badenoch says Burnham is a \"people pleaser\", ahead of him becoming prime minister on Monday.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-19T11:57:53.000Z",
-          "importance": 80,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c703/live/cadc19f0-835f-11f1-a0d2-c70a9d6f1fff.jpg"
-        },
-        {
-          "id": "fdf722c98f4c",
-          "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-          "blurb": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-19T11:57:10.000Z",
-          "importance": 72,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg"
+          "id": "9d1ca5a29431",
+          "headline": "Another US Troop Killed as Strikes on Iran Continue",
+          "blurb": "A service member died in Iraq during the controlled detonation of a downed Iranian drone, bringing the week's American toll to three. Iranian missiles aimed at Jordan have raised the odds of Israeli involvement.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
+          "publishedAt": "2026-07-19T20:16:44.000Z",
+          "importance": 94,
+          "imageUrl": "https://i.guim.co.uk/img/media/fb61b9a7e4d16751023a88709c029c2926baedbf/533_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=2b99d9fca9f0d55ce8ed48418142fd9d"
         },
         {
           "id": "f4bd263aa059",
-          "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
-          "blurb": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+          "headline": "Overnight Russian Barrage Kills Eight in Ukraine",
+          "blurb": "Forty-one missiles and 125 drones struck several cities, with Kyiv the focus. Ukrainian forces continued strikes on Russian infrastructure.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-19T11:28:24.000Z",
-          "importance": 64,
+          "publishedAt": "2026-07-19T18:25:40.000Z",
+          "importance": 82,
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png"
         },
         {
+          "id": "86392d3caac4",
+          "headline": "Burnham Enters Downing Street Promising Breathing Room",
+          "blurb": "Britain's seventh prime minister in ten years takes office Monday, shaped by the north-south divide he campaigned on as Manchester mayor. North Sea support is expected on day one.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T20:19:06.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/c05bf310-83a5-11f1-8175-0b71720eeb65.jpg"
+        },
+        {
+          "id": "c4962e7031dd",
+          "headline": "Guyana Ferry Sinking Leaves Dozens Unaccounted For",
+          "blurb": "Sixty-seven of 116 aboard have been rescued, including 15 children, after the vessel went down late Saturday. Officials call it one of the country's worst maritime disasters.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+          "publishedAt": "2026-07-19T19:39:58.000Z",
+          "importance": 74,
+          "imageUrl": "https://i.guim.co.uk/img/media/fc1cf8802bb8a428bae7dd2c2ca5dc1a17ab6030/50_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=d1113ffbf37c8307c41ccfae538185d1"
+        },
+        {
+          "id": "ac908b492caa",
+          "headline": "Thames Water Creditors Ready Challenge to Nationalisation",
+          "blurb": "Lenders would pursue full repayment of multi-billion-pound debts if the new government takes the utility into public hands. The fight would set the price of every future nationalisation.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T18:35:16.000Z",
+          "importance": 62,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c902/live/4610abb0-8386-11f1-8537-c5e158f8690c.jpg"
+        },
+        {
           "id": "8b7fdb3f783a",
-          "headline": "Tate brothers arrested in US as further UK charges take total to 59",
-          "blurb": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+          "headline": "Tate Brothers Arrested in US as Charges Reach 59",
+          "blurb": "The Crown Prosecution Service has requested extradition after adding further UK charges. Their lawyer maintains they are innocent.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-19T11:04:50.000Z",
-          "importance": 56,
+          "publishedAt": "2026-07-19T12:53:20.000Z",
+          "importance": 58,
           "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/992c/live/83523f20-834a-11f1-bee8-53ce494e1abc.jpg"
         },
         {
+          "id": "7e7a8dc57beb",
+          "headline": "Twin Earthquakes in Peru Kill Six",
+          "blurb": "Quakes in the Andes region killed at least six and injured more than twenty, displacing hundreds. Damage assessments in mountain communities are still incomplete.",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEtHcFFZRGZfQ05ydUJGdjBZdGdJelo4aUVxRjRJOEhwWnBwMWVMZmpRYUNHNkhfaElTTnFScF85NEhWUml1X1RGX2xtM09TeXdxc2Q3WHIyUDBSVjJqWVhWaDQ5WWlNbXVlVzJyc0VKM0dIRW4zWGZMek9QZXl4ZTRLT3Mtek9pRENvMmV5aXpXWV9EWjIwYmpTZU91cjBpWHFpa2Qwd1FaQU80cDZScjJvR2c1b3BaVmlGa1Z3?oc=5",
+          "publishedAt": "2026-07-19T19:09:00.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
           "id": "d3f518aa004f",
-          "headline": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
-          "blurb": "Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.",
+          "headline": "Inspections Find Repeated Violence in Dementia Care",
+          "blurb": "Court records and facility inspections show nursing homes failing to prevent assaults between residents, some fatal. Regulators had flagged the same gaps for years.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
           "publishedAt": "2026-07-19T11:00:00.000Z",
-          "importance": 48,
-          "imageUrl": null
-        },
-        {
-          "id": "5f85e0d20ee6",
-          "headline": "Chinese firm seeks compensation over British Steel nationalisation",
-          "blurb": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-19T10:59:07.000Z",
-          "importance": 40,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa42/live/7ad3f5d0-835b-11f1-926f-c90d1bcfbc84.jpg"
-        },
-        {
-          "id": "5cfb738b8a13",
-          "headline": "A final that will define Lamine Yamal's World Cup",
-          "blurb": "Lamine Yamal may not have had a sparkling World Cup but victory for Spain in Sunday's World Cup final would write a very different narrative.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cdx8r45w2gzo?at_medium=RSS&at_campaign=rss",
-          "publishedAt": "2026-07-19T10:11:29.000Z",
-          "importance": 32,
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d02b/live/eb58a230-82d7-11f1-a7b7-31e12e116164.jpg"
-        },
-        {
-          "id": "9c196900ef9a",
-          "headline": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-          "blurb": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
-          "publishedAt": "2026-07-19T10:00:00.000Z",
-          "importance": 24,
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "category": "internet",
-      "title": "Internet Culture",
-      "stories": [
-        {
-          "id": "df0c4cb977ce",
-          "headline": "'Corny On The Bob' A Rising TikTok Meme Thanks To This TikToker's Excellent Meal Showcase Videos",
-          "blurb": "Corny On the Bob refers to a series of memes and video edits of TikToker Patty Miller (@pattyzapfemiller) calling corn and corn on the cob \"corny on the bob\" while showing off what she's eating for her meals. Videos of Patty calling corn on the cob \"corny on the bob,\" and calling corn off the cob \"corny off the bob,\" date back as early as May 2025. Clips of her using the term were popularized as t",
-          "source": "Know Your Meme",
-          "url": "https://knowyourmeme.com/memes/corny-on-the-bob",
-          "publishedAt": "2026-07-17T20:52:36.000Z",
-          "importance": 80,
-          "imageUrl": null
-        },
-        {
-          "id": "84044b8a5faf",
-          "headline": "For Over A Decade, This 'Billy Madison' Scene Has Been A Popular Reaction Meme For Adults Who Love Kids' Movies",
-          "blurb": "Adam Sandler Sitting With Kids or Billy Madison Sitting In First Grade Classroom is a reaction image and exploitable image macro meme format based on a scene from the 1995 Adam Sandler film Billy Madison where Billy Madison sits in his first-grade classroom for story time, surrounded by his classmates, children. The image was first used as a reaction meme as early as 2014 and became increasingly p",
-          "source": "Know Your Meme",
-          "url": "https://knowyourmeme.com/memes/adam-sandler-sitting-with-kids-billy-madison",
-          "publishedAt": "2026-07-17T19:23:34.000Z",
-          "importance": 72,
-          "imageUrl": null
-        },
-        {
-          "id": "18431e3f0c83",
-          "headline": "The First 'If X Has a Million Fans, I'm One of Them' Meme Was Shared On Facebook 13 Years Ago Today",
-          "blurb": "If X Has a Million Fans, I'm One of Them is a copypasta and phrasal template in which a diehard fan of a famous person declares that they will remain their fan to their very last breath even if the entire world turns against that person. Spread as a copypasta about football player Cristiano Ronaldo on Facebook since 2013, the copypasta later gained virality in Twitch chat spam, and later with a ve",
-          "source": "Know Your Meme",
-          "url": "https://knowyourmeme.com/memes/if-x-has-a-million-fans-im-one-of-them",
-          "publishedAt": "2026-07-17T19:01:03.000Z",
-          "importance": 64,
-          "imageUrl": null
-        },
-        {
-          "id": "3d0d2eb49949",
-          "headline": "The 'We'll Drive A Funky Ehhh' Meme Explained",
-          "blurb": "we'll drive a funky ehhh 🥀",
-          "source": "Know Your Meme",
-          "url": "https://knowyourmeme.com/videos/439523-well-drive-a-funky-ehh",
-          "publishedAt": "2026-07-17T18:42:21.000Z",
-          "importance": 56,
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "category": "markets",
-      "title": "Markets",
-      "stories": [
-        {
-          "id": "ebd210903ce3",
-          "headline": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-          "blurb": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
-          "source": "CNBC Markets",
-          "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
-          "publishedAt": "2026-07-17T14:13:49.000Z",
-          "importance": 80,
+          "importance": 50,
           "imageUrl": null
         }
       ]
@@ -472,72 +390,62 @@
       "title": "Gaming",
       "stories": [
         {
-          "id": "25a9b4bf853e",
-          "headline": "Games like The Odyssey: 10 games that capture the spirit of Christopher Nolan's latest",
-          "blurb": "From Assassin's Creed: Odyssey to God of War, and Hades to Shadow of the Colossus",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/video-games-like-the-odyssey-christopher-nolan/",
-          "publishedAt": "2026-07-19T12:00:12.000Z",
-          "importance": 80,
-          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/hades-2-story.jpg"
+          "id": "726a2258a070",
+          "headline": "Xbox Promises More Exclusives, Warns Against Fixating on Single-Player",
+          "blurb": "Executives say Gears of War: E-Day and Clockwork Revolution are not the whole slate, while nudging expectations away from solo campaigns. The message continues Xbox's habit of clarifying itself into confusion.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
+          "publishedAt": "2026-07-19T19:15:57.000Z",
+          "importance": 58,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png"
         },
         {
-          "id": "18c96ffd2af3",
-          "headline": "Chainsmoker Cat anime captures how poverty keeps the cycle of addiction alive",
-          "blurb": "For all its unglamorous imagery, Chainsmoker Cat is one of the few shows that accurately captures the harrowing life of an addict.",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/chainsmoker-cat-addiction-and-poverty/",
-          "publishedAt": "2026-07-19T11:00:12.000Z",
-          "importance": 72,
-          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/chainsmoker-cat-1.webp"
+          "id": "e720a52e5ab4",
+          "headline": "The Odyssey Opens to $264 Million Worldwide",
+          "blurb": "Nolan's adaptation beat every projection in its first weekend. Studios will read it as proof that giving a director real budget and real freedom still pays.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
+          "publishedAt": "2026-07-19T17:25:46.000Z",
+          "importance": 54,
+          "imageUrl": "https://assets-prd.ignimgs.com/2025/03/15/the-odyssey-thumb-1741998682527.jpg"
         },
         {
-          "id": "92ef7fd7a1f3",
-          "headline": "Supergirl streaming release date window: When will it be on HBO Max, Blu-ray, and DVD?",
-          "blurb": "When will the latest DC Universe film be coming to streaming (HBO Max), Blu-ray, and DVD? Here's what we know.",
+          "id": "db9de81be78d",
+          "headline": "Xbox Still Won't Say If Fallout 5 Is Console Exclusive",
+          "blurb": "Bethesda announced the new Fallout titles without clarifying platform exclusivity. That silence is itself the strategy.",
           "source": "Polygon",
-          "url": "https://www.polygon.com/dc-supergirl-movie-streaming-release-date-vod-hbo-max/",
-          "publishedAt": "2026-07-19T10:00:12.000Z",
-          "importance": 64,
-          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/supergirl-cameo.jpg"
+          "url": "https://www.polygon.com/fallout-games-unclear-xbox-console-exclusivity/",
+          "publishedAt": "2026-07-19T16:27:33.000Z",
+          "importance": 50,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/best-open-world-games-reward-exploration-fallout-4.jpg"
+        },
+        {
+          "id": "86e0688d4b17",
+          "headline": "Avatar, Halo and Splatoon All Land July 23",
+          "blurb": "Three major releases collide on a single Thursday, the busiest gaming day of the summer. Somebody's sales chart is going to suffer.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/july-23-video-game-releases/",
+          "publishedAt": "2026-07-19T15:30:12.000Z",
+          "importance": 48,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/avatar-legends-toph.jpg"
+        },
+        {
+          "id": "25bab1e01630",
+          "headline": "Game of Thrones Strategy Game Slips to Early 2027",
+          "blurb": "War for Westeros has been delayed, extending the franchise's long run of disappointing games. The genre fit, at least, is right this time.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/game-of-thrones-is-getting-a-new-game/",
+          "publishedAt": "2026-07-19T18:35:09.000Z",
+          "importance": 40,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/game-of-thrones-war-for-westeros.jpg"
         },
         {
           "id": "9353086b3b87",
-          "headline": "Steam most played today",
-          "blurb": "1. Counter-Strike 2 (1,275,982 peak); 2. PUBG: BATTLEGROUNDS (732,248 peak); 3. Dota 2 (635,321 peak); 4. Wallpaper Engine (111,342 peak); 5. Apex Legends™ (284,062 peak); 6. Slay the Spire 2 (196,023 peak); 7. R.E.P.O. (94,560 peak); 8. Grand Theft Auto V Legacy (98,540 peak); 9. FiveM (192,252 peak); 10. Geometry Dash (68,410 peak)",
+          "headline": "Counter-Strike 2 Tops 1.27 Million Concurrent Players",
+          "blurb": "Valve's shooter again led Steam's peak chart ahead of PUBG and Dota 2, with Slay the Spire 2 holding 196,000. Steam Machine sits atop the top-sellers list.",
           "source": "Steam Most Played",
           "url": "https://store.steampowered.com/charts/mostplayed",
-          "publishedAt": "2026-07-19T12:28:23.970Z",
-          "importance": 56,
-          "imageUrl": null
-        },
-        {
-          "id": "ea97d4ca3a12",
-          "headline": "Matt Damon Wants New Jason Bourne Movie to 'Be Like the First 3' as Work With Conclave Director Continues",
-          "blurb": "Just as The Odyssey makes landfall, star Matt Damon has offered an update on his new Jason Bourne movie with Conclave and All Quiet on the Western Front director Edward Berger.",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/matt-damon-wants-new-jason-bourne-movie-to-be-like-the-first-3-as-work-with-conclave-director-continues",
-          "publishedAt": "2026-07-18T22:54:10.000Z",
-          "importance": 48,
-          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/18/matt-damon-1784414964323.png"
-        },
-        {
-          "id": "651563ed5e9f",
-          "headline": "The Odyssey streaming release date window: When will it be on Peacock, Netflix, Blu-ray, and DVD?",
-          "blurb": "The Odyssey is selling out IMAX screenings, but when will it come to streaming (Peacock and Netflix), Blu-ray, and DVD? Here's what we know.",
-          "source": "Polygon",
-          "url": "https://www.polygon.com/the-odyssey-streaming-release-date-peacock-netflix/",
-          "publishedAt": "2026-07-18T22:00:12.000Z",
-          "importance": 40,
-          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-18.jpg"
-        },
-        {
-          "id": "e9f663cf0011",
-          "headline": "Steam top sellers",
-          "blurb": "1. Steam Machine; 2. Palworld; 3. Assassin's Creed Black Flag Resynced; 4. Steam Deck; 5. Funnel Runners",
-          "source": "Steam Top Sellers",
-          "url": "https://store.steampowered.com/charts/topselling",
-          "publishedAt": "2026-07-19T12:28:22.948Z",
+          "publishedAt": "2026-07-19T22:21:15.079Z",
           "importance": 32,
           "imageUrl": null
         }
@@ -548,24 +456,54 @@
       "title": "Music & Culture",
       "stories": [
         {
-          "id": "97ed94b84ad9",
-          "headline": "Apple Music Top Songs (US)",
-          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Yung Miami – Spend Dat; 5. Drake – Shabang; 6. Ella Langley – Be Her; 7. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 8. Morgan Wallen – 20 Cigarettes; 9. Drake, Future & Molly Santana – Ran To Atlanta; 10. Olivia Rodrigo – stupid song; 11. Lil Baby – Freestyle; 12. Morgan Wallen – I'm The Problem; 1",
-          "source": "Apple Music Top 25",
-          "url": "https://music.apple.com/us/room/6459306033",
-          "publishedAt": "2026-07-19T12:28:23.908Z",
-          "importance": 80,
-          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+          "id": "de713e9d45fc",
+          "headline": "Madonna and BTS Headline First World Cup Halftime Show",
+          "blurb": "The eleven-minute set also featured Shakira, Justin Bieber, Burna Boy and Chris Martin, with the Muppets in support. With Trump in attendance, NPR read the spectacle as more political than intended.",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
+          "publishedAt": "2026-07-19T21:48:09.000Z",
+          "importance": 60,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5d3e836a8427b11c98f333/master/pass/GettyImages-2286189927.jpg"
         },
         {
-          "id": "21f7d2ebf70b",
-          "headline": "Jennifer Finch, L7 Bassist, Dead At 59",
-          "blurb": "Jennifer Finch of L7 has died. The musician joined the Los Angeles punk band in 1986 as bassist and vocalist and played on five of their studio LPs, including 1990’s Smell The Magic and 1992’s Bricks Are Heavy , two of the grunge era’s essential and most influential albums. Earlier this week, Finch revealed she’d been diagnosed with an aggressive form of brain cancer, forcing her to sit out L7’s f",
+          "id": "b8d4e654d393",
+          "headline": "L7 Bassist Jennifer Finch Dies at 59",
+          "blurb": "The grunge musician died Saturday after a diagnosis of aggressive brain cancer. She anchored one of the defining bands of the early-nineties LA scene.",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/l7-bassist-jennifer-finch-dies-at-59/",
+          "publishedAt": "2026-07-19T15:31:57.000Z",
+          "importance": 54,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5cece84607d41cf238dc3e/master/pass/GettyImages-604600034.jpg"
+        },
+        {
+          "id": "e42e8e0220c9",
+          "headline": "Tour Cancellations Mount as Ticket Prices Climb 37%",
+          "blurb": "Stereogum reports widespread undersold shows across the 2026 US season, with average top-100 tour prices up 37.2% since 2019. Quebec's FEQ is held up as the counterexample.",
           "source": "Stereogum",
-          "url": "https://stereogum.com/2505697/jennifer-finch-l7-bassist-dead-at-59/news/",
-          "publishedAt": "2026-07-19T02:57:37.000Z",
-          "importance": 72,
-          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/jennifer-finch.jpg?w=564"
+          "url": "https://stereogum.com/2505733/festival-dete-de-quebec/reviews/concert-review/",
+          "publishedAt": "2026-07-19T18:10:24.000Z",
+          "importance": 48,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/feq-2026.jpg?w=564"
+        },
+        {
+          "id": "faf02d8156ef",
+          "headline": "Tomahawk Play First Show in Thirteen Years",
+          "blurb": "Mike Patton's experimental supergroup returned to the stage after a 2013 hiatus. No word yet on a full tour.",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505721/tomahawk-reunite-for-first-show-in-13-years/news/",
+          "publishedAt": "2026-07-19T14:47:16.000Z",
+          "importance": 36,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/tomahawk.png?w=564"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Ella Langley and Drake Split the Apple Music Top Five",
+          "blurb": "Langley holds the number one with \"Choosin' Texas\" and lands three songs in the top seven, while Drake takes second and sixth. Morgan Wallen and Lil Baby fill out the rest.",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-19T22:21:13.739Z",
+          "importance": 28,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
         }
       ]
     },
@@ -574,83 +512,83 @@
       "title": "Technology",
       "stories": [
         {
-          "id": "17312165a5ba",
-          "headline": "The death and rebirth of my home server",
-          "blurb": "11 points, 3 comments on Hacker News",
-          "source": "Hacker News",
-          "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-          "publishedAt": "2026-07-19T10:44:31Z",
-          "importance": 80,
-          "imageUrl": null
-        },
-        {
-          "id": "4eb6456b2e10",
-          "headline": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-          "blurb": "27 points, 15 comments on Hacker News",
-          "source": "Hacker News",
-          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-          "publishedAt": "2026-07-19T10:34:58Z",
+          "id": "225f1c1a975c",
+          "headline": "Apple Briefly Passes Nvidia as Most Valuable Company",
+          "blurb": "Apple's valuation neared $5 trillion after a 20% run since late June, edging past Nvidia intraday before the two traded places again. The gap is now a rounding error.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
+          "publishedAt": "2026-07-19T19:20:55.000Z",
           "importance": 72,
           "imageUrl": null
         },
         {
-          "id": "3bc9de570cf4",
-          "headline": "Qwen 3.8 Max Preview",
-          "blurb": "108 points, 52 comments on Hacker News",
+          "id": "ec866975dde1",
+          "headline": "Apple Raises Prices on Music, iCloud+ and Japanese iPhones",
+          "blurb": "Apple Music individual is now $11.99 and Family $19.99, following worldwide Mac and iPad increases last month. iCloud+ rose in eight countries and Japanese iPhone prices climbed up to 11%.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+          "publishedAt": "2026-07-19T19:20:55.000Z",
+          "importance": 66,
+          "imageUrl": null
+        },
+        {
+          "id": "3aec985379c8",
+          "headline": "Moonshot Suspends Signups Under Kimi K3 Demand",
+          "blurb": "The Chinese lab stopped taking new subscriptions after its latest model overwhelmed capacity. Compute scarcity remains the real constraint on frontier releases.",
           "source": "Hacker News",
-          "url": "https://www.qwencloud.com/pricing/token-plan",
-          "publishedAt": "2026-07-19T08:57:31Z",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "publishedAt": "2026-07-19T16:02:25Z",
           "importance": 64,
           "imageUrl": null
         },
         {
-          "id": "a3dd464c1804",
-          "headline": "Half a Second – a book about the XZ backdoor",
-          "blurb": "31 points, 19 comments on Hacker News",
+          "id": "70389c25f144",
+          "headline": "ESP32 Rig Replaces a $120,000 Bowling Center System",
+          "blurb": "A builder rebuilt an entire alley's scoring and pinsetter control for about $1,600 in microcontrollers. The thread is a clinic in reverse-engineering ancient industrial hardware.",
           "source": "Hacker News",
-          "url": "https://www.half-second.com/",
-          "publishedAt": "2026-07-19T08:48:41Z",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "publishedAt": "2026-07-19T14:41:16Z",
+          "importance": 60,
+          "imageUrl": null
+        },
+        {
+          "id": "ef87d0e6e739",
+          "headline": "Apple and Justice Department Open Settlement Talks",
+          "blurb": "Apple has floated several offers in the 2024 antitrust suit over iPhone platform lock-in. Early talks are not a deal, but they are a change of posture.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+          "publishedAt": "2026-07-19T19:20:55.000Z",
+          "importance": 58,
+          "imageUrl": null
+        },
+        {
+          "id": "cb70231eec54",
+          "headline": "San Francisco Demands Apple and Google Pull Nudify Apps",
+          "blurb": "Cease-and-desist letters target 13 face-swap apps used to generate nonconsensual nude images, eight of them on the App Store. The city wants the stores to stop taking a cut of in-app payments.",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/17/demand-to-pull-nudify-apps/",
+          "publishedAt": "2026-07-19T19:20:55.000Z",
           "importance": 56,
           "imageUrl": null
         },
         {
-          "id": "ddebaf62488a",
-          "headline": "Qwen3.8 is launching and going open-weight soon",
-          "blurb": "259 points, 133 comments on Hacker News",
-          "source": "Hacker News",
-          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-          "publishedAt": "2026-07-19T08:44:57Z",
-          "importance": 48,
-          "imageUrl": null
-        },
-        {
-          "id": "eec6fcd8f4a0",
-          "headline": "The Mighty Big Array of Finn Jensen LA8YB",
-          "blurb": "11 points, 2 comments on Hacker News",
-          "source": "Hacker News",
-          "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-          "publishedAt": "2026-07-19T08:05:46Z",
-          "importance": 40,
-          "imageUrl": null
-        },
-        {
-          "id": "025193bf4ac8",
-          "headline": "Perforce charges $500 for training training videos.. and it's AI narrated",
-          "blurb": "46 points, 62 comments on Hacker News",
-          "source": "Hacker News",
-          "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-          "publishedAt": "2026-07-19T08:00:24Z",
-          "importance": 32,
-          "imageUrl": null
-        },
-        {
           "id": "87cd30f5b2eb",
-          "headline": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "blurb": "54 points, 16 comments on Hacker News",
+          "headline": "OpenAI Cuts Codex Context Window to 272k Tokens",
+          "blurb": "The reduction from 372k drew a large and unhappy Hacker News thread. Context length is now a headline spec, and shrinking it reads as a cost decision.",
           "source": "Hacker News",
           "url": "https://github.com/openai/codex/pull/33972/files",
           "publishedAt": "2026-07-19T07:54:39Z",
-          "importance": 24,
+          "importance": 52,
+          "imageUrl": null
+        },
+        {
+          "id": "cca06f216a08",
+          "headline": "Last MPEG-4 Visual Patent Has Expired",
+          "blurb": "The final patent covering the codec lapsed, putting a long-licensed format fully in the clear. Mostly of archival interest, but a real milestone for open tooling.",
+          "source": "Hacker News",
+          "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+          "publishedAt": "2026-07-19T16:45:17Z",
+          "importance": 42,
           "imageUrl": null
         }
       ]
@@ -662,25 +600,6 @@
       "category": "markets",
       "ok": true,
       "items": 0
-    },
-    {
-      "source": "Import AI",
-      "category": "ai",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 403 for https://importai.substack.com/feed"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "ok": true,
-      "items": 20
-    },
-    {
-      "source": "Anthropic",
-      "category": "ai",
-      "ok": true,
-      "items": 243
     },
     {
       "source": "MacRumors",
@@ -695,6 +614,12 @@
       "items": 100
     },
     {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
       "source": "Simon Willison",
       "category": "ai",
       "ok": true,
@@ -707,22 +632,16 @@
       "items": 30
     },
     {
-      "source": "Hugging Face",
+      "source": "Anthropic",
       "category": "ai",
       "ok": true,
-      "items": 829
+      "items": 243
     },
     {
-      "source": "arXiv cs.AI",
+      "source": "Import AI",
       "category": "ai",
       "ok": true,
-      "items": 0
-    },
-    {
-      "source": "NPR",
-      "category": "news",
-      "ok": true,
-      "items": 10
+      "items": 20
     },
     {
       "source": "HN · AI",
@@ -731,10 +650,22 @@
       "items": 7
     },
     {
-      "source": "The Guardian",
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 829
+    },
+    {
+      "source": "NPR",
       "category": "news",
       "ok": true,
-      "items": 45
+      "items": 10
     },
     {
       "source": "OpenAI",
@@ -743,61 +674,37 @@
       "items": 1039
     },
     {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
       "source": "Google DeepMind",
       "category": "ai",
       "ok": true,
       "items": 100
     },
     {
-      "source": "Google News",
+      "source": "BBC News",
       "category": "news",
       "ok": true,
       "items": 38
     },
     {
-      "source": "ESPN NFL",
-      "category": "sports",
-      "ok": true,
-      "items": 6
-    },
-    {
-      "source": "ESPN MLB",
-      "category": "sports",
-      "ok": true,
-      "items": 6
-    },
-    {
-      "source": "ESPN NBA",
-      "category": "sports",
-      "ok": true,
-      "items": 6
-    },
-    {
-      "source": "ESPN Soccer",
-      "category": "sports",
-      "ok": true,
-      "items": 6
-    },
-    {
-      "source": "BBC News",
+      "source": "Google News",
       "category": "news",
       "ok": true,
-      "items": 32
-    },
-    {
-      "source": "MLS scores",
-      "category": "sports",
-      "ok": true,
-      "items": 0
+      "items": 37
     },
     {
       "source": "NBA scores",
-      "category": "sports",
-      "ok": true,
-      "items": 1
-    },
-    {
-      "source": "MLB scores",
       "category": "sports",
       "ok": true,
       "items": 1
@@ -809,10 +716,40 @@
       "items": 0
     },
     {
-      "source": "Dexerto",
-      "category": "tiktok",
+      "source": "ESPN MLB",
+      "category": "sports",
       "ok": true,
-      "items": 50
+      "items": 6
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
     },
     {
       "source": "Know Your Meme",
@@ -821,22 +758,22 @@
       "items": 4
     },
     {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
       "source": "CoinGecko",
       "category": "markets",
       "ok": true,
       "items": 0
     },
     {
-      "source": "Steam Top Sellers",
-      "category": "gaming",
+      "source": "CNBC Markets",
+      "category": "markets",
       "ok": true,
-      "items": 1
-    },
-    {
-      "source": "Tokchart",
-      "category": "tiktok",
-      "ok": true,
-      "items": 1
+      "items": 30
     },
     {
       "source": "Google News · TikTok",
@@ -851,16 +788,16 @@
       "items": 29
     },
     {
-      "source": "IGN",
+      "source": "Steam Top Sellers",
       "category": "gaming",
       "ok": true,
-      "items": 20
+      "items": 1
     },
     {
-      "source": "GitHub Trending",
-      "category": "tech",
+      "source": "Tokchart",
+      "category": "tiktok",
       "ok": true,
-      "items": 8
+      "items": 1
     },
     {
       "source": "Polygon",
@@ -869,34 +806,34 @@
       "items": 10
     },
     {
-      "source": "Open-Meteo",
-      "category": "_weather",
-      "ok": true,
-      "items": 0
-    },
-    {
       "source": "Apple Music Top 25",
       "category": "music",
       "ok": true,
       "items": 1
     },
     {
-      "source": "Steam Most Played",
+      "source": "IGN",
       "category": "gaming",
       "ok": true,
-      "items": 1
+      "items": 20
     },
     {
-      "source": "CNBC Markets",
-      "category": "markets",
+      "source": "Open-Meteo",
+      "category": "_weather",
       "ok": true,
-      "items": 30
+      "items": 0
     },
     {
       "source": "Stereogum",
       "category": "music",
       "ok": true,
       "items": 40
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
     },
     {
       "source": "r/OutOfTheLoop",

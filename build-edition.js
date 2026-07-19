@@ -15,7 +15,7 @@ const { SOURCES, CATEGORIES } = require('./sources');
 const { fetchSource } = require('./fetchers');
 const { normalize } = require('./normalize');
 const { assembleEdition, validateEdition } = require('./schema');
-const { runEditor, fallbackEditorOutput, MODEL } = require('./editor');
+const { runEditor, fallbackEditorOutput, editorKind, MODEL, CLI_MODEL } = require('./editor');
 
 function parseArgs(argv) {
   const args = { slot: 'morning', dryRun: false, fixtures: false, noClaude: false, saveFixtures: false };
@@ -116,15 +116,17 @@ async function main() {
     return;
   }
 
-  // Editorial pass.
+  // Editorial pass: API key (SDK) if present, else the claude CLI on
+  // subscription auth, else the heuristic fallback.
   let editorOutput = null;
   let editorial = 'claude';
-  if (args.noClaude || !process.env.ANTHROPIC_API_KEY) {
-    if (!args.noClaude) console.warn('[press] ANTHROPIC_API_KEY not set - using fallback editor');
+  const kind = args.noClaude ? 'none' : editorKind();
+  if (kind === 'none') {
+    if (!args.noClaude) console.warn('[press] no ANTHROPIC_API_KEY and no claude CLI - using fallback editor');
     editorial = 'fallback';
   } else {
     try {
-      console.log(`[press] running the editor (${MODEL})…`);
+      console.log(`[press] running the editor (${kind === 'sdk' ? MODEL : `claude CLI, model ${CLI_MODEL}`})…`);
       editorOutput = await runEditor({ items, markets, weather, slot: args.slot, date });
     } catch (e) {
       console.error(`[press] editor failed (${e.message}) - falling back to heuristic edition`);
