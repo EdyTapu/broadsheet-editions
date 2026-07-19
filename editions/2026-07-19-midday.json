@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-19-midday",
+  "date": "2026-07-19",
+  "slot": "midday",
+  "slotTitle": "Midday Edition",
+  "generatedAt": "2026-07-19T18:29:52.151Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The midday edition, assembled without its editor.",
+    "weather": {
+      "tempF": 91,
+      "condition": "mostly clear",
+      "highF": 92,
+      "lowF": 72,
+      "precipPct": 27
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "9a254a741bfc",
+      "headline": "'Can you believe it?' - Best shots from final round of The Open",
+      "kicker": "news",
+      "blurb": "Enjoy the best shots from the final day of the 2026 Open Championship, featuring Tommy Fleetwood, Rory McIlroy and Ryan Fox."
+    },
+    "secondaries": [
+      {
+        "storyId": "880ad923bb35",
+        "headline": "HMD Touch 4G",
+        "kicker": "tech",
+        "blurb": "19 points, 19 comments on Hacker News"
+      },
+      {
+        "storyId": "5cd6c5de88f6",
+        "headline": "2026 NBA offseason trade grades: Lu Dort, Kessler and more deals",
+        "kicker": "sports",
+        "blurb": "We're grading the biggest NBA trades of the offseason, including the deal that sent Lu Dort to the Hawks in a three-team deal."
+      },
+      {
+        "storyId": "d78bfc5ebf80",
+        "headline": "What's going on with all the \"positive\" posts about Novak Djokovic?",
+        "kicker": "internet",
+        "blurb": "What's going on with all the \"positive\" posts about Novak Djokovic?"
+      },
+      {
+        "storyId": "e17718920c17",
+        "headline": "AI Mania Is Eviscerating Global Decision-Making",
+        "kicker": "ai",
+        "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s"
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "548f42227aaa",
+        "headline": "The Odyssey's massive $124 million weekend is another win for Christopher Nolan",
+        "kicker": "gaming"
+      },
+      {
+        "storyId": "b8d4e654d393",
+        "headline": "L7 Bassist Jennifer Finch Dies at 59",
+        "kicker": "music"
+      },
+      {
+        "storyId": "98fbbf6297f9",
+        "headline": "Lookout Valley's latest celebrities: unlikely business duo viral on TikTok - Local 3 News",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "f4bd263aa059",
+        "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "kicker": "news"
+      },
+      {
+        "storyId": "1573541d165b",
+        "headline": "IShowSpeed kicks off World Cup closing ceremony in blaze of colour",
+        "kicker": "news"
+      },
+      {
+        "storyId": "a33f88c801fe",
+        "headline": "How Fox kept cool at baked Birkdale to win The Open",
+        "kicker": "news"
+      },
+      {
+        "storyId": "86392d3caac4",
+        "headline": "Burnham to promise 'more breathing room' for people in first speech as PM",
+        "kicker": "news"
+      },
+      {
+        "storyId": "6ade05a75281",
+        "headline": "Trump presence means tight security for World Cup final",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-19T18:29:52.151Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 64382,
+        "changePct": -0.19
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1858.71,
+        "changePct": 0.05
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "98fbbf6297f9",
+          "headline": "Lookout Valley's latest celebrities: unlikely business duo viral on TikTok - Local 3 News",
+          "blurb": "Lookout Valley's latest celebrities: unlikely business duo viral on TikTok Local 3 News",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQUl1NmhxNW42bkJybWlqcy1GQWpGYTBfTHN6M2pVenhMcmdCdDJXSEJmNGNmUzVzLVhTMHQ4Nm5vSXJRVjhOUDhDcGl0MlZ4MGVLWDJxRDNESVQ2Qy1hdjBOaTQxMGFrYUh5OUN2aUlJanAxT0lrSV9iS2ZxbUI1WWJoVUZnSnpOVFp2QmJmdGE5SERHRzJ2S3JzNkxFU2xVbGFrRzN3V1dLNENOaVZkMGxzNXJwTklYcWF1Y1h4OXNlVllwaXcxSU5tNm9VcU1INVFvN09fVTFmVm8yRTZHTWFCNkxaNm11T05WM1Qxbjg5QQ?oc=5",
+          "publishedAt": "2026-07-19T14:37:00.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "a156cd099cb3",
+          "headline": "She Was Arranged to be a 'Child Bride.' Then She Went Viral on TikTok: 'Something Ain't Sitting Right With My Spirit!' - The Mary Sue",
+          "blurb": "She Was Arranged to be a 'Child Bride.' Then She Went Viral on TikTok: 'Something Ain't Sitting Right With My Spirit!' The Mary Sue",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVllzbE9QSG1xbHVZT2NaRV9OY3pqanhIalpneDRpb2ZybUdNVDBMd3N5WkhEdDJObXJRVGp5WndvUlpHUHhTQkNOZE9BeWlCNXJENExSTm54c3NMeU1ZM3JMSWhzZ2JBUTVBdjJSUjBqeVkyd1BQRk44M3RPNjdhZlJqZkQyVE40UVlpcTJVUkhmMUs2ekdDdDBZSGhmcWZaSWtRUlhYZWYxZ2k3OXBma1hyWmpzQXNiaGRvd0d3ckNtWV9UV3RtOVJUWDNTWGlNaGttUw?oc=5",
+          "publishedAt": "2026-07-19T14:22:00.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "a7d431c429bd",
+          "headline": "I went to a cafe hidden on industrial estate after viral TikTok - Facebook",
+          "blurb": "I went to a cafe hidden on industrial estate after viral TikTok Facebook",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQekNKNEMzRU9Hc1MzVDdkUW1EZ3YtOFVqTWVSMUhLVmVVbFFweWMxUDhQWGY4Ri1oOUlCd1BnTXBLU1JMSnFGYlE2cUR3LVFJTDJXcTFhOUtfOGdEM1gtMklxd3NOR2Q5M250aWtHOTdVYjMzQ2lFVmtfRGpheWZZdFI3NmpTemVScDVyLV9vUGNNYkJUOVhidTA5ZFlJb211VDk0dWxDSDUzOFowdTZVV2xQNGIza2dWNTIzM3dWcWlQQmJrV0VfNA?oc=5",
+          "publishedAt": "2026-07-19T14:13:48.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2); 4. najaah (na_ajahhhhh)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-19T18:29:53.156Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "375d7f8f513d",
+          "headline": "Old School RuneScape comes to indie mega-hit Meccha Chameleon with Lumbridge map",
+          "blurb": "Jagex has teamed up with community creators to turn Lumbridge into a playable Meccha Chameleon arena, complete with classic NPCs and RuneScape items.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/gaming/old-school-runescape-comes-to-indie-mega-hit-meccha-chameleon-with-lumbridge-map-3388900/",
+          "publishedAt": "2026-07-19T17:35:17.000Z",
+          "importance": 48,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/meccha-chameleon-OSRS-map.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "1d75834c1baa",
+          "headline": "Elderly man arrested in 45-year-long murder case after police use his trash to find DNA",
+          "blurb": "A 79-year-old man has been arrested after investigators linked him to a decades-old murder case using DNA samples found in his trash.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/elderly-man-arrested-in-45-year-long-murder-case-after-police-use-his-trash-to-find-dna-3388890/",
+          "publishedAt": "2026-07-19T16:25:20.000Z",
+          "importance": 40,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/collage-2.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "b9cb724ec3c1",
+          "headline": "Paralyzed man able to pet dog for first time in years after brain implant",
+          "blurb": "A brain implant has allowed a paralyzed man to regain movement and sense of touch, letting him feed himself, drink from a cup, and feel his pet dog’s fur.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/paralyzed-man-able-to-pet-dog-for-first-time-in-years-after-brain-implant-3388880/",
+          "publishedAt": "2026-07-19T15:08:47.000Z",
+          "importance": 32,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/keith-thomas.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "263c73be5105",
+          "headline": "Leather jacket worn by Nvidia CEO fetches near $1m at auction",
+          "blurb": "A leather jacket worn by the CEO of Nvidia has sold for just shy of $1 million at an auction in New York City.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/leather-jacket-worn-by-nvidia-ceo-fetches-near-1m-at-auction-3388879/",
+          "publishedAt": "2026-07-19T14:30:19.000Z",
+          "importance": 24,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/19/nuang.jpg?width=1080&quality=75&format=auto"
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "5cd6c5de88f6",
+          "headline": "2026 NBA offseason trade grades: Lu Dort, Kessler and more deals",
+          "blurb": "We're grading the biggest NBA trades of the offseason, including the deal that sent Lu Dort to the Hawks in a three-team deal.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
+          "publishedAt": "2026-07-19T18:11:30.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691296_608x342_16-9.jpg"
+        },
+        {
+          "id": "6fe4b5af0b08",
+          "headline": "Thunder send Dort to Hawks in three-team trade, sources say",
+          "blurb": "The Thunder are trading All-Defensive wing Luguentz Dort to the Hawks in a three-team deal that sends three second-round picks to Oklahoma City, former No. 1 pick Zaccharie Risacher to the Mavericks and Ryan Nembhard to Atlanta, sources told ESPN.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49400155/thunder-send-dort-hawks-three-team-trade-sources-say",
+          "publishedAt": "2026-07-19T18:03:10.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/photo/2025/0419/r1480744_1296x729_16-9.jpg"
+        },
+        {
+          "id": "4b4e52e5791a",
+          "headline": "Mavericks match Knicks' 2-year, $4.7M offer to Moussa Cisse",
+          "blurb": "The Mavericks matched the Knicks' two-year, $4.7 million offer sheet on restricted free agent Moussa Cisse, Yann Balikouzou and Kevin Bradbury of Lift Sports Management told ESPN's Shams Charania.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49396780/mavs-match-knicks-two-year-47m-offer-moussa-cisse",
+          "publishedAt": "2026-07-19T17:36:06.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0718/r1690893_600x400_3-2.jpg"
+        },
+        {
+          "id": "4c2af2df25c3",
+          "headline": "Rintaro Sasaki to sign with Marlins, forgo pro career in Japan",
+          "blurb": "Rintaro Sasaki will sign with the Miami Marlins and forgo a professional career in his home country.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49400697/rintaro-sasaki-sign-marlins-forgo-pro-career-japan",
+          "publishedAt": "2026-07-19T17:30:22.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/photo/2025/0410/r1476784_1296x729_16-9.jpg"
+        },
+        {
+          "id": "d3fb232a153c",
+          "headline": "Duane Ward, star reliever on Blue Jays' 1990s championship teams, dies at 62",
+          "blurb": "Duane Ward, who anchored the bullpen for the Blue Jays' back-to-back World Series-winning teams in the early 1990s, has died. He was 62.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49399456/duane-ward-star-reliever-blue-jays-1990s-championship-teams-dies-62",
+          "publishedAt": "2026-07-19T17:27:09.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691221_1296x729_16-9.jpg"
+        },
+        {
+          "id": "ce40fe5c0157",
+          "headline": "Braves demote Owen Murphy, add Elieser Hernández as trade deadline looms",
+          "blurb": "The Braves optioned right-hander Owen Murphy to Triple-A Gwinnett and selected the contract of veteran right-hander Elieser Hernández before Sunday's game against the Rangers.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49400476/braves-demote-owen-murphy-add-elieser-hernandez-trade-deadline-looms",
+          "publishedAt": "2026-07-19T17:17:45.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691280_1296x729_16-9.jpg"
+        },
+        {
+          "id": "28f23773ed4f",
+          "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
+          "blurb": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
+          "publishedAt": "2026-07-19T16:36:57.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691269_576x324_16-9.jpg"
+        },
+        {
+          "id": "13c70694c328",
+          "headline": "2026 NBA buzz: Latest summer league, free agency, trade updates",
+          "blurb": "We're tracking deals, trades and buzz across the NBA, including the latest on rookies at summer and offseason free agency.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+          "publishedAt": "2026-07-19T16:31:18.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/photo/2025/1225/r1593426_608x342_16-9.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "e17718920c17",
+          "headline": "AI Mania Is Eviscerating Global Decision-Making",
+          "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+          "publishedAt": "2026-07-19T05:06:21.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "375000db8198",
+          "headline": "Claude Code uses Bun written in Rust now",
+          "blurb": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "publishedAt": "2026-07-19T03:54:09.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "600abfd6ba71",
+          "headline": "SQLite Query Explainer",
+          "blurb": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
+          "publishedAt": "2026-07-18T17:19:10.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "73c5f10966fb",
+          "headline": "Claude make Fable 5 permanent",
+          "blurb": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+          "publishedAt": "2026-07-18T06:00:13.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "1547a9b1ab9e",
+          "headline": "nascheme/quixote",
+          "blurb": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/quixote/",
+          "publishedAt": "2026-07-18T05:27:49.000Z",
+          "importance": 48,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "9a254a741bfc",
+          "headline": "'Can you believe it?' - Best shots from final round of The Open",
+          "blurb": "Enjoy the best shots from the final day of the 2026 Open Championship, featuring Tommy Fleetwood, Rory McIlroy and Ryan Fox.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/golf/videos/c998r497gkno?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T18:27:07.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c00d/live/b8f7e470-8397-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "f4bd263aa059",
+          "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+          "blurb": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T18:25:40.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png"
+        },
+        {
+          "id": "1573541d165b",
+          "headline": "IShowSpeed kicks off World Cup closing ceremony in blaze of colour",
+          "blurb": "Another star-studded performance at half-time will include Shakira, BTS, Madonna and Justin Bieber.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T18:23:31.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030c/live/5b9c41e0-839c-11f1-8c34-fb0b540950a3.jpg"
+        },
+        {
+          "id": "a33f88c801fe",
+          "headline": "How Fox kept cool at baked Birkdale to win The Open",
+          "blurb": "New Zealand's Ryan Fox wins the Open Championship - his first major title - with a record-breaking weekend at Royal Birkdale",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/c89nv0v1e22o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T18:19:48.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d06/live/679ed220-839a-11f1-811e-034316fe6edf.jpg"
+        },
+        {
+          "id": "86392d3caac4",
+          "headline": "Burnham to promise 'more breathing room' for people in first speech as PM",
+          "blurb": "The Labour leader will set out his domestic priorities in his first speech from Downing Street as he becomes the seventh prime minister in 10 years on Monday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T18:10:26.000Z",
+          "importance": 48,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76bd/live/c2015290-838d-11f1-a4c3-dfd0ee4be073.jpg"
+        },
+        {
+          "id": "6ade05a75281",
+          "headline": "Trump presence means tight security for World Cup final",
+          "blurb": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T17:50:07.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a63e/live/f99ddf20-8388-11f1-8537-c5e158f8690c.jpg"
+        },
+        {
+          "id": "fdf722c98f4c",
+          "headline": "US and Iran trade fire after two US soldiers killed in Jordan",
+          "blurb": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T17:22:23.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "525283868e4a",
+          "headline": "Antonelli wins to extend lead after Russell crashes out",
+          "blurb": "Mercedes' Kimi Antonelli re-establishes a comfortable championship lead with victory in the Belgian Grand Prix while team-mate George Russell crashes out.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cevmymn2kd8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-19T17:09:57.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c7/live/ccc11150-8385-11f1-8537-c5e158f8690c.jpg"
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "d78bfc5ebf80",
+          "headline": "What's going on with all the \"positive\" posts about Novak Djokovic?",
+          "blurb": "What's going on with all the \"positive\" posts about Novak Djokovic?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v0w346/whats_going_on_with_all_the_positive_posts_about/",
+          "publishedAt": "2026-07-19T17:09:33.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "aa25381d4d88",
+          "headline": "What is up with this? Which is it?",
+          "blurb": "What is up with this? Which is it?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v0v81r/what_is_up_with_this_which_is_it/",
+          "publishedAt": "2026-07-19T16:35:52.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "1428bedcaa52",
+          "headline": "What’s going on with the folk valley memes?",
+          "blurb": "What’s going on with the folk valley memes?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v0tbg8/whats_going_on_with_the_folk_valley_memes/",
+          "publishedAt": "2026-07-19T15:21:04.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "df0c4cb977ce",
+          "headline": "'Corny On The Bob' A Rising TikTok Meme Thanks To This TikToker's Excellent Meal Showcase Videos",
+          "blurb": "Corny On the Bob refers to a series of memes and video edits of TikToker Patty Miller (@pattyzapfemiller) calling corn and corn on the cob \"corny on the bob\" while showing off what she's eating for her meals. Videos of Patty calling corn on the cob \"corny on the bob,\" and calling corn off the cob \"corny off the bob,\" date back as early as May 2025. Clips of her using the term were popularized as t",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/corny-on-the-bob",
+          "publishedAt": "2026-07-17T20:52:36.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "961d5f6b4dbb",
+          "headline": "Eight Years Ago, 'Tired D.W.' Was Added To The 'Arthur' Meme Arsenal",
+          "blurb": "Tired D.W. or D.W. With Black Eyes refers to an image of D.W. Read from the animated TV show Arthur grinning with dark circles photoshopped under her eyes as if tired. A photoshopped version of the image where D.W.'s eyes have been separated first became the subject of memes in 2014 before the dark circles were added in 2018, inspiring image macros where D.W. represents someone who is tired or hig",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/tired-dw",
+          "publishedAt": "2026-07-17T20:29:02.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "18431e3f0c83",
+          "headline": "The First 'If X Has a Million Fans, I'm One of Them' Meme Was Shared On Facebook 13 Years Ago Today",
+          "blurb": "If X Has a Million Fans, I'm One of Them is a copypasta and phrasal template in which a diehard fan of a famous person declares that they will remain their fan to their very last breath even if the entire world turns against that person. Spread as a copypasta about football player Cristiano Ronaldo on Facebook since 2013, the copypasta later gained virality in Twitch chat spam, and later with a ve",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/if-x-has-a-million-fans-im-one-of-them",
+          "publishedAt": "2026-07-17T19:01:03.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "3d0d2eb49949",
+          "headline": "The 'We'll Drive A Funky Ehhh' Meme Explained",
+          "blurb": "we'll drive a funky ehhh 🥀",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/videos/439523-well-drive-a-funky-ehh",
+          "publishedAt": "2026-07-17T18:42:21.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "6aabe68a172d",
+          "headline": "The Word LARP Is Misunderstood",
+          "blurb": "Subscribe to our channel https://www.youtube.com/channel/UCbrPqq29C9Q_TQP7OFFRzcw?sub_confirmation=1 #meme #memes #memesvideos",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/videos/439519-larp-larping",
+          "publishedAt": "2026-07-17T18:36:59.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "548f42227aaa",
+          "headline": "The Odyssey's massive $124 million weekend is another win for Christopher Nolan",
+          "blurb": "The massive opening weekend box office for The Odyssey should show studios that if they let visionary filmmakers do great work, people will come",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-odyssey-opening-weekend-box-office/",
+          "publishedAt": "2026-07-19T17:46:00.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-odyssey-_-official-trailer-0-35-screenshot.jpeg"
+        },
+        {
+          "id": "e720a52e5ab4",
+          "headline": "The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend",
+          "blurb": "Director Christopher Nolan's The Odyssey has blown box office expectations out of the water with an opening weekend that brought home an incredible $264.1 million worldwide.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
+          "publishedAt": "2026-07-19T17:25:46.000Z",
+          "importance": 72,
+          "imageUrl": "https://assets-prd.ignimgs.com/2025/03/15/the-odyssey-thumb-1741998682527.jpg"
+        },
+        {
+          "id": "12e1d0270b76",
+          "headline": "Matt Damon's forgotten fantasy blockbuster deserves another look before The Odyssey",
+          "blurb": "Before Mat Damon sets sail in Christopher Nolan's The Odyssey, dive into this Chinese-U.S. co-production that's stupid fun.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-best-matt-damon-movie-to-watch-while-waiting-for-the-odyssey-isnt-one-youd-expect/",
+          "publishedAt": "2026-07-19T17:00:12.000Z",
+          "importance": 64,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-great-wall-4.jpg"
+        },
+        {
+          "id": "6f6b6296ee41",
+          "headline": "The Best Deals Today: DJI Mini 4K Drone, Metal Gear Solid: Delta, Mortal Kombat 4K Limited Edition, and More",
+          "blurb": "The Best Deals Today: DJI Mini 4K Drone, Metal Gear Solid: Delta, Mortal Kombat 4K Limited Edition, and More",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/best-deals-for-july-19-2026",
+          "publishedAt": "2026-07-19T16:38:04.000Z",
+          "importance": 56,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/19/dd7-19-26-1784452280724.png"
+        },
+        {
+          "id": "db9de81be78d",
+          "headline": "Xbox still isn't revealing if the new Fallout games are console exclusives",
+          "blurb": "Xbox and Bethesda recently announced Fallout 5 and more new titles, but frustratingly won't say whether or not they are Xbox console exclusives",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/fallout-games-unclear-xbox-console-exclusivity/",
+          "publishedAt": "2026-07-19T16:27:33.000Z",
+          "importance": 48,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/best-open-world-games-reward-exploration-fallout-4.jpg"
+        },
+        {
+          "id": "a759c2010d1f",
+          "headline": "Forza Horizon 6 is so much better with a racing seat, I can never go back to a controller",
+          "blurb": "I finally switched to a racing seat for Forza Horizon 6, and I don't think I can ever go back to a controller again.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/forza-horizon-6-is-100-times-better-with-a-racing-seat/",
+          "publishedAt": "2026-07-19T16:00:12.000Z",
+          "importance": 40,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/forza-horizon-6-get-credits-fast-header.jpg"
+        },
+        {
+          "id": "86e0688d4b17",
+          "headline": "July 23 is about to be the busiest gaming day of the summer",
+          "blurb": "Thursday, July 23 will see the release of a new Avatar, Halo, and Splatoon game.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/july-23-video-game-releases/",
+          "publishedAt": "2026-07-19T15:30:12.000Z",
+          "importance": 32,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/avatar-legends-toph.jpg"
+        },
+        {
+          "id": "7570db13b5b0",
+          "headline": "Even the Call of Duty movie needs to have Modern Warfare connection",
+          "blurb": "2028's Call of Duty movie will be connected to the Modern Warfare series of games, showing the franchise is scared of new ideas",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/call-of-duty-movie-modern-warfare-connection/",
+          "publishedAt": "2026-07-19T15:06:38.000Z",
+          "importance": 24,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23585601/mw2ghost.jpg"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "b8d4e654d393",
+          "headline": "L7 Bassist Jennifer Finch Dies at 59",
+          "blurb": "The grunge musician died on Saturday after being diagnosed with an aggressive form of brain cancer",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/l7-bassist-jennifer-finch-dies-at-59/",
+          "publishedAt": "2026-07-19T15:31:57.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5cece84607d41cf238dc3e/master/pass/GettyImages-604600034.jpg"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Yung Miami – Spend Dat; 5. Drake – Shabang; 6. Ella Langley – Be Her; 7. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 8. Morgan Wallen – 20 Cigarettes; 9. Drake, Future & Molly Santana – Ran To Atlanta; 10. Olivia Rodrigo – stupid song; 11. Lil Baby – Freestyle; 12. Future – WAIT FOR U (feat. Drake &",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-19T18:29:53.374Z",
+          "importance": 72,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "e42e8e0220c9",
+          "headline": "Canada’s FEQ Gets The Festival Experience Right",
+          "blurb": "If the summer 2026 US concert season has a theme, it’s blue dot fever . Tour cancellations abound, while other shows are way undersold. Theories abound as to why this fever rages, although it goes without saying that concerts are expensive: A Pollstar study found that the average ticket price for the top 100 worldwide tours rose by 37.2% between 2019 and 2025. The post Canada’s FEQ Gets The Festiv",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505733/festival-dete-de-quebec/reviews/concert-review/",
+          "publishedAt": "2026-07-19T18:10:24.000Z",
+          "importance": 64,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/feq-2026.jpg?w=564"
+        },
+        {
+          "id": "faf02d8156ef",
+          "headline": "Tomahawk Reunite For First Show In 13 Years",
+          "blurb": "Tomahawk, the experimental rock supergroup led by Faith No More/Mr. Bungle frontman Mike Patton, played their first show since 2013 last night. The post Tomahawk Reunite For First Show In 13 Years appeared first on Stereogum .",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505721/tomahawk-reunite-for-first-show-in-13-years/news/",
+          "publishedAt": "2026-07-19T14:47:16.000Z",
+          "importance": 56,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/tomahawk.png?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "880ad923bb35",
+          "headline": "HMD Touch 4G",
+          "blurb": "19 points, 19 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+          "publishedAt": "2026-07-19T17:25:03Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "cca06f216a08",
+          "headline": "The Last MPEG-4 Visual Patent Has Expired",
+          "blurb": "30 points, 7 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+          "publishedAt": "2026-07-19T16:45:17Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "469534938abf",
+          "headline": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+          "blurb": "37 points, 7 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+          "publishedAt": "2026-07-19T16:38:36Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "3aec985379c8",
+          "headline": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+          "blurb": "43 points, 7 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "publishedAt": "2026-07-19T16:02:25Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "7fafa4d9fb23",
+          "headline": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+          "blurb": "15 points, 0 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+          "publishedAt": "2026-07-19T15:20:22Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "70389c25f144",
+          "headline": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+          "blurb": "105 points, 10 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=48968606",
+          "publishedAt": "2026-07-19T14:41:16Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "2890ae50bc8d",
+          "headline": "Terence McKenna's Mega Bad Trip",
+          "blurb": "33 points, 27 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
+          "publishedAt": "2026-07-19T14:30:31Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "bb3e54afda91",
+          "headline": "Bananas sprout in Rayleigh Garden UK after 15 years",
+          "blurb": "64 points, 40 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+          "publishedAt": "2026-07-19T13:29:29Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 243
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 829
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1039
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 34
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 5
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 29
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": true,
+      "items": 3
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 429 for https://www.reddit.com/r/Games/top/.rss?t=day"
+    }
+  ]
+}
