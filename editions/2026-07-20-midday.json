@@ -1,0 +1,1064 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-20-midday",
+  "date": "2026-07-20",
+  "slot": "midday",
+  "slotTitle": "Midday Edition",
+  "generatedAt": "2026-07-20T19:14:44.892Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The midday edition, assembled without its editor.",
+    "weather": {
+      "tempF": 92,
+      "condition": "mostly clear",
+      "highF": 94,
+      "lowF": 72,
+      "precipPct": 3
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "1853e3f6b4bd",
+      "headline": "Tate brothers appear in US court for extradition proceedings",
+      "kicker": "news",
+      "blurb": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny."
+    },
+    "secondaries": [
+      {
+        "storyId": "2751f2fd1951",
+        "headline": "Nativ: Run frontier open models locally on your Mac",
+        "kicker": "tech",
+        "blurb": "12 points, 0 comments on Hacker News"
+      },
+      {
+        "storyId": "ba3fe17a67c4",
+        "headline": "Who’s Afraid of Chinese Models?",
+        "kicker": "ai",
+        "blurb": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts: The U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars "
+      },
+      {
+        "storyId": "7ecaa53fc72c",
+        "headline": "Sources: Matisse Thybulle agrees to 1-year deal with Lakers",
+        "kicker": "sports",
+        "blurb": "Free agent forward Matisse Thybulle has agreed on a one-year, $3.3 million deal to sign with the Los Angeles Lakers, sources told ESPN."
+      },
+      {
+        "storyId": "7aa3dbd824c7",
+        "headline": "Why are people talking about this random woman eating watermelon?",
+        "kicker": "internet",
+        "blurb": "Why are people talking about this random woman eating watermelon?"
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "2145d8215de7",
+        "headline": "In the wake of Stadium's death, Overwatch's Quick Play Hacked weekend makes me hope 6v6 returns permanently",
+        "kicker": "gaming"
+      },
+      {
+        "storyId": "b0e3d2a3fe6d",
+        "headline": "Beastie Boys’ Mike D Adds Tour Dates in North America and Europe",
+        "kicker": "music"
+      },
+      {
+        "storyId": "98adb99ebc7d",
+        "headline": "This Viral TikTok Trend Has Experts Nervous That It’s Really Being Used to Train AI - inc.com",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "ce861af8ddbd",
+        "headline": "Man, 28, charged with murder of Ann Widdecombe",
+        "kicker": "news"
+      },
+      {
+        "storyId": "764ca92e9493",
+        "headline": "Who's in the cabinet?",
+        "kicker": "news"
+      },
+      {
+        "storyId": "05f305ff505d",
+        "headline": "John Healey becomes chancellor weeks after shock resignation from defence job",
+        "kicker": "news"
+      },
+      {
+        "storyId": "538639e29f00",
+        "headline": "Key takeaways as Andy Burnham becomes PM",
+        "kicker": "news"
+      },
+      {
+        "storyId": "981608499678",
+        "headline": "Burnham promises help with your money. How could it affect you?",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-20T19:14:44.892Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 65114,
+        "changePct": 1.12
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1892.79,
+        "changePct": 1.85
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "98adb99ebc7d",
+          "headline": "This Viral TikTok Trend Has Experts Nervous That It’s Really Being Used to Train AI - inc.com",
+          "blurb": "This Viral TikTok Trend Has Experts Nervous That It’s Really Being Used to Train AI inc.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYU12OHBjVFN1U0p6aGoyVGJZTDV5aDYxV09ueTA2ampDV3ZmMFVRdlRxN3hGZ2RpRWJWX2xaS3ZWQ0EwY25ta0NEeXNkcnE1ZTN2TEhyb0oxb2hwYmJ2Ty1KaFJVUXplY0g4ZzFuTmkyalh5NU8tWEtzZGZwT05qankzMFYzanNRQ09pT0FVTEFyRm9sTUtoUGd5OF9wMl82?oc=5",
+          "publishedAt": "2026-07-20T17:20:26.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "a08f934487bc",
+          "headline": "Saxophones Getting Louder? The Meaning Behind the TikTok Trend - The New York Times",
+          "blurb": "Saxophones Getting Louder? The Meaning Behind the TikTok Trend The New York Times",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmFybDFhN2VuYmk0MTk0bm5NRW1hdWxyXzdENERIamRabnZkRVByMk5oU1hqeWZMUHlKUHZ3b0pjMmZBRVMwVUY0MkV4S0ZoS3IyOWxKSTFncGRieWJnSXR6b0Z0bjFuYWVMWk9YeHBOOVRObVlKazYxYUFoX09xTlFkaTE?oc=5",
+          "publishedAt": "2026-07-20T16:34:48.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "aea758fcfff8",
+          "headline": "$400 Vesgantti Sectional: The Viral TikTok Couch Review - theinventory.com",
+          "blurb": "$400 Vesgantti Sectional: The Viral TikTok Couch Review theinventory.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUFoZlRmaHY2d3QtWlJoeF9SOWhGZ2huR2thV3ktVzR1TEItdF8wcmctMURHc25zTG50VlN0VDdNTjlzWEFFdWR3bWpGSnp4YWNfcEYwZ0toV3RmdEx1Sk14TXdna0VCMldXdVFCcl84Y1B2cXRIZG8wa1N0WXR6MDYtdXcwbEFY?oc=5",
+          "publishedAt": "2026-07-20T16:05:49.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "d247f7f96f4b",
+          "headline": "Viral TikTok Cloud Couch Dupe On Sale for $482 (Save $85) - theinventory.com",
+          "blurb": "Viral TikTok Cloud Couch Dupe On Sale for $482 (Save $85) theinventory.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvb2QwZmNCT01sZzRvN3FKMW1EQzI4YnlhNHh4Tk5zeFY2NXFkd2JPQUp5X21NNGk4eGxKUUZ5d1dibGRudEtDSnBfNkU4ckx4VVN2alNtWXg1N3Vzc1NrZkFpZFowemxwdjByaV9Wd2R6ZTkzWWxIWmdsbw?oc=5",
+          "publishedAt": "2026-07-20T16:05:20.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "2c3566e3299a",
+          "headline": "Viral TikTok Cloud Couch Dupe 26% Off at $296 on Amazon - theinventory.com",
+          "blurb": "Viral TikTok Cloud Couch Dupe 26% Off at $296 on Amazon theinventory.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BbEFLMlZNMGRZWmNIWjB2SjhKVVIwZnBaVlFtT1J1UC00bHVhWU9Tckh2VnQta1NKdFRwa2FFbHNmaG9OYXFYOENGdUtFbVBXMy0yUlpnTkJSTzNrbjlLOFlMaURoVWNfWUp5VGZ4bVQyelpnMDgzOUlvTQ?oc=5",
+          "publishedAt": "2026-07-20T15:44:12.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "056b1cd196a7",
+          "headline": "$270 Cloud Couch Dupe: TikTok Viral Sectional at 18% Off - theinventory.com",
+          "blurb": "$270 Cloud Couch Dupe: TikTok Viral Sectional at 18% Off theinventory.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqcjVLZG42Ynp3Yy1DZ1RBWThoU0RoWFRTUXFyWUZmUmI0VGV3OU42QnU1Wnd1N3lvbUZveWpSU2ExVEVuUlZqdU4yUGdMR1labFA2d1RROG9DcDdkM0s4MUNuNDZxaERsU1JlM2pZMzQ?oc=5",
+          "publishedAt": "2026-07-20T15:39:56.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. Korby Sears (Licking Chocolate (STEM synth solo)); 4. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-20T19:14:46.072Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "a99634a52d81",
+          "headline": "Rachel Kolisi’s TikTok has fans calling her a ‘baddie’ - womanandhomemagazine.co.za",
+          "blurb": "Rachel Kolisi’s TikTok has fans calling her a ‘baddie’ womanandhomemagazine.co.za",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkptRzNoWGNBTjZvaDh2MXUwVjBfR042bTE0cU1hc3liaEFiRlFVbnVLNmp1OWx6SVBPVHdOcjNoLVg0eWtaSk53eEthbUtNTm9raThLSGFDeHdYbHNuVFNwNjdUY1E0Sm1aVm1Ga0Z4OGx1Y3ZWOHFQQ0Fza0ktMjdJbHVjM1hBc1RlRXlDWVVxM0haRXVmVDFKSQ?oc=5",
+          "publishedAt": "2026-07-20T13:22:41.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "7ecaa53fc72c",
+          "headline": "Sources: Matisse Thybulle agrees to 1-year deal with Lakers",
+          "blurb": "Free agent forward Matisse Thybulle has agreed on a one-year, $3.3 million deal to sign with the Los Angeles Lakers, sources told ESPN.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49411523/sources-matisse-thybulle-agrees-1-year-deal-lakers",
+          "publishedAt": "2026-07-20T19:10:14.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2025/1101/r1568995_600x400_3-2.jpg"
+        },
+        {
+          "id": "71450df7d947",
+          "headline": "Haliburton to McAfee: 'I feel great,' LeBron being a Pacer is 'not looking good'",
+          "blurb": "Haliburton to McAfee: 'I feel great,' LeBron being a Pacer 'not looking good'",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/video/clip/_/id/49411610/feel-great-lebron-being-pacer-not-looking-good",
+          "publishedAt": "2026-07-20T18:56:02.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_144237119_3598422/ss_20260720_144237119_3598422.jpg"
+        },
+        {
+          "id": "13c70694c328",
+          "headline": "2026 NBA buzz: Latest summer league, free agency, trade updates",
+          "blurb": "We're tracking deals, trades and buzz across the NBA, including the latest on rookies at summer and offseason free agency.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+          "publishedAt": "2026-07-20T18:35:17.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/photo/2025/1225/r1593426_608x342_16-9.jpg"
+        },
+        {
+          "id": "3221b957fa87",
+          "headline": "Fantasy basketball: Who increased their value most during summer league?",
+          "blurb": "With NBA summer league complete, Andre identifies the players who have seen their fantasy value rise the most.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/fantasy/basketball/story/_/id/49402995/espn-nba-fantasy-basketball-summer-league-rookies-analysis",
+          "publishedAt": "2026-07-20T16:46:58.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691409_1296x729_16-9.jpg"
+        },
+        {
+          "id": "97e4a658839a",
+          "headline": "Fantasy football buzz: Why Garrett Wilson is undervalued at his 2026 ADP",
+          "blurb": "Eric Moody breaks down why Wilson is still a strong fantasy draft pick despite questions surrounding the Jets.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+          "publishedAt": "2026-07-20T16:20:25.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0720/r1691760_1296x729_16-9.jpg"
+        },
+        {
+          "id": "0526c8902137",
+          "headline": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
+          "blurb": "Has Allen surpassed Mahomes as NFL's best QB? Stephen A. weighs in",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/video/clip/_/id/49410332/has-allen-surpassed-mahomes-nfl-best-qb-stephen-weighs-in",
+          "publishedAt": "2026-07-20T15:35:26.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_112458251_3598316688/ss_20260720_112458251_3598316688.jpg"
+        },
+        {
+          "id": "b4f6856f2224",
+          "headline": "Fantasy baseball: Buxton, Carroll both day-to-day and other Monday news",
+          "blurb": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/fantasy/baseball/story/_/id/48297021/espn-fantasy-baseball-buzz-injuries-promotions-demotions-trades-prospects-lineup-changes-mlb-news-analysis-2026",
+          "publishedAt": "2026-07-20T15:13:14.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0720/r1691759_576x324_16-9.jpg"
+        },
+        {
+          "id": "2e0fe435bd6d",
+          "headline": "Why Cavs, Warriors stand out to Stephen A. as destinations for LeBron",
+          "blurb": "Why Cavs, Warriors stand out to Stephen A. as destinations for LeBron",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/video/clip/_/id/49409982/why-cavs-warriors-stand-stephen-destinations-lebron",
+          "publishedAt": "2026-07-20T14:50:04.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_103710166_3598292/ss_20260720_103710166_3598292.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "ba3fe17a67c4",
+          "headline": "Who’s Afraid of Chinese Models?",
+          "blurb": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts: The U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/",
+          "publishedAt": "2026-07-20T17:09:19.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "d4ff9ec891b7",
+          "headline": "Safety and alignment in an era of long-horizon models",
+          "blurb": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "publishedAt": "2026-07-20T10:00:00.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "2a23be4db485",
+          "headline": "Quoting Sam Altman",
+          "blurb": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage other",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
+          "publishedAt": "2026-07-20T03:47:59.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "f23573f8baf6",
+          "headline": "Apply for Anthropic’s AI for Science rare disease research grants",
+          "blurb": "Apply for Anthropic’s AI for Science rare disease research grants",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+          "publishedAt": "2026-07-20T00:00:00.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "8030c8e0dc09",
+          "headline": "Introducing Cosmos 3 Edge",
+          "blurb": "Introducing Cosmos 3 Edge",
+          "source": "Hugging Face",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "publishedAt": "2026-07-20T15:58:51.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "e17718920c17",
+          "headline": "AI Mania Is Eviscerating Global Decision-Making",
+          "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+          "publishedAt": "2026-07-19T05:06:21.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "375000db8198",
+          "headline": "Claude Code uses Bun written in Rust now",
+          "blurb": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "publishedAt": "2026-07-19T03:54:09.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "bce1ea0cbdf3",
+          "headline": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+          "blurb": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they struggle to reason systematically under cost constraints, often resorting to excessive",
+          "source": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.15280",
+          "publishedAt": "2026-07-20T04:00:00.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "1853e3f6b4bd",
+          "headline": "Tate brothers appear in US court for extradition proceedings",
+          "blurb": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T19:05:50.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545f/live/47381f30-844b-11f1-a4f8-3b082a0563dd.jpg"
+        },
+        {
+          "id": "ce861af8ddbd",
+          "headline": "Man, 28, charged with murder of Ann Widdecombe",
+          "blurb": "Joshua Kerry from Rotherham will appear at Westminster Magistrates' Court on Tuesday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T19:02:04.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8039/live/fa3e3230-8456-11f1-8cf4-43aed99842b4.png"
+        },
+        {
+          "id": "764ca92e9493",
+          "headline": "Who's in the cabinet?",
+          "blurb": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T18:59:15.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ede/live/8badd4d0-8463-11f1-b976-0b9c15b0ccfc.png"
+        },
+        {
+          "id": "05f305ff505d",
+          "headline": "John Healey becomes chancellor weeks after shock resignation from defence job",
+          "blurb": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T18:44:55.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg"
+        },
+        {
+          "id": "538639e29f00",
+          "headline": "Key takeaways as Andy Burnham becomes PM",
+          "blurb": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T18:29:18.000Z",
+          "importance": 48,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6838/live/302fe200-845f-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "981608499678",
+          "headline": "Burnham promises help with your money. How could it affect you?",
+          "blurb": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T18:22:46.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/acd4de30-8439-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "3b39992a0ba0",
+          "headline": "Faisal Islam: The new PM has big ideas - but what will they cost?",
+          "blurb": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T18:21:31.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "16905e11aacd",
+          "headline": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
+          "blurb": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T18:16:51.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/7ae1e690-846e-11f1-b286-f1d324aa6c22.jpg"
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "7aa3dbd824c7",
+          "headline": "Why are people talking about this random woman eating watermelon?",
+          "blurb": "Why are people talking about this random woman eating watermelon?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1tpva/why_are_people_talking_about_this_random_woman/",
+          "publishedAt": "2026-07-20T18:27:57.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "566b66c2a689",
+          "headline": "What is going on with the Jantar Mantar protests in India?",
+          "blurb": "What is going on with the Jantar Mantar protests in India?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1tdrt/what_is_going_on_with_the_jantar_mantar_protests/",
+          "publishedAt": "2026-07-20T18:16:06.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "00fa3a291bd5",
+          "headline": "What is going on with Jenny Apple’s Youtube Channel?",
+          "blurb": "What is going on with Jenny Apple’s Youtube Channel?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1qmvk/what_is_going_on_with_jenny_apples_youtube_channel/",
+          "publishedAt": "2026-07-20T16:38:33.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "483d863790df",
+          "headline": "What’s up with U.K. Prime Ministers? Why do they seem to change randomly like this?",
+          "blurb": "What’s up with U.K. Prime Ministers? Why do they seem to change randomly like this?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1k3hv/whats_up_with_uk_prime_ministers_why_do_they_seem/",
+          "publishedAt": "2026-07-20T12:27:38.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "364500c37f34",
+          "headline": "Everybody On Reels And TikTok Is Trying To Figure Out What 'Quiet On The Creek' Means",
+          "blurb": "Quiet On the Creek is a catchphrase derived from the Saucy Santana song of the same name, where the lyrics \"Quiet on the creek\" are repeated in a whispered voice throughout the song. \"Quiet On the Creek\" was teased by Saucy Santana throughout mid-July 2026 and was released on July 17th. It went viral on TikTok and \"Instagram Reels\": as the subject of memes, many of which interpret the lyrics liter",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/quiet-on-the-creek",
+          "publishedAt": "2026-07-20T15:59:52.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "875a217eeec5",
+          "headline": "TIL about the \"Batman effect\": In an experiment, a woman appearing pregnant boarded a train. In some trials, another experimenter dressed as Batman also entered",
+          "blurb": "TIL about the \"Batman effect\": In an experiment, a woman appearing pregnant boarded a train. In some trials, another experimenter dressed as Batman also entered. Passengers were far more likely to of…",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/todayilearned/comments/1v1os6h/til_about_the_batman_effect_in_an_experiment_a/",
+          "publishedAt": "2026-07-20T15:30:07.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "a082c031f56b",
+          "headline": "I like how people are getting fed up with this 😂",
+          "blurb": "I like how people are getting fed up with this 😂",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/TikTokCringe/comments/1v1ms86/i_like_how_people_are_getting_fed_up_with_this/",
+          "publishedAt": "2026-07-20T14:14:47.000Z",
+          "importance": 32,
+          "imageUrl": "https://external-preview.redd.it/dXc4c2xyYnU3ZWVoMYXgaGV5SIfahySIsAemvq0vVyEubyzOvwS7tRNWa3ou.png?width=640&crop=smart&auto=webp&s=b164afd1fa7af6494cfc88d328c4e4f6e0f99945"
+        },
+        {
+          "id": "c79114b63642",
+          "headline": "They tried to intimidate the girls",
+          "blurb": "They tried to intimidate the girls",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/KidsAreFuckingStupid/comments/1v1m68t/they_tried_to_intimidate_the_girls/",
+          "publishedAt": "2026-07-20T13:52:03.000Z",
+          "importance": 24,
+          "imageUrl": "https://external-preview.redd.it/MnhjY3RtMHMzZWVoMT5BQHvA-LqjKdD9UABOakGYDm7PBXwonvvftd_krSNG.png?width=640&crop=smart&auto=webp&s=72ca52547b92f965f4ac5b287a18996ef5110f50"
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "2145d8215de7",
+          "headline": "In the wake of Stadium's death, Overwatch's Quick Play Hacked weekend makes me hope 6v6 returns permanently",
+          "blurb": "Blizzard's new 6v6 experiment in Overwatch makes matches more exciting and unpredictable than ever, and I hope it becomes a permanent fixture",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/overwatchs-quick-play-hacked-weekend-1-3-2-6v6-mode/",
+          "publishedAt": "2026-07-20T19:00:12.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/overwatchs-quick-play-hacked-weekend-1-3-2-6v6-mode.jpg"
+        },
+        {
+          "id": "3111ff64b45b",
+          "headline": "Call of Duty: Modern Warfare 4 gets open beta in August",
+          "blurb": "Activision announces Call of Duty: Modern Warfare 4 beta dates and how to get into the beta playtest if you pre-order (and if you don't).",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/call-of-duty-modern-warfare-4-open-beta-dates/",
+          "publishedAt": "2026-07-20T18:49:08.000Z",
+          "importance": 72,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/call-of-duty-mw4.jpg"
+        },
+        {
+          "id": "48af3e2980c5",
+          "headline": "Josh Sawyer on Why He Won't Let Players Kill God In His Games [Interview]",
+          "blurb": "Josh Sawyer on Why He Won't Let Players Kill God In His Games [Interview]",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v1u5ba/josh_sawyer_on_why_he_wont_let_players_kill_god/",
+          "publishedAt": "2026-07-20T18:42:52.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "d4d51f000107",
+          "headline": "Paramount-Warner Bros. merger blocked by judge in new legal snag",
+          "blurb": "A federal judge has put the $110 billion Paramount-Warner Bros. merger on hold temporarily after 12 US states sued to block it.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/paramount-warner-bros-merger-blocked-federal-judge/",
+          "publishedAt": "2026-07-20T18:28:23.000Z",
+          "importance": 56,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/wb-logo-deathly-hallows.jpg"
+        },
+        {
+          "id": "361efe3844d4",
+          "headline": "Sauron Actor Charlie Vickers ‘Cried’ Stepping on Rings of Power Season 3 Set to Forge the One Ring",
+          "blurb": "The Rings of Power co-showrunner Patrick McKay confirmed that the One Ring will get forged this season in a sequence so long, it took two weeks to film — and one that left actor Charlie Vickers teary-eyed in awe.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/sauron-actor-charlie-vickers-cried-stepping-on-rings-of-power-season-3-set-to-forge-the-one-ring",
+          "publishedAt": "2026-07-20T18:26:42.000Z",
+          "importance": 48,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/sauron-forges-one-ring-season-3-rings-of-power-amazon-1784571483531.jpg"
+        },
+        {
+          "id": "f43f650707bb",
+          "headline": "The LEGO Super Mario World: Mario & Yoshi Drops to a New Price Low for Best Buy's Black Friday in July Sale",
+          "blurb": "Save 30% off this possibly soon-to-be-retiring LEGO set.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/lego-super-mario-world-mario-yoshi-71438-deal-best-buy-black-friday-in-july-sale",
+          "publishedAt": "2026-07-20T18:25:00.000Z",
+          "importance": 40,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/legomarioyoshi-1784571712443.jpg"
+        },
+        {
+          "id": "886b614fcfa0",
+          "headline": "The Mermaid Mask is one of 2026's best reviewed games, for good reason",
+          "blurb": "The Mermaid Mask is a hilarious murder mystery game with a memorable cast of goofball suspects.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-mermaid-mask-recommendation/",
+          "publishedAt": "2026-07-20T18:00:12.000Z",
+          "importance": 32,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-mermaid-mask-detective-grimoire-sally.jpg"
+        },
+        {
+          "id": "2b5b845c1f6e",
+          "headline": "Christopher Nolan’s The Odyssey has a surprising connection to Dune",
+          "blurb": "Frank Herbert's Dune books eventually connect Paul Atreides all the way back to the Trojan War.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/christopher-nolan-the-odyssey-dune-connection-shared-universe/",
+          "publishedAt": "2026-07-20T17:51:46.000Z",
+          "importance": 24,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25337683/rev_1_DUN2_T3_0084r_High_Res_JPEG.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "b0e3d2a3fe6d",
+          "headline": "Beastie Boys’ Mike D Adds Tour Dates in North America and Europe",
+          "blurb": "His Mike D 5D band heads out on its first major trek in late summer",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/beastie-boys-mike-d-adds-tour-dates-in-north-america-and-europe/",
+          "publishedAt": "2026-07-20T17:09:36.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e555d642b4bf4efec2bda/master/pass/mike-d-2026-tour.jpg"
+        },
+        {
+          "id": "cd9bfa8ed6e4",
+          "headline": "Steve Lacy, Beck, and More: This Week’s Pitchfork Selects Playlist",
+          "blurb": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/steve-lacy-beck-and-more-this-weeks-pitchfork-selects-playlist/",
+          "publishedAt": "2026-07-20T17:04:35.000Z",
+          "importance": 72,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e6aa102f6a16802ac1be9/master/pass/P4K26-0720_Selects_2x1.gif"
+        },
+        {
+          "id": "9cc3da767d2a",
+          "headline": "Melissa Auf der Maur Unveils First New Music in 16 Years",
+          "blurb": "On Bass Womb Room, several new compositions thread together an unvaulted set of ’90s demos",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/melissa-auf-der-maur-unveils-first-new-music-in-16-years/",
+          "publishedAt": "2026-07-20T16:02:36.000Z",
+          "importance": 64,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e363d9d4cfbb4099e2408/master/pass/melissa-auf-der-maur.jpeg"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Yung Miami – Spend Dat; 5. Ella Langley – Be Her; 6. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 7. Drake – Shabang; 8. Morgan Wallen – 20 Cigarettes; 9. Olivia Rodrigo – stupid song; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Morgan Wallen – I'm The Problem; 12. Ariana Grande – hate th",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-20T19:14:46.543Z",
+          "importance": 56,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "1e35ae5a8218",
+          "headline": "Arca Announces New Album XXXXX",
+          "blurb": "The follow-up to the Kick series will launch with a livestream this week",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/arca-announces-new-album-xxxxx/",
+          "publishedAt": "2026-07-20T14:01:22.000Z",
+          "importance": 48,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e064c642b4bf4efec28fa/master/pass/arca-new-album.jpg"
+        },
+        {
+          "id": "790d21fbba13",
+          "headline": "Robbie Williams Addresses Viral Video Showing White Substance During His World Cup Interview",
+          "blurb": "Robbie Williams has been open about his struggles with substance abuse. The topic was explored in his 2023 Netflix docuseries , and he now boasts 25 years of sobriety. But a video has gone viral of a white substance falling from his face onto a microphone during a World Cup interview, and the British singer acknowledged the controversy. The post Robbie Williams Addresses Viral Video Showing White ",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505859/robbie-williams-addresses-viral-video-showing-white-substance-during-his-world-cup-interview/news/",
+          "publishedAt": "2026-07-20T19:03:06.000Z",
+          "importance": 40,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Screenshot-2026-07-20-at-2.50.13-PM.png?w=564"
+        },
+        {
+          "id": "fc88dd340c23",
+          "headline": "John Glacier – “Bond Girl”",
+          "blurb": "Last year, John Glacier released her memorable debut album Like A Ribbon . Since then, the London-based musician has collaborated with Blondshell and MJ Cole , and today she's back with a chic new number called \"Bond Girl.\" The track is low-key and sleek, co-produced with Take A Daytrip and taking inspiration from early Detroit techno. It comes with a luxurious music video directed by Léa Ceheivi.",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505855/john-glacier-bond-girl/music/",
+          "publishedAt": "2026-07-20T18:15:14.000Z",
+          "importance": 32,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Bond-Girl_track_cover.jpg?w=564"
+        },
+        {
+          "id": "79828170564f",
+          "headline": "Melissa Auf Der Maur Announces First New Music In 16 Years, Hole Tease Something For Friday",
+          "blurb": "Melissa Auf der Maur, who has provided both her musical talents to iconic groups Hole and the Smashing Pumpkins, is releasing her first new music in 16 years. The Montreal-born musician and artist announced BASS WOMB ROOM: My ’90s 4-Track Demos x Field Recordings , which is out September 4 via Envision Records. The post Melissa Auf Der Maur Announces First New Music In 16 Years, Hole Tease Somethi",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505780/melissa-auf-der-maur-announces-first-new-music-in-15-years-hole-tease-something-for-friday/news/",
+          "publishedAt": "2026-07-20T16:06:35.000Z",
+          "importance": 24,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/BASS-WOMB-ROOM-digital-artwork.jpg?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "2751f2fd1951",
+          "headline": "Nativ: Run frontier open models locally on your Mac",
+          "blurb": "12 points, 0 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://blaizzy.github.io/nativ/",
+          "publishedAt": "2026-07-20T18:16:08Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "22444aaa2cba",
+          "headline": "The drivers behind software delivery inefficiency",
+          "blurb": "13 points, 2 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+          "publishedAt": "2026-07-20T18:10:17Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "78e7f4981e1d",
+          "headline": "That post never existed. Stop listening to that thing",
+          "blurb": "63 points, 36 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://rachelbythebay.com/w/2026/05/05/404/",
+          "publishedAt": "2026-07-20T17:57:37Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "e67fcf74c097",
+          "headline": "Hyprland 0.55 announced the switch to Lua for its config files",
+          "blurb": "55 points, 36 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://hypr.land/news/update55/",
+          "publishedAt": "2026-07-20T17:31:57Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "c29f5e1d6e90",
+          "headline": "Kimi Work",
+          "blurb": "77 points, 36 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.kimi.com/products/kimi-work",
+          "publishedAt": "2026-07-20T17:13:23Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "bb631db1d502",
+          "headline": "Jelly UI: Soft-body physics for native HTML form controls",
+          "blurb": "89 points, 28 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://jelly-ui.com/",
+          "publishedAt": "2026-07-20T17:07:39Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "2b4b6588b1d6",
+          "headline": "Over 30% of new ArXiv submissions now read as AI-written",
+          "blurb": "136 points, 93 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "publishedAt": "2026-07-20T16:36:36Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "809e6a3d28fb",
+          "headline": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+          "blurb": "25 points, 52 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=48981136",
+          "publishedAt": "2026-07-20T16:32:10Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 244
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 829
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 201
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 5
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 29
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1040
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": true,
+      "items": 22
+    }
+  ]
+}
