@@ -1,0 +1,1064 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-20-evening",
+  "date": "2026-07-20",
+  "slot": "evening",
+  "slotTitle": "Evening Edition",
+  "generatedAt": "2026-07-20T23:34:19.437Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The evening edition, assembled without its editor.",
+    "weather": {
+      "tempF": 91,
+      "condition": "clear",
+      "highF": 92,
+      "lowF": 72,
+      "precipPct": 3
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "1f0b98fa3d9f",
+      "headline": "Will the Tate brothers be extradited from the US to the UK?",
+      "kicker": "news",
+      "blurb": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers."
+    },
+    "secondaries": [
+      {
+        "storyId": "aa4fe57410c0",
+        "headline": "The creepiest 'sales demo' of all time",
+        "kicker": "tech",
+        "blurb": "51 points, 22 comments on Hacker News"
+      },
+      {
+        "storyId": "4fd2499e4e45",
+        "headline": "Reverse-engineering is cheap now",
+        "kicker": "ai",
+        "blurb": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was entirely possible to reverse-engineer home devices. The problem was the ROI - was it really worth all of that effort? More importantly, any experienced programmer k"
+      },
+      {
+        "storyId": "05d38149c413",
+        "headline": "Marlins place All-Star RHP Max Meyer on IL with neck strain",
+        "kicker": "sports",
+        "blurb": "Marlins All-Star right-hander Max Meyer was placed on the 15-day injured list with a neck strain, and All-Star shortstop Otto Lopez was out of the starting lineup for the second straight game."
+      },
+      {
+        "storyId": "ce5a6744afe1",
+        "headline": "Whats going on with Gooseworks slander recently?",
+        "kicker": "internet",
+        "blurb": "Whats going on with Gooseworks slander recently?"
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "29c14384a72e",
+        "headline": "DC Announces New Tag Fighting Game And Injustice Fans Are Confused",
+        "kicker": "gaming"
+      },
+      {
+        "storyId": "b18e026a54c1",
+        "headline": "Watch John Glacier Live Out Her 007 Fantasies in New “Bond Girl” Video",
+        "kicker": "music"
+      },
+      {
+        "storyId": "a08f934487bc",
+        "headline": "Saxophones Getting Louder? The Meaning Behind the TikTok Trend - The New York Times",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "764ca92e9493",
+        "headline": "Who's in the cabinet?",
+        "kicker": "news"
+      },
+      {
+        "storyId": "eadcf9422681",
+        "headline": "Trump imposes 50% tariff on Canadian imports",
+        "kicker": "news"
+      },
+      {
+        "storyId": "cb3c1c856524",
+        "headline": "Humphries suffers shock first-round exit at Matchplay",
+        "kicker": "news"
+      },
+      {
+        "storyId": "3911e5df3ddb",
+        "headline": "Earl wants changes to 'brutal' Nations Championship format",
+        "kicker": "news"
+      },
+      {
+        "storyId": "3b265d33eddd",
+        "headline": "Russian warship carried out firing exercise off Plymouth coast",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-20T23:34:19.437Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 65200,
+        "changePct": 0.78
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1902.66,
+        "changePct": 1.71
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "a08f934487bc",
+          "headline": "Saxophones Getting Louder? The Meaning Behind the TikTok Trend - The New York Times",
+          "blurb": "Saxophones Getting Louder? The Meaning Behind the TikTok Trend The New York Times",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmFybDFhN2VuYmk0MTk0bm5NRW1hdWxyXzdENERIamRabnZkRVByMk5oU1hqeWZMUHlKUHZ3b0pjMmZBRVMwVUY0MkV4S0ZoS3IyOWxKSTFncGRieWJnSXR6b0Z0bjFuYWVMWk9YeHBOOVRObVlKazYxYUFoX09xTlFkaTE?oc=5",
+          "publishedAt": "2026-07-20T22:41:49.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "108ee3703332",
+          "headline": "Viral TikTok beauty spot owners warn people not to visit secluded reservoir - Yahoo",
+          "blurb": "Viral TikTok beauty spot owners warn people not to visit secluded reservoir Yahoo",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmNPbWowRGtVZ2NPenNtSm5BeDdBdktEQkFMeW04Nkh5NHNBSVE1d0pxMzZBTUM0MWR4TXZWWVNnZHZQZUhaWElKMl82aUpPRjdlaHY3b0FlV2hkT0xWckNqdWl5eGNyX3o4T2NLSExvbkJ0OHA2WnlYQWhkLVVQcHBKWlc5b29BM1BXSG5B?oc=5",
+          "publishedAt": "2026-07-20T22:00:05.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "6ffda13ef617",
+          "headline": "What Is The 'Power Of A Haircut' Meme? The Viral 'Prosper Fitness' TikTok Memes Explained - Yahoo News Singapore",
+          "blurb": "What Is The 'Power Of A Haircut' Meme? The Viral 'Prosper Fitness' TikTok Memes Explained Yahoo News Singapore",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tSnFRMkt2S1JaZVNOTk9mV203RVFHVWlYc3BUd0N6TUg1Ylpsc1VOQUVndkFFQS1VcXVfVDVOSjNUZjBZb3psM0VXVjlMM2U0eFU4M0F6WHFkc3BUM09HOUlOZVdZVjJBYV9naFdNWjAway1hVFAwTzlYTjRzUQ?oc=5",
+          "publishedAt": "2026-07-20T22:00:00.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "33c47ce478bf",
+          "headline": "Mom who battled skin cancer 3 times blasts viral ‘tanmaxxing’ TikTok trend - wyomingnewsnow.tv",
+          "blurb": "Mom who battled skin cancer 3 times blasts viral ‘tanmaxxing’ TikTok trend wyomingnewsnow.tv",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLXFlTWc4SF82ZF94LW1rdGRLcGRxeWNvQnM4V0ZBV3VmVktzNW9CZDF4V29ldmVoUDB4WGJRMjVaODU5LXZvM1J0R1VQSDduZ3RPdno0My1pVzBHNVNZRUxqdEo1VzdnM0JVcHV4U3lQX25IbUtCTFBtbTFKMU15VmdfTDVIOEwteUlLXzlhampEY1FIeDRDUlFaRWJJUEw4Z21zcEY1U2s4ejNhLXI1Y1hLMTdBRmpXR3kyWHZhOHhLeno1dE92enp2d2pQVlY3WE9XWF9ZeF92ZGxtSjNpV2djNzN6eE8xYnZ1dDZhRnVaM19oSS05b2ktckxsTzQ?oc=5",
+          "publishedAt": "2026-07-20T21:52:16.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "f481f1d91f06",
+          "headline": "Mom who battled skin cancer 3 times blasts viral ‘tanmaxxing’ TikTok trend - The Elkhart Truth",
+          "blurb": "Mom who battled skin cancer 3 times blasts viral ‘tanmaxxing’ TikTok trend The Elkhart Truth",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY1NDdGItMWx3b3RzV3hSRm1rQlo0WG1rUERTd3ctVi1zclNJQzZLTjNBN1h3N2RFT1FsOEI2OW0tajVvZFo2MlhvOUVkcUh5ZVdaaS1jNm1qQkxrcnRZWHlCRHgyWHhYeFp4RTlUMDJPeGxkNGdWdEE5Wm43dVF5MDBIa3lJRXBCZExqdU52R19RSEl3aFkxeWZjcDJGdUpISy1nMmlEWmFUc0lBMkNvT2NNZ0FSV0NWLWl1cWhaWk1KcTc1NGVLNTNpa3UyVWdyek43TVhqa0VWeFNOLUprVFVyS1NhZlZTRExWZmVsLXh2YWhTcjhiVGt4QXUzQQ?oc=5",
+          "publishedAt": "2026-07-20T21:52:16.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "cc96679e9a79",
+          "headline": "Saucy Santana Turns Viral ‘Quiet on the Creek’ TikTok Moment Into a Trending Song - XXL Mag",
+          "blurb": "Saucy Santana Turns Viral ‘Quiet on the Creek’ TikTok Moment Into a Trending Song XXL Mag",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqeFB3bC0ta1BsSk5VRGdrbU1fMTQzN1ZaeFA5M3dYMEJ6NkFzZFAybHNJTUE3VUVKYTFab1VxV29pTmxhU0gzT2F4b3hQT3ViWW1RRDdZMW4xclpQYjZFQmUzVzFPTUU?oc=5",
+          "publishedAt": "2026-07-20T19:45:09.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. Korby Sears (Licking Chocolate (STEM synth solo)); 4. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-20T23:34:21.239Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "98adb99ebc7d",
+          "headline": "This Viral TikTok Trend Has Experts Nervous That It’s Really Being Used to Train AI - inc.com",
+          "blurb": "This Viral TikTok Trend Has Experts Nervous That It’s Really Being Used to Train AI inc.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYU12OHBjVFN1U0p6aGoyVGJZTDV5aDYxV09ueTA2ampDV3ZmMFVRdlRxN3hGZ2RpRWJWX2xaS3ZWQ0EwY25ta0NEeXNkcnE1ZTN2TEhyb0oxb2hwYmJ2Ty1KaFJVUXplY0g4ZzFuTmkyalh5NU8tWEtzZGZwT05qankzMFYzanNRQ09pT0FVTEFyRm9sTUtoUGd5OF9wMl82?oc=5",
+          "publishedAt": "2026-07-20T17:20:26.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "05d38149c413",
+          "headline": "Marlins place All-Star RHP Max Meyer on IL with neck strain",
+          "blurb": "Marlins All-Star right-hander Max Meyer was placed on the 15-day injured list with a neck strain, and All-Star shortstop Otto Lopez was out of the starting lineup for the second straight game.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49413224/marlins-place-all-star-pitcher-max-meyer-injured-list-neck-strain",
+          "publishedAt": "2026-07-20T23:08:31.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0720/r1691938_600x400_3-2.jpg"
+        },
+        {
+          "id": "3bf07f98c437",
+          "headline": "Mets activate OF Luis Robert Jr. after three months on IL",
+          "blurb": "New York Mets outfielder Luis Robert Jr. has been activated from the injured list after missing nearly three months with a back issue.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49413223/mets-activate-luis-robert-jr-three-months-il",
+          "publishedAt": "2026-07-20T23:02:13.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0512/r1657403_600x400_3-2.jpg"
+        },
+        {
+          "id": "8a8312320685",
+          "headline": "Orioles place catcher Adley Rutschman (wrist) on 10-day IL",
+          "blurb": "Orioles catcher Adley Rutschman was placed on the 10-day injured list Monday due to left wrist inflammation.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49413079/orioles-place-catcher-adley-rutschman-wrist-10-day-il",
+          "publishedAt": "2026-07-20T22:58:07.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0703/r1683820_1296x729_16-9.jpg"
+        },
+        {
+          "id": "13ad0258fa7d",
+          "headline": "Dodgers plan for Shohei Ohtani to pitch off mound this week",
+          "blurb": "Dodgers two-way star Shohei Ohtani is expected to pitch off a mound sometime later this week, but there is no timetable for his return to the rotation.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49413020/dodgers-plan-shohei-ohtani-pitch-mound-week",
+          "publishedAt": "2026-07-20T22:54:41.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0704/r1684128_600x400_3-2.jpg"
+        },
+        {
+          "id": "d8a2afad298e",
+          "headline": "Astros' Jeremy Peña back in lineup; Christian Walker out again",
+          "blurb": "Astros shortstop Jeremy Peña returned to the lineup for Monday's series opener against the Marlins, while first baseman Christian Walker was out of the starting lineup for the second straight game.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49412928/jeremy-pena-returns-astros-lineup-christian-walker-2nd-straight-game",
+          "publishedAt": "2026-07-20T22:30:24.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0720/r1691929_600x400_3-2.jpg"
+        },
+        {
+          "id": "be9160735f42",
+          "headline": "Twins activate All-Star Byron Buxton after 9-game absence",
+          "blurb": "The Twins have activated Byron Buxton after the All-Star outfielder, who is sixth in the majors with 25 home runs, missed nine games with a right hip strain.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49412728/twins-activate-all-star-byron-buxton-9-game-absence",
+          "publishedAt": "2026-07-20T21:34:15.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0705/r1684757_1296x729_16-9.jpg"
+        },
+        {
+          "id": "4340696facf7",
+          "headline": "Packers, DT Devonte Wyatt reach 3-year, $57M extension",
+          "blurb": "The Packers and defensive lineman Devonte Wyatt have agreed to terms on a three-year, $57 million contract extension with a $20 million signing bonus, his agency, Win Sports Group, told NFL Network's Ian Rapoport on Monday.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49411888/packers-dl-devonte-wyatt-reach-3-year-57m-extension",
+          "publishedAt": "2026-07-20T21:27:48.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2025/0914/r1545457_1296x729_16-9.jpg"
+        },
+        {
+          "id": "789ebf0e70b2",
+          "headline": "Fantasy football mock draft: Non-PPR formats benefit ball carriers such as Derrick Henry",
+          "blurb": "The non-PPR format favors old-school running backs and big-play receivers, elevates the QB position.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49349495/fantasy-football-mock-draft-non-ppr-10-teams",
+          "publishedAt": "2026-07-20T21:15:30.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0720/r1691815_1296x729_16-9.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "4fd2499e4e45",
+          "headline": "Reverse-engineering is cheap now",
+          "blurb": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was entirely possible to reverse-engineer home devices. The problem was the ROI - was it really worth all of that effort? More importantly, any experienced programmer k",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+          "publishedAt": "2026-07-20T19:24:05.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "ba3fe17a67c4",
+          "headline": "Who’s Afraid of Chinese Models?",
+          "blurb": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more effectively with their Chinese counterparts: The U.S. should pass a law that (1) makes explicit that collecting data for training models is fair use, and (2) bars ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/",
+          "publishedAt": "2026-07-20T17:09:19.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "d4ff9ec891b7",
+          "headline": "Safety and alignment in an era of long-horizon models",
+          "blurb": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "publishedAt": "2026-07-20T10:00:00.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "2a23be4db485",
+          "headline": "Quoting Sam Altman",
+          "blurb": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage other",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
+          "publishedAt": "2026-07-20T03:47:59.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "f23573f8baf6",
+          "headline": "Apply for Anthropic’s AI for Science rare disease research grants",
+          "blurb": "Apply for Anthropic’s AI for Science rare disease research grants",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+          "publishedAt": "2026-07-20T00:00:00.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "8030c8e0dc09",
+          "headline": "Introducing Cosmos 3 Edge",
+          "blurb": "Introducing Cosmos 3 Edge",
+          "source": "Hugging Face",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "publishedAt": "2026-07-20T15:58:51.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "e17718920c17",
+          "headline": "AI Mania Is Eviscerating Global Decision-Making",
+          "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+          "publishedAt": "2026-07-19T05:06:21.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "375000db8198",
+          "headline": "Claude Code uses Bun written in Rust now",
+          "blurb": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "publishedAt": "2026-07-19T03:54:09.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "1f0b98fa3d9f",
+          "headline": "Will the Tate brothers be extradited from the US to the UK?",
+          "blurb": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T23:25:44.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e51/live/ca7996d0-848c-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "764ca92e9493",
+          "headline": "Who's in the cabinet?",
+          "blurb": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T23:16:54.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ede/live/8badd4d0-8463-11f1-b976-0b9c15b0ccfc.png"
+        },
+        {
+          "id": "eadcf9422681",
+          "headline": "Trump imposes 50% tariff on Canadian imports",
+          "blurb": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T22:26:34.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "cb3c1c856524",
+          "headline": "Humphries suffers shock first-round exit at Matchplay",
+          "blurb": "World number two Luke Humphries is out of the World Matchplay after a shock first-round loss to Scotland's Cameron Menzies.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T22:19:11.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c431/live/62436e70-8481-11f1-b4a3-ff90d93e1201.jpg"
+        },
+        {
+          "id": "3911e5df3ddb",
+          "headline": "Earl wants changes to 'brutal' Nations Championship format",
+          "blurb": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T22:16:19.000Z",
+          "importance": 48,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f654/live/71d40340-8486-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "3b265d33eddd",
+          "headline": "Russian warship carried out firing exercise off Plymouth coast",
+          "blurb": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T21:53:40.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a1/live/1d43ad00-8484-11f1-b4a3-ff90d93e1201.jpg"
+        },
+        {
+          "id": "255aa5142a9a",
+          "headline": "Gallery: Spain celebrate World Cup triumph in Madrid",
+          "blurb": "Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T21:50:12.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965b/live/9a484b00-8482-11f1-b4a3-ff90d93e1201.jpg"
+        },
+        {
+          "id": "3b39992a0ba0",
+          "headline": "Faisal Islam: The new PM has big ideas - but what will they cost?",
+          "blurb": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T21:47:14.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg"
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "ce5a6744afe1",
+          "headline": "Whats going on with Gooseworks slander recently?",
+          "blurb": "Whats going on with Gooseworks slander recently?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1xb1i/whats_going_on_with_gooseworks_slander_recently/",
+          "publishedAt": "2026-07-20T20:38:09.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "8d55aacf8f78",
+          "headline": "What's going on with leftists being called Blue MAGA and the term \"establishment\" being thought of as a code for Black people?",
+          "blurb": "What's going on with leftists being called Blue MAGA and the term \"establishment\" being thought of as a code for Black people?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1vh4e/whats_going_on_with_leftists_being_called_blue/",
+          "publishedAt": "2026-07-20T19:30:26.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "7aa3dbd824c7",
+          "headline": "Why are people talking about this random woman eating watermelon?",
+          "blurb": "Why are people talking about this random woman eating watermelon?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v1tpva/why_are_people_talking_about_this_random_woman/",
+          "publishedAt": "2026-07-20T18:27:57.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "02a22c02b379",
+          "headline": "'Jimothy,' A Seattle Raccoon With Short Spine Syndrome, Goes Viral, Inspiring A Wave Of Videos And Memes",
+          "blurb": "Jimothy is a wild raccoon with short spine syndrome who lives in Seattle's Ballard neighborhood. His short spine syndrome makes him appear round and short. Jimothy went viral in July 2026 because of his short spine syndrome, which many found cute and peculiar. Videos of Jimothy spread across social media, inspiring works of fan art, memes and viral coverage in the media and with streamers and soci",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/jimothy-the-raccoon",
+          "publishedAt": "2026-07-20T18:41:02.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "52326ccb6851",
+          "headline": "Spain goalkeeper introduces himself to the Argentina squad after the match. It was the first time they had seen him in 120 minutes.",
+          "blurb": "Spain goalkeeper introduces himself to the Argentina squad after the match. It was the first time they had seen him in 120 minutes.",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/funny/comments/1v1s704/spain_goalkeeper_introduces_himself_to_the/",
+          "publishedAt": "2026-07-20T17:34:07.000Z",
+          "importance": 48,
+          "imageUrl": "https://external-preview.redd.it/cDRjNGNweWQ3ZmVoMeWvqXvOXlk-KA74gAlArPwPWr0qZHtcinBXfpDIivEv.png?width=640&crop=smart&auto=webp&s=5ff126e77ed5517f5df8d2f7ff09d31e44624453"
+        },
+        {
+          "id": "ce7bebbf67c5",
+          "headline": "This tattoo artist turns hospital days into moment of joy",
+          "blurb": "This tattoo artist turns hospital days into moment of joy",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/BeAmazed/comments/1v1r62h/this_tattoo_artist_turns_hospital_days_into/",
+          "publishedAt": "2026-07-20T16:57:32.000Z",
+          "importance": 40,
+          "imageUrl": "https://preview.redd.it/lvbbvc7v0feh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7b162da36dfbe3d11503bbff044576685334ef0f"
+        },
+        {
+          "id": "7e5e1e446a68",
+          "headline": "This guy stood outside the stall door like this for the duration of my use",
+          "blurb": "This guy stood outside the stall door like this for the duration of my use",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1v1qp0q/this_guy_stood_outside_the_stall_door_like_this/",
+          "publishedAt": "2026-07-20T16:40:48.000Z",
+          "importance": 32,
+          "imageUrl": "https://preview.redd.it/sr8p1o4wxeeh1.jpeg?width=640&crop=smart&auto=webp&s=6e5e4d574335c53683f5979180b631ab9e56e066"
+        },
+        {
+          "id": "364500c37f34",
+          "headline": "Everybody On Reels And TikTok Is Trying To Figure Out What 'Quiet On The Creek' Means",
+          "blurb": "Quiet On the Creek is a catchphrase derived from the Saucy Santana song of the same name, where the lyrics \"Quiet on the creek\" are repeated in a whispered voice throughout the song. \"Quiet On the Creek\" was teased by Saucy Santana throughout mid-July 2026 and was released on July 17th. It went viral on TikTok and \"Instagram Reels\": as the subject of memes, many of which interpret the lyrics liter",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/quiet-on-the-creek",
+          "publishedAt": "2026-07-20T15:59:52.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "29c14384a72e",
+          "headline": "DC Announces New Tag Fighting Game And Injustice Fans Are Confused",
+          "blurb": "Fans have been waiting a long time for a new Injustice game, but it looks like they’ll have to wait a little longer after DC revealed a totally different fighting game… on mobile.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dc-announces-new-tag-fighting-game-and-injustice-fans-are-confused",
+          "publishedAt": "2026-07-20T22:36:14.000Z",
+          "importance": 80,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/dcko-confuses-injustice-fans-1784586687825.jpg"
+        },
+        {
+          "id": "abb6c683ede2",
+          "headline": "New DC fighting game announced, but it's not Injustice 3",
+          "blurb": "DC announced a new fighting game on Monday. It's not Injustice 3, but DCKO — which some people are already calling \"Dicko\"",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/dcko-fighting-game-mobile-announced-dicko-injustice-3/",
+          "publishedAt": "2026-07-20T22:15:25.000Z",
+          "importance": 72,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/robinbatmanvssupermanwonderwoman.jpeg"
+        },
+        {
+          "id": "4476a17e4095",
+          "headline": "Amazon Has the Lowest Price on a Brand New GeForce RTX 5070 Graphics Card",
+          "blurb": "The PNY RTX 5070 GPU with 12GB of VRAM and a triple-fan cooling system is down to $579.99.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-july-2026",
+          "publishedAt": "2026-07-20T22:05:00.000Z",
+          "importance": 64,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/pnygeforcertx5070-1784584626357.jpg"
+        },
+        {
+          "id": "d771f6e37990",
+          "headline": "Fallout 5: Here are 10 adjustments Bethesda should make for an improved experience",
+          "blurb": "Fallout 5 is coming, so here are a few ways to ensure our next trip around the wastelands is even more memorable and enjoyable.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/fallout-5-wishlist-features-we-want-to-see/",
+          "publishedAt": "2026-07-20T22:00:11.000Z",
+          "importance": 56,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/fallout-4-screenshot-codsworth-closeup.jpg"
+        },
+        {
+          "id": "22a7d6beaf15",
+          "headline": "The Relic First Guardian - Meet The Brutals Trailer",
+          "blurb": "The Relic First Guardian - Meet The Brutals Trailer",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v1z202/the_relic_first_guardian_meet_the_brutals_trailer/",
+          "publishedAt": "2026-07-20T21:45:38.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "c26bdb7d2a76",
+          "headline": "Save 50% Off the Talix 20,000mAh Power Bank With 190W of Total Power Output, Now Just $25",
+          "blurb": "Can fast charge the 2026 Apple MacBook Pro 16\" M5, ASUS ROG Xbox Ally X, and more.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/talix-20000mah-190w-power-bank-deal",
+          "publishedAt": "2026-07-20T21:45:00.000Z",
+          "importance": 40,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/talixpowerbankwhite-1784583181968.jpg"
+        },
+        {
+          "id": "4d5b4b6cc98d",
+          "headline": "Veil of Ashes - Official Gameplay Trailer | Games Composed in Germany 2026",
+          "blurb": "Veil of Ashes - Official Gameplay Trailer | Games Composed in Germany 2026",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v1yx3s/veil_of_ashes_official_gameplay_trailer_games/",
+          "publishedAt": "2026-07-20T21:40:06.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "eecd54ad163a",
+          "headline": "Warhammer 40,000: Dawn of War IV Necron CGI Trailer Stomps All Over the Adeptus Mechanicus Trailer, but the Orks Trailer Is Still My Favorite",
+          "blurb": "Warhammer 40,000: Dawn of War IV developer King Art Games has released the CGI cinematic trailer for the Necron faction, and it’s got aura written all over it.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-iv-necron-cgi-trailer-stomps-all-over-the-adeptus-mechanicus-trailer-but-the-orks-trailer-is-still-my-favorite",
+          "publishedAt": "2026-07-20T21:32:28.000Z",
+          "importance": 24,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/screenshot-2026-07-20-220014-1784581298131.png"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "b18e026a54c1",
+          "headline": "Watch John Glacier Live Out Her 007 Fantasies in New “Bond Girl” Video",
+          "blurb": "The clubby track is the first single off her upcoming album Lack of Joy is Death",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/watch-john-glacier-live-out-her-007-fantasies-on-bond-girl/",
+          "publishedAt": "2026-07-20T22:01:42.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e82929d4cfbb4099e2775/master/pass/by%20Le%CC%81a%20Ceheivi.png"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Ella Langley – Be Her; 5. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 6. Drake – Shabang; 7. Yung Miami – Spend Dat; 8. Morgan Wallen – 20 Cigarettes; 9. Olivia Rodrigo – stupid song; 10. Morgan Wallen – I'm The Problem; 11. Drake, Future & Molly Santana – Ran To Atlanta; 12. Ariana Grande – hate th",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-20T23:34:22.928Z",
+          "importance": 72,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "b0e3d2a3fe6d",
+          "headline": "Beastie Boys’ Mike D Adds Tour Dates in North America and Europe",
+          "blurb": "His Mike D 5D band heads out on its first major trek in late summer",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/beastie-boys-mike-d-adds-tour-dates-in-north-america-and-europe/",
+          "publishedAt": "2026-07-20T17:09:36.000Z",
+          "importance": 64,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e555d642b4bf4efec2bda/master/pass/mike-d-2026-tour.jpg"
+        },
+        {
+          "id": "cd9bfa8ed6e4",
+          "headline": "Steve Lacy, Beck, and More: This Week’s Pitchfork Selects Playlist",
+          "blurb": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/steve-lacy-beck-and-more-this-weeks-pitchfork-selects-playlist/",
+          "publishedAt": "2026-07-20T17:04:35.000Z",
+          "importance": 56,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e6aa102f6a16802ac1be9/master/pass/P4K26-0720_Selects_2x1.gif"
+        },
+        {
+          "id": "9cc3da767d2a",
+          "headline": "Melissa Auf der Maur Unveils First New Music in 16 Years",
+          "blurb": "On Bass Womb Room, several new compositions thread together an unvaulted set of ’90s demos",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/melissa-auf-der-maur-unveils-first-new-music-in-16-years/",
+          "publishedAt": "2026-07-20T16:02:36.000Z",
+          "importance": 48,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5e363d9d4cfbb4099e2408/master/pass/melissa-auf-der-maur.jpeg"
+        },
+        {
+          "id": "790d21fbba13",
+          "headline": "Robbie Williams Addresses Viral Video Showing White Substance During His World Cup Interview",
+          "blurb": "Robbie Williams has been open about his struggles with substance abuse. The topic was explored in his 2023 Netflix docuseries , and he now boasts 25 years of sobriety. But a video has gone viral of a white substance falling from his face onto a microphone during a World Cup interview, and the British singer acknowledged the controversy. The post Robbie Williams Addresses Viral Video Showing White ",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505859/robbie-williams-addresses-viral-video-showing-white-substance-during-his-world-cup-interview/news/",
+          "publishedAt": "2026-07-20T19:03:06.000Z",
+          "importance": 40,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Screenshot-2026-07-20-at-2.50.13-PM.png?w=564"
+        },
+        {
+          "id": "fc88dd340c23",
+          "headline": "John Glacier – “Bond Girl”",
+          "blurb": "Last year, John Glacier released her memorable debut album Like A Ribbon . Since then, the London-based musician has collaborated with Blondshell and MJ Cole , and today she's back with a chic new number called \"Bond Girl.\" The track is low-key and sleek, co-produced with Take A Daytrip and taking inspiration from early Detroit techno. It comes with a luxurious music video directed by Léa Ceheivi.",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505855/john-glacier-bond-girl/music/",
+          "publishedAt": "2026-07-20T18:15:14.000Z",
+          "importance": 32,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Bond-Girl_track_cover.jpg?w=564"
+        },
+        {
+          "id": "79828170564f",
+          "headline": "Melissa Auf Der Maur Announces First New Music In 16 Years, Hole Tease Something For Friday",
+          "blurb": "Melissa Auf der Maur, who has provided both her musical talents to iconic groups Hole and the Smashing Pumpkins, is releasing her first new music in 16 years. The Montreal-born musician and artist announced BASS WOMB ROOM: My ’90s 4-Track Demos x Field Recordings , which is out September 4 via Envision Records. The post Melissa Auf Der Maur Announces First New Music In 16 Years, Hole Tease Somethi",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505780/melissa-auf-der-maur-announces-first-new-music-in-15-years-hole-tease-something-for-friday/news/",
+          "publishedAt": "2026-07-20T16:06:35.000Z",
+          "importance": 24,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/BASS-WOMB-ROOM-digital-artwork.jpg?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "aa4fe57410c0",
+          "headline": "The creepiest 'sales demo' of all time",
+          "blurb": "51 points, 22 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html",
+          "publishedAt": "2026-07-20T20:36:37Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "b7a4deba9f24",
+          "headline": "I wrote an bash enumerator because I was sick of xargs",
+          "blurb": "31 points, 18 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+          "publishedAt": "2026-07-20T20:12:19Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "85e2634d58d9",
+          "headline": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+          "blurb": "41 points, 6 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://vincentwoo.com/3d/grace_cathedral/",
+          "publishedAt": "2026-07-20T20:10:44Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "092966c57c36",
+          "headline": "The Power of Awareness: Overcoming Surveillance Capitalism",
+          "blurb": "35 points, 3 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+          "publishedAt": "2026-07-20T20:08:45Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "5b8713733ab9",
+          "headline": "Human mathematicians are being outcounterexampled",
+          "blurb": "147 points, 56 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+          "publishedAt": "2026-07-20T19:03:37Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "2751f2fd1951",
+          "headline": "Nativ: Run frontier open models locally on your Mac",
+          "blurb": "145 points, 57 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://blaizzy.github.io/nativ/",
+          "publishedAt": "2026-07-20T18:16:08Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "22444aaa2cba",
+          "headline": "The drivers behind software delivery inefficiency",
+          "blurb": "48 points, 26 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+          "publishedAt": "2026-07-20T18:10:17Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "32d427eb72d1",
+          "headline": "Agent swarms and the new model economics",
+          "blurb": "89 points, 39 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "publishedAt": "2026-07-20T18:06:13Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 244
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 829
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 9
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1040
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 201
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 42
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 5
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 29
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": true,
+      "items": 19
+    }
+  ]
+}
