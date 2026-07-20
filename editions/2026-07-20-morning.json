@@ -1,0 +1,931 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-20-morning",
+  "date": "2026-07-20",
+  "slot": "morning",
+  "slotTitle": "Morning Edition",
+  "generatedAt": "2026-07-20T13:27:48.665Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The morning edition, assembled without its editor.",
+    "weather": {
+      "tempF": 77,
+      "condition": "clear",
+      "highF": 93,
+      "lowF": 72,
+      "precipPct": 17
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "ace57da6cbc1",
+      "headline": "Putin meets North Korean foreign minister in diplomatic push",
+      "kicker": "news",
+      "blurb": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un."
+    },
+    "secondaries": [
+      {
+        "storyId": "7be3c6b5a634",
+        "headline": "Stop Using OpenCode",
+        "kicker": "tech",
+        "blurb": "13 points, 4 comments on Hacker News"
+      },
+      {
+        "storyId": "2a23be4db485",
+        "headline": "Quoting Sam Altman",
+        "kicker": "ai",
+        "blurb": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage other"
+      },
+      {
+        "storyId": "4007416d94d0",
+        "headline": "NBA summer league superlatives: Which players impressed?",
+        "kicker": "sports",
+        "blurb": "With summer league now over, we select 10 players who stood out in Las Vegas."
+      },
+      {
+        "storyId": "32d602ef11ab",
+        "headline": "Avengers: Doomsday's first trailer is here with RDJ's Doctor Doom",
+        "kicker": "gaming",
+        "blurb": "Marvel's first trailer for Avengers Doomsday finally dropped, showing the return of Robert Downey Jr to the MCU."
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "97ed94b84ad9",
+        "headline": "Apple Music Top Songs (US)",
+        "kicker": "music"
+      },
+      {
+        "storyId": "d00936aa2c07",
+        "headline": "Jacksonville police go viral with TikTok community outreach video - cbs19.tv",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "f84900384f99",
+        "headline": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+        "kicker": "news"
+      },
+      {
+        "storyId": "981608499678",
+        "headline": "Burnham promises help with your money. How could it affect you?",
+        "kicker": "news"
+      },
+      {
+        "storyId": "1f0b98fa3d9f",
+        "headline": "Will the Tate brothers be extradited from the US to the UK?",
+        "kicker": "news"
+      },
+      {
+        "storyId": "47459ea9ed8b",
+        "headline": "Rare identical quadruplets born in Australia",
+        "kicker": "news"
+      },
+      {
+        "storyId": "44e402b7c48a",
+        "headline": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
+        "kicker": "news"
+      },
+      {
+        "storyId": "d4127e4b61a0",
+        "headline": "Parched grass reveals 'lost' 17th Century garden",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-20T13:27:48.665Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 64508,
+        "changePct": 0.23
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1868.5,
+        "changePct": 0.05
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "d00936aa2c07",
+          "headline": "Jacksonville police go viral with TikTok community outreach video - cbs19.tv",
+          "blurb": "Jacksonville police go viral with TikTok community outreach video cbs19.tv",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVVc2Q0wtSURlM3ZxcVF5UGpWbVRzOEIwUGhrZ2o5cFh6TkxYMWN3eGJhYmZQbGpzaUVQOVA1OFZ1OHJQZUM1YUlHaGtVN3EwZ2szdElsYnVMYlBYMjkxc2JPRkpBQ01ZeG1jajJVbk1aWDFSam5qbDRpTG9VRGRYMlZoTUFPWnFZT2RheV90ZlFEYllzQy1EMnVCc1dQelp1Tl9EOUVpRW9oRFdvbnlCZmN0S3ZkMmJNRXZsRVdRczY0YkE2dG1zZWk1Q2NIUVd3RzZiampNZXBEVzls?oc=5",
+          "publishedAt": "2026-07-20T13:04:00.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "44c099001f95",
+          "headline": "Does the ‘pink salt trick’ help you lose weight? - The Hill",
+          "blurb": "Does the ‘pink salt trick’ help you lose weight? The Hill",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xeUgzb2RYLS1QMVpyNXdOZWRBYWRZSTJyZGFTVUFhdlRhZklWM0RhcTNHNnBaVl8xWDRobkUxQnR4RE8zY1R5NXlMdVVqbTlQMGNMS0ZWU0VfT01xcWVaSXM4aFlKQXBZLVRqT3gydUdLRE9KV3NlX1hyZHhPQdIBfkFVX3lxTE0xeUgzb2RYLS1QMVpyNXdOZWRBYWRZSTJyZGFTVUFhdlRhZklWM0RhcTNHNnBaVl8xWDRobkUxQnR4RE8zY1R5NXlMdVVqbTlQMGNMS0ZWU0VfT01xcWVaSXM4aFlKQXBZLVRqT3gydUdLRE9KV3NlX1hyZHhPQQ?oc=5",
+          "publishedAt": "2026-07-20T11:17:26.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "523182231965",
+          "headline": "Customers scream for more fruit cake at new Cape Coral ice cream shop - The News-Press",
+          "blurb": "Customers scream for more fruit cake at new Cape Coral ice cream shop The News-Press",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVsRnRSQzJtMkhNdGE0Z0hiZVBjTGNDWS1MbWJwTWgzZE42ZVR3M0lRa2Q5bjEyUS1nQnlSeFk1VlJyYnpJdWl5XzZiTll4Tk14Q1JFWmV0dFJTclpnYzVmN011LVczVm16WXFBa25udWNfbVFBVkYyME5odjBGTUdPbk1kV21vdnB3aXVQRXBTMThGeEhsTTVtNU94ZHcwWURIWUJMZnV0a0wzUkpvbGdneGJPUWJQVVVB?oc=5",
+          "publishedAt": "2026-07-20T09:05:00.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 0landrys (0landrys.mp3); 3. Korby Sears (Licking Chocolate (STEM synth solo)); 4. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-20T13:27:49.547Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "8811e065ad81",
+          "headline": "Does the pinky time exercise genuinely boost brain health? - Stylist",
+          "blurb": "Does the pinky time exercise genuinely boost brain health? Stylist",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1BGSHNzRXJmM2c4Q1dzcTVLOXBTa1l0YWFvenFPeVFXdGlkOXU2OXVlS2RwVmZRdXF3Y0hRNzEyeHBKZ09KSDRzMnpzU3NrN3VmeGtJRGtfeDJYcXFjaEJ2TzJCVkgwVDlUbUVrbHRCTEVJblpSVmc5bWZicXJnYy1BZ3djOVdSdEtZNEVoSUY?oc=5",
+          "publishedAt": "2026-07-20T07:50:03.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "ec1b7037fa1c",
+          "headline": "UFC fighter Paddy Pimblett reportedly lined up for Mobland role after 52 second win",
+          "blurb": "Paddy The Baddy’s dominant win at UFC 329 may have done more than extend his unbeaten run, reportedly catching the attention of Mobland.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/tv-movies/ufc-fighter-paddy-pimblett-reportedly-lined-up-for-mobland-role-after-52-second-win-3389103/",
+          "publishedAt": "2026-07-20T12:32:50.000Z",
+          "importance": 40,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/03/31/mobland-netflix.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "300c4132a325",
+          "headline": "Blue Moon is turning its iconic orange slice into a ghost pepper challenge for beer lovers",
+          "blurb": "Blue Moon is giving its signature orange garnish a fiery makeover with a new challenge involving hot sauce, ghost peppers, and a special beer glass.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/food/blue-moon-is-turning-its-iconic-orange-slice-into-a-ghost-pepper-challenge-for-beer-lovers-3388661/",
+          "publishedAt": "2026-07-20T12:01:00.000Z",
+          "importance": 32,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/17/blue-moon-franks-redhot-beer-challenge.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "999db064341a",
+          "headline": "EA Sports FC successfully predicts World Cup winner for fifth time in a row",
+          "blurb": "Forget accidental Vtuber curses and wild predictions; EA Sports FC has officially managed to predict the World Cup winner for the fifth time in a row.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/ea-sports-fc/ea-sports-fc-successfully-predicts-world-cup-winner-for-fifth-time-in-a-row-3389077/",
+          "publishedAt": "2026-07-20T11:22:50.000Z",
+          "importance": 24,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/20/EA-Sports-FC-Spain-winning.jpg?width=1080&quality=75&format=auto"
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "4007416d94d0",
+          "headline": "NBA summer league superlatives: Which players impressed?",
+          "blurb": "With summer league now over, we select 10 players who stood out in Las Vegas.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49391646/2026-2027-nba-summer-league-superlatives-mvp-aj-dybantsa-cameron-boozer-vegas",
+          "publishedAt": "2026-07-20T13:16:11.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0718/r1690865_608x342_16-9.jpg"
+        },
+        {
+          "id": "f04bbd946241",
+          "headline": "Kyle Brandt: Cam Skattebo is a literal dog",
+          "blurb": "Kyle Brandt: Cam Skattebo is a literal dog",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/video/clip/_/id/49409497/cam-skattebo-literal-dog",
+          "publishedAt": "2026-07-20T13:10:30.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_084409953_3598231/ss_20260720_084409953_3598231.jpg"
+        },
+        {
+          "id": "d67938125ad4",
+          "headline": "Will Caleb Williams and the Bears take a step forward this season?",
+          "blurb": "Will Caleb Williams and the Bears take a step forward this season?",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/video/clip/_/id/49409442/will-caleb-williams-bears-take-step-forward-season",
+          "publishedAt": "2026-07-20T12:41:09.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_082929598_3598224/ss_20260720_082929598_3598224.jpg"
+        },
+        {
+          "id": "13418bb31853",
+          "headline": "Breaking down famous MLB trade trees ahead of 2026 deadline",
+          "blurb": "With the 2026 trade deadline looming, let's delve into some of MLB's most prominent trade trees.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49367549/2026-mlb-trade-deadline-famous-trees-history-dybzinski-delmon",
+          "publishedAt": "2026-07-20T12:03:38.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0719/r1691370_608x342_16-9.jpg"
+        },
+        {
+          "id": "9399b5da3164",
+          "headline": "MLB betting tips for Monday: Misiorowski and Milwaukee host Mets",
+          "blurb": "All of the odds, recommended prop bets and trends in baseball for Monday, July 20.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/espn/betting/story/_/id/49408978/mlb-betting-tips-odds-lines-2026-monday-july-20",
+          "publishedAt": "2026-07-20T11:42:40.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0720/r1691701_576x324_16-9.jpg"
+        },
+        {
+          "id": "59a5d709b6f2",
+          "headline": "Betting on the Buffalo Bills in 2026: Expect victories to add up",
+          "blurb": "Examining the Bills' outlook for 2026, the ways to bet them and our best bet going into the NFL season.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/espn/betting/story/_/id/49298602/buffalo-bills-betting-outlook-2026",
+          "publishedAt": "2026-07-20T10:50:35.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/photo/2025/1114/r1575447_608x342_16-9.jpg"
+        },
+        {
+          "id": "4006aedd3d19",
+          "headline": "Betting on the Miami Dolphins in 2026: Underdog role will be familiar",
+          "blurb": "Examining the Dolphins' outlook for 2026, the ways to bet them and our best bet going into the NFL season.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/espn/betting/story/_/id/49317858/miami-dolphins-betting-outlook-2026",
+          "publishedAt": "2026-07-20T10:49:42.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0711/r1687860_608x342_16-9.jpg"
+        },
+        {
+          "id": "2cba201e7f80",
+          "headline": "Betting on the New England Patriots in 2026: Matching '25 success won't be easy",
+          "blurb": "Examining the Patriots' outlook for 2026, the ways to bet them and our best bet going into the NFL season.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/espn/betting/story/_/id/49317870/new-england-patriots-betting-outlook-2026",
+          "publishedAt": "2026-07-20T10:49:06.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0713/r1688528_608x342_16-9.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "2a23be4db485",
+          "headline": "Quoting Sam Altman",
+          "blurb": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage other",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
+          "publishedAt": "2026-07-20T03:47:59.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "81a25053ebd3",
+          "headline": "Ask HN: What are your favorite blogs not about AI?",
+          "blurb": "82 points, 36 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://news.ycombinator.com/item?id=48972858",
+          "publishedAt": "2026-07-19T23:58:12Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "e17718920c17",
+          "headline": "AI Mania Is Eviscerating Global Decision-Making",
+          "blurb": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+          "publishedAt": "2026-07-19T05:06:21.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "375000db8198",
+          "headline": "Claude Code uses Bun written in Rust now",
+          "blurb": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: s",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "publishedAt": "2026-07-19T03:54:09.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "600abfd6ba71",
+          "headline": "SQLite Query Explainer",
+          "blurb": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
+          "publishedAt": "2026-07-18T17:19:10.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "bce1ea0cbdf3",
+          "headline": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+          "blurb": "arXiv:2607.15280v1 Announce Type: new Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical knowledge, they struggle to reason systematically under cost constraints, often resorting to excessive",
+          "source": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.15280",
+          "publishedAt": "2026-07-20T04:00:00.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "257ec8fb1ccc",
+          "headline": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+          "blurb": "arXiv:2607.15281v1 Announce Type: new Abstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correlations and understanding underlying causal mechanisms. However, existing LLM-based methods often rely on implicit language-level reasoning, resulting in opaque causal assumptions, unverifiable reasoning",
+          "source": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.15281",
+          "publishedAt": "2026-07-20T04:00:00.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "5a7541dc56e3",
+          "headline": "Cura 1T: Specialized Model for Agentic Healthcare",
+          "blurb": "arXiv:2607.15314v1 Announce Type: new Abstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in diff",
+          "source": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2607.15314",
+          "publishedAt": "2026-07-20T04:00:00.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "ace57da6cbc1",
+          "headline": "Putin meets North Korean foreign minister in diplomatic push",
+          "blurb": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by North Korean leader Kim Jong Un.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+          "publishedAt": "2026-07-20T13:18:51.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "f84900384f99",
+          "headline": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+          "blurb": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T13:13:29.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/796c/live/7a3f2110-8425-11f1-8aab-7b42b0ff0499.jpg"
+        },
+        {
+          "id": "981608499678",
+          "headline": "Burnham promises help with your money. How could it affect you?",
+          "blurb": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T13:03:23.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/acd4de30-8439-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "1f0b98fa3d9f",
+          "headline": "Will the Tate brothers be extradited from the US to the UK?",
+          "blurb": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T12:59:57.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e5/live/f35734e0-841e-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "47459ea9ed8b",
+          "headline": "Rare identical quadruplets born in Australia",
+          "blurb": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T12:57:32.000Z",
+          "importance": 48,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ad/live/ba2bc6c0-842a-11f1-96d8-4b9d5565f166.png"
+        },
+        {
+          "id": "44e402b7c48a",
+          "headline": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
+          "blurb": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T12:49:18.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ef/live/b2e56890-8438-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "d4127e4b61a0",
+          "headline": "Parched grass reveals 'lost' 17th Century garden",
+          "blurb": "The hot weather uncovers the outline of The Great Parterre, an ornate garden designed in 1699.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c998r8pemrgo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T12:45:39.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c28/live/730591f0-8424-11f1-8aab-7b42b0ff0499.jpg"
+        },
+        {
+          "id": "916df1be4cf1",
+          "headline": "Who is Andy Burnham's wife, Marie-France van Heel?",
+          "blurb": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-20T12:43:13.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21a/live/0ff1fc90-843b-11f1-b976-0b9c15b0ccfc.jpg"
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "32d602ef11ab",
+          "headline": "Avengers: Doomsday's first trailer is here with RDJ's Doctor Doom",
+          "blurb": "Marvel's first trailer for Avengers Doomsday finally dropped, showing the return of Robert Downey Jr to the MCU.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/avengers-doomsday-trailer-doctor-doom-sdcc-comic-con-marvel-studios/",
+          "publishedAt": "2026-07-20T13:04:11.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avengers-doomsday-official-trailer-doctor-doom.jpeg"
+        },
+        {
+          "id": "70bc8a0a6381",
+          "headline": "President Curtis review: Rick and Morty's first spinoff is a deeply nerdy gift for America's 250th",
+          "blurb": "The new Rick and Morty spinoff President Curtis premieires on Adult Swim on July 26. The show is hilarious, especially for history nerds",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/rick-and-morty-spinoff-president-curtis-review/",
+          "publishedAt": "2026-07-20T13:00:12.000Z",
+          "importance": 72,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9446467/rick_and_morty_season_3_wasteland_1920.png"
+        },
+        {
+          "id": "8233de07832d",
+          "headline": "Gears of War Designer Cliff Bleszinski Reveals Struggle With Alcoholism, Discusses the Failure of LawBreakers and Potential Return to Video Game Development",
+          "blurb": "Video game developer Cliff Bleszinski has revealed his struggle with alcoholism and how it affected not just his work on Gears of War but contributed to the failure of hero shooter LawBreakers and his studio, Boss Key Productions.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gears-of-war-designer-cliff-bleszinski-reveals-struggle-with-alcoholism-discusses-the-failure-of-lawbreakers-and-potential-return-to-video-game-development",
+          "publishedAt": "2026-07-20T12:27:50.000Z",
+          "importance": 64,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/cliffyb-1784550392154.png"
+        },
+        {
+          "id": "708e057a0250",
+          "headline": "Spider-Man: Brand New Day director reveals how the Insomniac games influenced his movie",
+          "blurb": "\"I surrounded myself with people who were obsessive gamers,\" Spider-Man: Brand New Day director Destin Daniel Cretton tells Polygon",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview/",
+          "publishedAt": "2026-07-20T12:00:12.000Z",
+          "importance": 56,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/spider-man-brand-new-day.jpg"
+        },
+        {
+          "id": "e06249b33a85",
+          "headline": "12 Anime Worth Watching This Summer",
+          "blurb": "From a former shinigami to an evil child and cybernetics, we run down the new and returning anime titles you need to check out.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/new-anime-to-watch-in-summer-2006",
+          "publishedAt": "2026-07-20T11:59:00.000Z",
+          "importance": 48,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/18/newanimesummer26-oo-1784339239164.jpg"
+        },
+        {
+          "id": "0bc3397985e5",
+          "headline": "Slowpoke Just Got a New Pokémon Trading Card Game Move, And It's Called 'All-You-Can-Yeet'",
+          "blurb": "Are you ready to yet your Pokémon Trading Cards away in the name of Slowpoke? A new card for the dozy creature has captured fan's attention for its unusual new move.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/slowpoke-just-got-a-new-pokemon-trading-card-game-move-and-its-called-all-you-can-yeet",
+          "publishedAt": "2026-07-20T11:39:50.000Z",
+          "importance": 40,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/screenshot-2026-07-20-120343-1784546541116.png"
+        },
+        {
+          "id": "e6789424bed4",
+          "headline": "Crimson Desert Drops to $49 on PS5 (Limited Time Only)",
+          "blurb": "Amazon has reduced the price of Crimson Desert physical copies on PS5 to $49, matching the game's lowest price ever. This limited-time Lightning Deal is available only while stock lasts.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/crimson-desert-ps5-physical-lowest-price",
+          "publishedAt": "2026-07-20T11:26:52.000Z",
+          "importance": 32,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/03/18/cd-blogroll-1773860824069.jpg"
+        },
+        {
+          "id": "44341bd15cd9",
+          "headline": "House of the Dragon showrunner teases more dragons to come",
+          "blurb": "With season 4 being the last season of House of the Dragon, Ryan Condal reveals there's plenty more time for other dragons to appear.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/house-of-the-dragon-the-cannibal-grey-ghost/",
+          "publishedAt": "2026-07-20T11:16:03.000Z",
+          "importance": 24,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/harry-collett-1.jpg"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Yung Miami – Spend Dat; 5. Ella Langley – Be Her; 6. Drake – Shabang; 7. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 8. Olivia Rodrigo – stupid song; 9. Morgan Wallen – 20 Cigarettes; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Mac Miller – Cinderella (feat. Ty Dolla $ign); 12. Olivia Ro",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-20T13:27:49.911Z",
+          "importance": 80,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "f089bf7bad25",
+          "headline": "The World Cup Finals Halftime Show And The Post Malone Pre-Show Were Absurd",
+          "blurb": "It was only the beginning of one of the weirdest and most uneven spectacles FIFA has ever put on. The post The World Cup Finals Halftime Show And The Post Malone Pre-Show Were Absurd appeared first on Stereogum .",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505757/the-world-cup-finals-halftime-show-and-the-post-malone-pre-show-were-absurd/news/",
+          "publishedAt": "2026-07-20T13:21:02.000Z",
+          "importance": 72,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Muppets.jpeg?w=564"
+        },
+        {
+          "id": "6d9ba93b7dd7",
+          "headline": "The Number Ones: Lil Nas X’s “Industry Baby” (Feat. Jack Harlow)",
+          "blurb": "The post The Number Ones: Lil Nas X’s “Industry Baby” (Feat. Jack Harlow) appeared first on Stereogum .",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505082/the-number-ones-lil-nas-xs-industry-baby-feat-jack-harlow/columns/the-number-ones/",
+          "publishedAt": "2026-07-20T12:52:51.000Z",
+          "importance": 64,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Lil-Nas-X-Industry-Baby.jpg?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "7be3c6b5a634",
+          "headline": "Stop Using OpenCode",
+          "blurb": "13 points, 4 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+          "publishedAt": "2026-07-20T12:45:55Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "7915def8a14d",
+          "headline": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+          "blurb": "100 points, 51 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+          "publishedAt": "2026-07-20T12:14:08Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "f40cff51cd37",
+          "headline": "Airport Simulator",
+          "blurb": "156 points, 38 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://airport.apunen.com/",
+          "publishedAt": "2026-07-20T10:30:40Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "7263ffb455be",
+          "headline": "Airbus Takes Flight from AWS",
+          "blurb": "137 points, 98 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+          "publishedAt": "2026-07-20T10:12:22Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "12dae8c6cc82",
+          "headline": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "blurb": "239 points, 128 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+          "publishedAt": "2026-07-20T08:13:36Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "7320f7e5e5d8",
+          "headline": "Xiaomi-Robotics-1",
+          "blurb": "310 points, 212 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+          "publishedAt": "2026-07-20T04:45:15Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "157f79bd67e3",
+          "headline": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "blurb": "105 points, 20 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "publishedAt": "2026-07-20T04:24:48Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "fdfddbdd3d60",
+          "headline": "When can a power company take your land for data center infrastructure?",
+          "blurb": "136 points, 108 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+          "publishedAt": "2026-07-20T04:19:22Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 243
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 201
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 7
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 35
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 829
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1039
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 4
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 29
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day"
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/all/top/.rss?t=day"
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/Games/top/.rss?t=day"
+    }
+  ]
+}
