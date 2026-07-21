@@ -1,0 +1,1034 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-21-evening",
+  "date": "2026-07-21",
+  "slot": "evening",
+  "slotTitle": "Evening Edition",
+  "generatedAt": "2026-07-21T23:33:44.421Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The evening edition, assembled without its editor.",
+    "weather": {
+      "tempF": 88,
+      "condition": "mostly clear",
+      "highF": 89,
+      "lowF": 72,
+      "precipPct": 6
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "00a6b7557269",
+      "headline": "Burnham tells cabinet to tackle living costs at first meeting",
+      "kicker": "news",
+      "blurb": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity."
+    },
+    "secondaries": [
+      {
+        "storyId": "162a22c492bc",
+        "headline": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+        "kicker": "tech",
+        "blurb": "114 points, 53 comments on Hacker News"
+      },
+      {
+        "storyId": "d42362617c64",
+        "headline": "Introducing the ChatGPT for small business program",
+        "kicker": "ai",
+        "blurb": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+      },
+      {
+        "storyId": "5460d8929094",
+        "headline": "MLBPA calls to preserve draft system after owners' proposal",
+        "kicker": "sports",
+        "blurb": "After MLB proposed cutting the draft from 20 to 12 rounds, slashing amateur signing bonuses by more than $150 million and preventing high schoolers from entering, the MLBPA called to preserve the current system while opening more doors to younger players."
+      },
+      {
+        "storyId": "ad8b8f359eb7",
+        "headline": "What's the deal with Google storage?",
+        "kicker": "internet",
+        "blurb": "What's the deal with Google storage?"
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "a7991e0ca109",
+        "headline": "Alan Ritchson's 106-minute sci-fi action thriller is officially Netflix's biggest streaming hit of 2026",
+        "kicker": "gaming"
+      },
+      {
+        "storyId": "b2fa0e4fb2dd",
+        "headline": "Chelsea Wolfe Reveals New Album The Dark, Lines Up 2026 Tour",
+        "kicker": "music"
+      },
+      {
+        "storyId": "0cb79e42dbd4",
+        "headline": "‘Quiet on the Creek’ Meaning & Lyrics: Saucy Santana Goes Viral on TikTok With Phrase-Turned-Song - IMDb",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "9075f89e317e",
+        "headline": "Iran war has cost US $37.5bn so far, Hegseth says",
+        "kicker": "news"
+      },
+      {
+        "storyId": "ead766a732c7",
+        "headline": "Iraola wants Mac Allister & Alisson to stay with Liverpool",
+        "kicker": "news"
+      },
+      {
+        "storyId": "0004657cad80",
+        "headline": "What can Hearts pick from debris of ongoing summer of hurt?",
+        "kicker": "news"
+      },
+      {
+        "storyId": "62cd67cb7465",
+        "headline": "Littler throws nine-darter in superb Matchplay win",
+        "kicker": "news"
+      },
+      {
+        "storyId": "a55581a1c49f",
+        "headline": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-21T23:33:44.421Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 66351,
+        "changePct": 1.76
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1920.31,
+        "changePct": 0.93
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "0cb79e42dbd4",
+          "headline": "‘Quiet on the Creek’ Meaning & Lyrics: Saucy Santana Goes Viral on TikTok With Phrase-Turned-Song - IMDb",
+          "blurb": "‘Quiet on the Creek’ Meaning & Lyrics: Saucy Santana Goes Viral on TikTok With Phrase-Turned-Song IMDb",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xbmh3UTZvRnJPMzdoRGs1ak1kLVdxZWg2RFRhbS1mWUMyNEotNmRqS1JCXzdBY2pOUWU0LWZSR2FfLUtGWFZ1ZnpLYzA4S0ZNdGY1emlTUGlJbkNFNXNNN1FORDkyNDg4VEE?oc=5",
+          "publishedAt": "2026-07-21T21:11:20.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "5a41ce779787",
+          "headline": "Braxton Berrios Wins Over the Internet by Acing a Beauty Product Challenge — and Fans Are Giving Ex Alix Earle All the Credit - People.com",
+          "blurb": "Braxton Berrios Wins Over the Internet by Acing a Beauty Product Challenge — and Fans Are Giving Ex Alix Earle All the Credit People.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWdwdG9SUlA3MGN1UmFYbWw4cUh1UG5TOG1WdGRXYm4tNC00NWF6YmhicUhfOWIzT2Q2eUtENkp5NDhxbDZhMVloM0VmXzQ1VXdtTzZCWnF5N3RlVjQ1QWV5NzdPS1RLTDhhWGx5eEJxMUxjcmx4QUV0VDkzYjgzVUxxTG8wTHpTM0RzWnlaR3VOWjhHR05tVGRaaw?oc=5",
+          "publishedAt": "2026-07-21T21:07:27.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "bcf1a47d61d6",
+          "headline": "I Compiled The Top 18 TikTok Buys That Everyone Is Buying, So You Don't Have To Scroll Anymore - buzzfeed.com",
+          "blurb": "I Compiled The Top 18 TikTok Buys That Everyone Is Buying, So You Don't Have To Scroll Anymore buzzfeed.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSG02ODRtdnRTSTYzM3NIYUpybmR0V1RfZDctLUtyZmlCYnNvM0pKdzlaQnA3eDZpYmJ5eHQ3aWJveDVWa0liLUttZTRLdXlSZUFvMWNsRHdxRXhVU0pXNDVUc1pLWXFsRnVNY0F6VQ?oc=5",
+          "publishedAt": "2026-07-21T20:33:40.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "4ac8e3613b9e",
+          "headline": "What Is The '1,000 Little Things' Trend? The Viral TikTok Memes Inspired By The 'Just Little Things' Blog Explained - Yahoo News Singapore",
+          "blurb": "What Is The '1,000 Little Things' Trend? The Viral TikTok Memes Inspired By The 'Just Little Things' Blog Explained Yahoo News Singapore",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xcEhDNFVraElhUHFOOGV2cnBaaF9mQVJmLWNsY0pUbkRUUlVzSl9qeHNsQ1dNVVptQzVWbUtleVZGdkZac0l5UjNFeDNISmVnN2VkQ085M3JhWFBYeWJ0SGtXb2huTm1vbUNIcldKQXZQVjRu?oc=5",
+          "publishedAt": "2026-07-21T19:30:00.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2); 3. 0landrys (0landrys.mp3); 4. thebandghost (Mary On A Cross - slowed + reverb)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-21T23:33:45.901Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "93b22f5d3ad7",
+          "headline": "Dr. TikTok and male fertility: Viral claims tout GLP-1 drugs as fertility boosters. What does the science say? - Genetic Literacy Project",
+          "blurb": "Dr. TikTok and male fertility: Viral claims tout GLP-1 drugs as fertility boosters. What does the science say? Genetic Literacy Project",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONXJmUF83bmRQd2ZuSjF0WDY4LXRaemRmRUpBdWdsN1FkSVZIcHlfbGxJVncwUll5SjdQTVRoZDdXVldUSWo0YlhQTWxqcVJONktHbmozNFo2Y3pRR1VGT3lwT0lPcUx6MlFsZVhuUDd4TTE4Z21HRDBfRDBmN2huNkF4WDU0ZEdBcHEteTFyRGl3Tk14bWVoWVFwRHFqc1pWQ01mTUszUjBJbkhKVGVIZ1c0NjRPTllVcnMyb0g5OGRiRmlFbkVQdklTdi02STV6QTQxbDItaG9oMUw3SEdUaWJhVTZRUjVM?oc=5",
+          "publishedAt": "2026-07-21T17:48:45.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "71d0a7edc340",
+          "headline": "TikToker Daniel Larson released from prison after time-served sentence",
+          "blurb": "Daniel Larson has been released from federal custody after receiving credit for time served in his federal threats case.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/tiktok/tiktoker-daniel-larson-released-from-prison-after-time-served-sentence-3389883/",
+          "publishedAt": "2026-07-21T21:23:29.000Z",
+          "importance": 32,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/21/daniel-alrson.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "d80a90fee02e",
+          "headline": "France bans children under 15 from TikTok, Instagram & other social media",
+          "blurb": "France has become the first EU country to ban children under 15 from social media, with the restrictions scheduled to begin in September 2026.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/france-bans-children-under-15-from-tiktok-instagram-other-social-media-3389835/",
+          "publishedAt": "2026-07-21T20:15:54.000Z",
+          "importance": 24,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/21/french-child-with-phone.jpg?width=1080&quality=75&format=auto"
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "5460d8929094",
+          "headline": "MLBPA calls to preserve draft system after owners' proposal",
+          "blurb": "After MLB proposed cutting the draft from 20 to 12 rounds, slashing amateur signing bonuses by more than $150 million and preventing high schoolers from entering, the MLBPA called to preserve the current system while opening more doors to younger players.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49420153/mlbpa-calls-preserve-draft-system-owners-proposal",
+          "publishedAt": "2026-07-21T23:28:39.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0721/r1692208_600x600_1-1.jpg"
+        },
+        {
+          "id": "62bb931c70e2",
+          "headline": "Source: Lions' Sam LaPorta (back) fully cleared for training camp",
+          "blurb": "Lions tight end Sam LaPorta was fully cleared for training camp earlier this month, a source told ESPN's Jeremy Fowler.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49420546/source-lions-sam-laporta-back-fully-cleared-training-camp",
+          "publishedAt": "2026-07-21T23:15:21.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0616/r1674260_1296x729_16-9.jpg"
+        },
+        {
+          "id": "c5362d8e7ab6",
+          "headline": "Rangers draft pick Brody Bumila to have Tommy John surgery",
+          "blurb": "Brody Bumila, the 18-year-old third-round pick of the Rangers who regularly runs his fastball over 100 mph, said he'll need Tommy John surgery to repair his left UCL.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49419500/rangers-draft-pick-brody-bumila-tommy-john-surgery",
+          "publishedAt": "2026-07-21T23:13:44.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/photo/2016/0301/r59268_1296x729_16-9.jpg"
+        },
+        {
+          "id": "7535106f3473",
+          "headline": "Stephen Curry first active player to have own exhibit in HOF",
+          "blurb": "Stephen Curry will become the first active player to be honored at the Naismith Basketball Hall of Fame with his own exhibit when it opens to the public Friday.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49420676/stephen-curry-first-active-player-own-exhibit-hof",
+          "publishedAt": "2026-07-21T23:03:16.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0601/r1666763_600x400_3-2.jpg"
+        },
+        {
+          "id": "b70ffae395e2",
+          "headline": "Jeff Passan: Mason Miller's trade market is 'incredible'",
+          "blurb": "Jeff Passan: Mason Miller's trade market is 'incredible'",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49420684/mason-miller-trade-market-incredible",
+          "publishedAt": "2026-07-21T22:55:27.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0721/ss_20260721_184412443_3599448/ss_20260721_184412443_3599448.jpg"
+        },
+        {
+          "id": "e39321d410b6",
+          "headline": "30 for 30 podcasts: 'The Betrayal of Shohei Ohtani' trailer",
+          "blurb": "30 for 30 podcasts: 'The Betrayal of Shohei Ohtani' trailer",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49420448/betrayal-shohei-ohtani-trailer",
+          "publishedAt": "2026-07-21T22:29:52.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0721/ss_20260721_181528113_3599440/ss_20260721_181528113_3599440.jpg"
+        },
+        {
+          "id": "85206900e2dc",
+          "headline": "Fantasy baseball lineup advice for Wednesday: Doubleheader in the Bronx, quality pitching options",
+          "blurb": "The key things to know to set your fantasy baseball lineups for Wednesday's MLB action.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/fantasy/baseball/story/_/id/49419344/fantasy-baseball-pitcher-rankings-lineup-advice-tips-mlb-daily-notes-july-22-games",
+          "publishedAt": "2026-07-21T20:42:21.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0721/r1692180_1296x729_16-9.jpg"
+        },
+        {
+          "id": "f4394a81c8df",
+          "headline": "What should the Red Sox do by the trade deadline? Jeff Passan weighs in",
+          "blurb": "What should the Red Sox do by the trade deadline? Jeff Passan weighs in",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49418824/what-red-sox-do-trade-deadline-jeff-passan-weighs-in",
+          "publishedAt": "2026-07-21T19:59:51.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0721/ss_20260721_141338466_3599316856/ss_20260721_141338466_3599316856.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "d42362617c64",
+          "headline": "Introducing the ChatGPT for small business program",
+          "blurb": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "publishedAt": "2026-07-21T17:00:00.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "187103fbac51",
+          "headline": "Nativ: Run AI models locally on your Mac",
+          "blurb": "Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM Studio, providing both a chat interface and a localhost API server for accessing models. The app picked up MLX models",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/21/nativ/",
+          "publishedAt": "2026-07-21T14:22:27.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "557bdf76b1ba",
+          "headline": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+          "blurb": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool design, and how Anthropic use these tools themselves. The full video of the session is now available on YouTube . Below is an edited copy of the transcript, with extr",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
+          "publishedAt": "2026-07-21T12:54:02.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "5593439e91c5",
+          "headline": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+          "blurb": "53 points, 9 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+          "publishedAt": "2026-07-21T19:11:27Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "70acebfbab7b",
+          "headline": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+          "blurb": "70 points, 54 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+          "publishedAt": "2026-07-21T19:04:39Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "bd8e36074398",
+          "headline": "AI makes programming differently difficult",
+          "blurb": "136 points, 113 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+          "publishedAt": "2026-07-21T18:30:21Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "20b0eb2d5c14",
+          "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "blurb": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "publishedAt": "2026-07-21T07:00:00.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "8985407e5ef9",
+          "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "blurb": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "publishedAt": "2026-07-21T15:16:30.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "00a6b7557269",
+          "headline": "Burnham tells cabinet to tackle living costs at first meeting",
+          "blurb": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-21T23:15:33.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/868c/live/fac66860-852f-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "9075f89e317e",
+          "headline": "Iran war has cost US $37.5bn so far, Hegseth says",
+          "blurb": "Some senators pushed back on Hegseth's funding request as he testified at a pivotal time in the war.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-21T22:49:20.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "ead766a732c7",
+          "headline": "Iraola wants Mac Allister & Alisson to stay with Liverpool",
+          "blurb": "Liverpool boss Andoni Iraola wants midfielder Alexis Mac Allister and goalkeeper Alisson to remain at the club.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-21T22:46:06.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7311/live/7e2dda30-8553-11f1-b0be-9b91bb07082f.png"
+        },
+        {
+          "id": "0004657cad80",
+          "headline": "What can Hearts pick from debris of ongoing summer of hurt?",
+          "blurb": "There's crashing back to Earth with a bang, and there's whatever Hearts fans have been going through since 16 May.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cz05re7pe7ko?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-21T22:37:30.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea08/live/2d33ca10-8551-11f1-82c8-79209299e29b.jpg"
+        },
+        {
+          "id": "62cd67cb7465",
+          "headline": "Littler throws nine-darter in superb Matchplay win",
+          "blurb": "World number one Luke Littler throws a thrilling nine-darter as he books his place in the quarter-finals of the World Matchplay with a 11-8 win over Nathan Aspinall.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-21T22:33:42.000Z",
+          "importance": 48,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f0/live/6d207b50-854c-11f1-97e0-ef2c0092e63e.jpg"
+        },
+        {
+          "id": "a55581a1c49f",
+          "headline": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+          "blurb": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-21T22:26:19.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg"
+        },
+        {
+          "id": "37e36786963c",
+          "headline": "Bournemouth reject £64m bid from Chelsea for Scott",
+          "blurb": "Bournemouth reject a £64m bid from Chelsea for Alex Scot after the midfielder turns down a new contract amid growing Premier League interest.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-21T21:47:05.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d9/live/41d52260-84da-11f1-8a1f-271692b35cb6.jpg"
+        },
+        {
+          "id": "9035e4efad0b",
+          "headline": "Smithsonian too focused on 'oppressors and the oppressed,' say House Republicans",
+          "blurb": "In a House DOGE subcommittee hearing, GOP representatives excoriated the director of the National Museum of American History, following a White House report earlier this month that also criticized her.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing",
+          "publishedAt": "2026-07-21T21:41:25.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "ad8b8f359eb7",
+          "headline": "What's the deal with Google storage?",
+          "blurb": "What's the deal with Google storage?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v2tu7l/whats_the_deal_with_google_storage/",
+          "publishedAt": "2026-07-21T20:13:15.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "7f5da836ccf2",
+          "headline": "2010's 'Just Little Things' Blog Is Back As A Viral TikTok Trend",
+          "blurb": "The 1,000 Little Things Trend is a TikTok trend based on the format of the Just Little Things blog where participants write a thing they're thankful for or appreciative for over a single-colored backdrop, then show a compilation of images related to that thing. The trend was popularized by TikToker @ambienc3_ in late July 2026.",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/1000-little-things-trend",
+          "publishedAt": "2026-07-21T17:46:24.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "46627adb3655",
+          "headline": "TikTokers Are Tearing Apart Low Quality 'Polyester Edits' Of Marvel Characters",
+          "blurb": "A Polyester Edit is a style of video edit focusing on a specific movie or TV character, in which scenes from their movies or show rapidly play in the background as the character is shown in different poses. Polyester edits were popularized on TikTok in July 2026 and started by creator @foryouamvv with a Spider-Man edit. The name \"polyester edit\" is a derivative title used to suggest that the edits",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/polyester-edit",
+          "publishedAt": "2026-07-21T17:14:36.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "d576d0efaec2",
+          "headline": "A crashed Pan Am passenger plane from 1952 has been identified today by Discovery Channel in the Atlantic Ocean.",
+          "blurb": "A crashed Pan Am passenger plane from 1952 has been identified today by Discovery Channel in the Atlantic Ocean.",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1v2mnbh/a_crashed_pan_am_passenger_plane_from_1952_has/",
+          "publishedAt": "2026-07-21T16:01:03.000Z",
+          "importance": 56,
+          "imageUrl": "https://external-preview.redd.it/ZnNhb2drZ3Z1bGVoMT5_M95_HQ1IVjxI6lrAdBwUsmuYVi2Qn7rnqBIkDkW6.png?width=640&crop=smart&auto=webp&s=a93e52f305e241de62358b35101fa4bb220f9d13"
+        },
+        {
+          "id": "0f7a39aad8ff",
+          "headline": "I carry shelter dogs around NYC in a dog backpack to help them get adopted. Meet Tonka!",
+          "blurb": "I carry shelter dogs around NYC in a dog backpack to help them get adopted. Meet Tonka!",
+          "source": "r/all",
+          "url": "https://www.reddit.com/r/aww/comments/1v2mhes/i_carry_shelter_dogs_around_nyc_in_a_dog_backpack/",
+          "publishedAt": "2026-07-21T15:55:26.000Z",
+          "importance": 48,
+          "imageUrl": "https://external-preview.redd.it/YnQxZXlrb3B1bGVoMY7ydtTUh45M9ig16gWNZiVb9OovkEEkyWejKQl1FNwI.png?width=640&crop=smart&auto=webp&s=5eb6e1b499e1aaac94d4a57d82404ed3198969e1"
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "a7991e0ca109",
+          "headline": "Alan Ritchson's 106-minute sci-fi action thriller is officially Netflix's biggest streaming hit of 2026",
+          "blurb": "Alan Ritchson’s stripped-down Predator riff earned 147 million views, making it Netflix’s biggest movie of 2026 so far. Here's why.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/netflix-biggest-movie-streaming-2026/",
+          "publishedAt": "2026-07-21T23:00:12.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/wm_unit_96098_r.jpg"
+        },
+        {
+          "id": "78a85388a562",
+          "headline": "Xbox Paid More Than Stalker 2's Development Cost To Make It Exclusive",
+          "blurb": "Xbox Paid More Than Stalker 2's Development Cost To Make It Exclusive",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v2x8lk/xbox_paid_more_than_stalker_2s_development_cost/",
+          "publishedAt": "2026-07-21T22:20:31.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "0029d7688b53",
+          "headline": "New La La Land Poster Finally Fixes Issue That Bothered Ryan Gosling for Years",
+          "blurb": "An updated version of the La La Land movie poster has finally fixed an issue that’s haunted Ryan Gosling for nearly a decade.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/new-la-la-land-poster-finally-fixes-issue-that-bothered-ryan-gosling-for-years",
+          "publishedAt": "2026-07-21T22:08:36.000Z",
+          "importance": 64,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/15/lathumb-1784135619682.png"
+        },
+        {
+          "id": "6367b256c252",
+          "headline": "Ghost in the Shell Fans Can't Decide if the New Prime Video Series Is Better Than the 1995 Movie",
+          "blurb": "Fans of Masamune Shirow’s Ghost in the Shell manga are at odds with 1995 film adaptation truthers after Science Saru’s 2026 Prime Video anime sparked a heated debate in the community.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/ghost-in-the-shell-fans-cant-decide-if-the-new-prime-video-series-is-better-than-the-1995-movie",
+          "publishedAt": "2026-07-21T21:32:23.000Z",
+          "importance": 56,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/21/ghost-in-the-shell-fans-debate-1995-movie-2026-series-1784669408536.jpg"
+        },
+        {
+          "id": "aa893edc1994",
+          "headline": "Magic: The Gathering’s Most Valuable Cards of 2026 So Far",
+          "blurb": "From rare Marvel crossovers to a massive $3,000 Strixhaven pull, these are the most valuable and expensive Magic: The Gathering cards of 2026 so far.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/magic-the-gathering-most-valuable-cards-2026",
+          "publishedAt": "2026-07-21T21:30:00.000Z",
+          "importance": 48,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/most-valuable-mtg-cards-of-2026-so-far-ign-1784561322379.png"
+        },
+        {
+          "id": "2852eaebcb22",
+          "headline": "NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con",
+          "blurb": "NARUTO Mythos TCG Is Coming to the U.S., See It First at San Diego Comic-Con",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/naruto-mythos-tcg-is-coming-to-the-us-see-it-first-at-san-diego-comic-con",
+          "publishedAt": "2026-07-21T21:11:13.000Z",
+          "importance": 40,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/17/thumbnail-2-1784318693562.png"
+        },
+        {
+          "id": "6dd24bdec8b0",
+          "headline": "The Next Lord of the Rings Deluxe Edition Book Is Available to Preorder Now",
+          "blurb": "The Next Lord of the Rings Deluxe Edition Book Is Available to Preorder Now",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/the-fall-of-numenor-deluxe-edition-book-where-to-buy",
+          "publishedAt": "2026-07-21T21:08:09.000Z",
+          "importance": 32,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/21/lord-of-the-rings-books-1-1784667936558.png"
+        },
+        {
+          "id": "a95d8a7496f6",
+          "headline": "Pro Jank Footy | Release Date Trailer",
+          "blurb": "Pro Jank Footy | Release Date Trailer",
+          "source": "r/Games",
+          "url": "https://www.reddit.com/r/Games/comments/1v2vand/pro_jank_footy_release_date_trailer/",
+          "publishedAt": "2026-07-21T21:06:16.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "b2fa0e4fb2dd",
+          "headline": "Chelsea Wolfe Reveals New Album The Dark, Lines Up 2026 Tour",
+          "blurb": "The LP’s lead single, “Cold,” is out now",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/chelsea-wolfe-shares-next-album-the-dark-lines-up-2026-tour/",
+          "publishedAt": "2026-07-21T22:14:56.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5fd7aeeea29a7155729cb1/master/pass/CW-thedark4-pc%20magdalena%20wosinska.jpg"
+        },
+        {
+          "id": "a4de40d4152b",
+          "headline": "Are NewJeans Really Back?",
+          "blurb": "A series of four videos posted to the K-pop group’s YouTube channel signal “the summer of NewJeans”",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/are-newjeans-really-back/",
+          "publishedAt": "2026-07-21T22:08:59.000Z",
+          "importance": 72,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5f9d404156aad82afb294a/master/pass/GettyImages-2211525146.jpg"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Drake – Janice STFU; 3. Lil Baby – Dead Fresh; 4. Ella Langley – Be Her; 5. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 6. Drake – Shabang; 7. Olivia Rodrigo – stupid song; 8. Yung Miami – Spend Dat; 9. Morgan Wallen – 20 Cigarettes; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Ariana Grande – hate that i made you love me; 12. Olivia Rod",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-21T23:33:47.231Z",
+          "importance": 64,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "c4eea54ea6d7",
+          "headline": "Watch Vince Staples’ Tiny Desk Performance",
+          "blurb": "The Long Beach rapper played cuts off his new album Cry Baby",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/vince-staples-npr-tiny-desk-performance/",
+          "publishedAt": "2026-07-21T18:27:55.000Z",
+          "importance": 56,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5fa6b7d5c7f7438eeacee2/master/pass/Screenshot%202026-07-21%20at%201.04.25%E2%80%AFPM.png"
+        },
+        {
+          "id": "e8d65b93fa67",
+          "headline": "Watch Charli XCX Direct Vincent Cassel in “Camera” Video",
+          "blurb": "Ahead of the release of Music, Fashion, Film this Friday",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/charli-xcx-unveils-video-for-new-song-camera-vincent-cassel/",
+          "publishedAt": "2026-07-21T17:40:53.000Z",
+          "importance": 48,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5fae5abc55548743c54d16/master/pass/Screenshot%202026-07-21%20at%201.35.55%E2%80%AFPM.png"
+        },
+        {
+          "id": "028a590a21fc",
+          "headline": "Dagmar Zuniga to Tour This Fall",
+          "blurb": "Including opening dates for Cate Le Bon and Black Country, New Road",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/dagmar-zuniga-to-tour-this-fall/",
+          "publishedAt": "2026-07-21T16:26:13.000Z",
+          "importance": 40,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5f98b0bcb2cf911ed6f278/master/pass/SCANS_BACK.jpeg"
+        },
+        {
+          "id": "d453f3e67ba8",
+          "headline": "Greg Freeman Readies New Album and Tour",
+          "blurb": "“Indu” leads the Vermont singer’s John Congelton-produced All Set the Bone",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/greg-freeman-readies-new-album-and-tour/",
+          "publishedAt": "2026-07-21T15:36:36.000Z",
+          "importance": 32,
+          "imageUrl": "https://media.pitchfork.com/photos/6a5f7441764a2c1418689c25/master/pass/Greg-Freeman-new-album.jpg"
+        },
+        {
+          "id": "fde1bfbe5093",
+          "headline": "Noah Kahan Concertgoers Are Apparently Still Using Their Seats As Toilets",
+          "blurb": "Noah Kahan's The Great Divide Tour kicked off last month, and there has been no shortage of controversy. The Philadelphia show on June 26 made headlines after an attendee went number two in their seat , and the folk-pop star made fans at subsequent shows pledge not to shit on the floor . Now, it seems like the problem is worse than we thought. The post Noah Kahan Concertgoers Are Apparently Still ",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2505924/noah-kahan-concertgoers-are-apparently-still-using-their-seats-as-toilets/news/",
+          "publishedAt": "2026-07-21T20:02:49.000Z",
+          "importance": 24,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/noah-kahan.jpg?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "162a22c492bc",
+          "headline": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+          "blurb": "114 points, 53 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://fireworks.ai/blog/kimik3-fable",
+          "publishedAt": "2026-07-21T22:35:24Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "bb3ffecfc816",
+          "headline": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+          "blurb": "9 points, 5 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.getcomputable.com/",
+          "publishedAt": "2026-07-21T21:48:19Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "bf82e94d12a8",
+          "headline": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+          "blurb": "18 points, 3 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+          "publishedAt": "2026-07-21T21:27:54Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "744516432839",
+          "headline": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+          "blurb": "58 points, 19 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+          "publishedAt": "2026-07-21T21:13:20Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "3911d69dd953",
+          "headline": "A digestion of the Jacobian conjecture counterexample",
+          "blurb": "109 points, 26 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+          "publishedAt": "2026-07-21T21:09:25Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "f29a04d123ca",
+          "headline": "OpenAI and Hugging Face address security incident during model evaluation",
+          "blurb": "538 points, 348 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "publishedAt": "2026-07-21T20:09:52Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "901039d34200",
+          "headline": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+          "blurb": "304 points, 52 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+          "publishedAt": "2026-07-21T19:43:59Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "cfa707e39437",
+          "headline": "The Price of Happiness (2024)",
+          "blurb": "49 points, 20 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://happiness-science.org/price-of-happiness/",
+          "publishedAt": "2026-07-21T18:42:46Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 244
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 830
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 519
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 39
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 18
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1043
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 3
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 28
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": true,
+      "items": 25
+    }
+  ]
+}
