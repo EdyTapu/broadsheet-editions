@@ -1,0 +1,1063 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-22-evening",
+  "date": "2026-07-22",
+  "slot": "evening",
+  "slotTitle": "Evening Edition",
+  "generatedAt": "2026-07-22T23:33:39.542Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The evening edition, assembled without its editor.",
+    "weather": {
+      "tempF": 86,
+      "condition": "mostly clear",
+      "highF": 88,
+      "lowF": 73,
+      "precipPct": 14
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "9c1d584c771f",
+      "headline": "Are AI labs pelicanmaxxing?",
+      "kicker": "ai",
+      "blurb": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but "
+    },
+    "secondaries": [
+      {
+        "storyId": "68046a018678",
+        "headline": "Scottish Labour at a crossroads again as Sarwar jumps ship",
+        "kicker": "news",
+        "blurb": "Anas Sarwar has never made a secret of his desire to hold high office, but where does it leave Scottish Labour?"
+      },
+      {
+        "storyId": "55d6d3cbedbc",
+        "headline": "Medici family mystery may be solved after more than 400 years",
+        "kicker": "tech",
+        "blurb": "50 points, 8 comments on Hacker News"
+      },
+      {
+        "storyId": "a6ed2220c39f",
+        "headline": "Dodgers' Shohei Ohtani throws 30-pitch bullpen session",
+        "kicker": "sports",
+        "blurb": "Dodgers star Shohei Ohtani threw about 30 pitches in a bullpen session prior to Wednesday's game at Philadelphia. There is still no timetable for his return to the mound."
+      },
+      {
+        "storyId": "f5ee282e67b1",
+        "headline": "The Odyssey’s most important visual was inspired by a 58-year-old twist from a classic sci-fi movie",
+        "kicker": "gaming",
+        "blurb": "Christopher Nolan has been thinking about how to film the Trojan Horse for decades"
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "694ea6f1119d",
+        "headline": "Where Did This Tik To Sound Come From? IYO Meme Explained",
+        "kicker": "internet"
+      },
+      {
+        "storyId": "5002a12e908e",
+        "headline": "SoundCloud Acquires What’s Left of Nina Protocol",
+        "kicker": "music"
+      },
+      {
+        "storyId": "ebaeec3e40cd",
+        "headline": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+        "kicker": "markets"
+      },
+      {
+        "storyId": "d7d6fbae41f2",
+        "headline": "Dietitians and Sleep Doctors Say TikTok's \"Early Bird Dinner\" Trend Is Actually Backed by Science - Medical Daily",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "d866c933faf9",
+        "headline": "Joshua not ready for death of friends to 'sink in'",
+        "kicker": "news"
+      },
+      {
+        "storyId": "aa51f5d3c29f",
+        "headline": "Arokodare forces Wolves training to be cancelled",
+        "kicker": "news"
+      },
+      {
+        "storyId": "d27a33d94c93",
+        "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+        "kicker": "news"
+      },
+      {
+        "storyId": "d3e61cd4526f",
+        "headline": "Menzies taken ill on stage at World Matchplay",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-22T23:33:39.542Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 65946,
+        "changePct": -0.66
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1928.66,
+        "changePct": 0.35
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "d7d6fbae41f2",
+          "headline": "Dietitians and Sleep Doctors Say TikTok's \"Early Bird Dinner\" Trend Is Actually Backed by Science - Medical Daily",
+          "blurb": "Dietitians and Sleep Doctors Say TikTok's \"Early Bird Dinner\" Trend Is Actually Backed by Science Medical Daily",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1Roc3FfQjZYdnFMTjVKdENmd19Fc2tWZndLSExXNVQ3eXhidGNWQUJIWEpyMG80UE1yY25SMUZFRnNCVWNnbEhDcmxiLUxfS0xNZXFiVDRITW9ub0RmZjRjd2QtTHJJT3hZRGgycklwMGk1RXFlQ3dFOWh6bHJ2blZJbzdMbHE0blRWcUlUSkZ1eXZsR05SWXlsbXh0YVB6LUEtU1JRYUNMdw?oc=5",
+          "publishedAt": "2026-07-22T22:00:08.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Shushy🇸🇧🇵🇬 (prodshushy); 2. Neural Recharge (0.1hz Coherence & Alpha 8hz (Monaural Beats)); 3. echoarchive (echoarchive.music); 4. thebandghost (Mary On A Cross - slowed + reverb)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-22T23:33:41.154Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "5de6e2af9336",
+          "headline": "Tame Impala's viral TikTok sound is fueling demand for Deadbeat Tour tickets - Yahoo",
+          "blurb": "Tame Impala's viral TikTok sound is fueling demand for Deadbeat Tour tickets Yahoo",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWt0QXFmQWc4bW9lMzhmMk5lMnFMalhlaFhpT0NCa2hYSERfQUFZSm1YNDB3MjRkZ28xQktMQ3haUGtWcEdRZ2lvMXhXSkY5SlJ1RUJvNTU5MEJqNG03bUdRSXZJelZycWJBMDgzemx3cFVRY0VUNDNNMkxrbGswbmRFU2lBR1hMT3NXREQxbk9HeGZyNVh2QjF2NzZmUQ?oc=5",
+          "publishedAt": "2026-07-22T17:49:15.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "8a625b32f04a",
+          "headline": "Georgia Department of Corrections says viral TikTok video of flooded cell is fake - WALB",
+          "blurb": "Georgia Department of Corrections says viral TikTok video of flooded cell is fake WALB",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnNMUUhzTFVZRThMMERSb25EcndaUTcyVk1jTll1R3ZzZ29nNi05UzhPelMweXh2OXJfM1FRbk44Z3RoRnhkUmFQM01JUG5ieDduMEJsa3o3enJCWXBsaWRaSHE2T1JQc0x2V2QwV050S2xsZk5BeUlxN1NQWWp5TWN0MXZ5ZHp1MXQ1S2pYVVZ6dWlYM1hwc1c5RDFtZE03THR4UDQ2S01QVjE50gHAAUFVX3lxTE1aa0xsYXctYzhiNldSa0lfVXRKN2JFYi0yRVRIMFQ1YkhRRFZyVExOemgweklKQnZsQ2ctSlNEVFF3c2FyRklMNG1jUUt6cWlQS1dRcHAwWGE3YzI0QUlDb09QRVdBTFhucmQ5ZTZsVXlaNnpDOUU0cjJ3X0RZVE1CS3E0TTZjWDh5Ym0xMUJkWmtXWlB0Y3kwbDJ6blhkNzZhZ0dIZHZBZ1d6dDNKb284RDlXQUhjeTRfa3Q4RzRDZw?oc=5",
+          "publishedAt": "2026-07-22T16:20:00.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "359adb73e170",
+          "headline": "Miami Heat’s LeBron James leak sparks wave of fake signing announcements",
+          "blurb": "The Miami Heat accidentally scheduled a LeBron James press conference on YouTube, prompting orgs to announce fake signings of their own.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/miami-heats-lebron-james-leak-sparks-wave-of-fake-signing-announcements-3390351/",
+          "publishedAt": "2026-07-22T20:28:01.000Z",
+          "importance": 48,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/22/lebron-miami-heat-leak.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "dfe008a3925d",
+          "headline": "Influencer Miss Tattoo and boyfriend shot dead over alleged debts",
+          "blurb": "Brazilian goth influencer Ulissias Marcelli, known online as Miss Tattoo, and her boyfriend have been found shot dead on a rural roadside.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/goth-influencer-miss-tattoo-and-boyfriend-shot-dead-over-alleged-debts-3390346/",
+          "publishedAt": "2026-07-22T20:19:51.000Z",
+          "importance": 40,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/22/goth-influencer-dead-brazil.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "cc33140cda0a",
+          "headline": "Linus Tech Tips says Valve’s Steam Machine is the best desktop PC he’s ever used",
+          "blurb": "After using it as his primary computer, Linus Tech Tips says the Steam Machine’s biggest strength has nothing to do with gaming.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/youtube/linus-tech-tips-says-valves-steam-machine-is-the-best-desktop-pc-hes-ever-used-3390331/",
+          "publishedAt": "2026-07-22T19:51:12.000Z",
+          "importance": 32,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/22/linussteammachine.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "e631a6c377ee",
+          "headline": "Lost Pokemon documentary reveals over 100 scrapped Diamond & Pearl designs",
+          "blurb": "A private Game Freak documentary preserved by Pokemon historian Lewtwo has revealed over 100 early and scrapped designs.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/pokemon/lost-pokemon-documentary-reveals-over-100-scrapped-diamond-pearl-designs-3390336/",
+          "publishedAt": "2026-07-22T19:50:49.000Z",
+          "importance": 24,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/22/pokemon-diamond-pearl-beta-pokemon.jpg?width=1080&quality=75&format=auto"
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "a6ed2220c39f",
+          "headline": "Dodgers' Shohei Ohtani throws 30-pitch bullpen session",
+          "blurb": "Dodgers star Shohei Ohtani threw about 30 pitches in a bullpen session prior to Wednesday's game at Philadelphia. There is still no timetable for his return to the mound.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49427938/dodgers-shohei-ohtani-throws-30-pitch-bullpen-session-game-vs-phillies",
+          "publishedAt": "2026-07-22T23:31:19.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0722/r1692600_600x400_3-2.jpg"
+        },
+        {
+          "id": "aabbf5824172",
+          "headline": "St. Louis Cardinals vs. Los Angeles Angels: Game Highlights",
+          "blurb": "St. Louis Cardinals vs. Los Angeles Angels: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49427992/game-highlights",
+          "publishedAt": "2026-07-22T23:30:22.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0722/079babdd-f1c7-4ccd-a291-d41481e066a4/079babdd-f1c7-4ccd-a291-d41481e066a4.jpg"
+        },
+        {
+          "id": "fa9272c1c88b",
+          "headline": "Athletics vs. Arizona Diamondbacks: Game Highlights",
+          "blurb": "Athletics vs. Arizona Diamondbacks: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49428004/game-highlights",
+          "publishedAt": "2026-07-22T23:29:59.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0722/87fd9ac9-2be9-4511-94ad-9ff97eac5c6d/87fd9ac9-2be9-4511-94ad-9ff97eac5c6d.jpg"
+        },
+        {
+          "id": "9d28c13da803",
+          "headline": "Washington Nationals vs. Colorado Rockies: Game Highlights",
+          "blurb": "Washington Nationals vs. Colorado Rockies: Game Highlights",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/video/clip/_/id/49427985/game-highlights",
+          "publishedAt": "2026-07-22T23:27:59.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/media/motion/wsc/2026/0722/c4e427f7-f4d6-4a66-9885-f817e05ea6b3/c4e427f7-f4d6-4a66-9885-f817e05ea6b3.jpg"
+        },
+        {
+          "id": "e202507cd13b",
+          "headline": "Seahawks' Nick Emmanwori has ankle surgery, expected to play W1",
+          "blurb": "Seahawks standout safety Nick Emmanwori is expected to miss some time in training camp but be ready by Week 1 following right ankle surgery, sources told ESPN.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49427873/seahawks-nick-emmanwori-ankle-surgery-expected-play-week-1",
+          "publishedAt": "2026-07-22T23:24:43.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0205/r1610775_600x400_3-2.jpg"
+        },
+        {
+          "id": "cbd4422a188e",
+          "headline": "Diamondbacks set season high for runs in 15-5 rout of Athletics",
+          "blurb": "— James McCann hit his 100th major league home run and Ryan Waldschmidt slugged the first of his career as part of Arizona's seven-run fifth inning and the Diamondbacks set a season high for runs scored in a 15-5 rout of the Athletics on Wednesday.",
+          "source": "ESPN MLB",
+          "url": "http://www.espn.com/mlb/recap?gameId=401816228",
+          "publishedAt": "2026-07-22T23:08:30.000Z",
+          "importance": 40,
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816228.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "7c1e35fc9b7a",
+          "headline": "Dobbins throws 6 innings and Wetherholt homers to lead the Cardinals to a 1-0 win over Angels",
+          "blurb": "— Hunter Dobbins scattered six hits over six innings, JJ Wetherholt hit a home run in the sixth and the St. Louis Cardinals held on for a 1-0 victory over the Los Angeles Angels on Wednesday.",
+          "source": "ESPN MLB",
+          "url": "http://www.espn.com/mlb/recap?gameId=401816230",
+          "publishedAt": "2026-07-22T23:01:30.000Z",
+          "importance": 32,
+          "imageUrl": "https://s.espncdn.com/stitcher/sports/baseball/mlb/events/401816230.png?templateId=espn.applewatch.awayhome.1"
+        },
+        {
+          "id": "858b5ae62b48",
+          "headline": "Chiefs unveil renderings of planned $3B domed stadium in Kansas",
+          "blurb": "The Chiefs unveiled the first renderings for their new stadium in Kansas that is scheduled to open for the NFL's 2031 season.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49425174/chiefs-unveil-renderings-planned-3b-domed-stadium-kansas",
+          "publishedAt": "2026-07-22T22:53:45.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0722/r1692411_1296x729_16-9.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "9c1d584c771f",
+          "headline": "Are AI labs pelicanmaxxing?",
+          "blurb": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/",
+          "publishedAt": "2026-07-22T23:01:00.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "bd6ce42035f5",
+          "headline": "Building AI infrastructure with the Effingham County community",
+          "blurb": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "publishedAt": "2026-07-22T13:00:00.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "130e23c4bd2f",
+          "headline": "How news organizations are using AI to advance their vital missions",
+          "blurb": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "publishedAt": "2026-07-22T13:00:00.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "fc3528d001b5",
+          "headline": "Advancing the next era of national science",
+          "blurb": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "publishedAt": "2026-07-22T12:00:00.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "c54f46e53d48",
+          "headline": "Introducing OpenAI Presence",
+          "blurb": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "publishedAt": "2026-07-22T05:30:00.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "15eb5b1c419a",
+          "headline": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "blurb": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "publishedAt": "2026-07-22T13:38:54.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "85aa09c15ed0",
+          "headline": "Ask Claude about the Anthropic Economic Index",
+          "blurb": "Ask Claude about the Anthropic Economic Index",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+          "publishedAt": "2026-07-22T00:00:00.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "6d76bdb9b968",
+          "headline": "A research agenda for the Economic Futures Research Fund",
+          "blurb": "A research agenda for the Economic Futures Research Fund",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+          "publishedAt": "2026-07-22T00:00:00.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "68046a018678",
+          "headline": "Scottish Labour at a crossroads again as Sarwar jumps ship",
+          "blurb": "Anas Sarwar has never made a secret of his desire to hold high office, but where does it leave Scottish Labour?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy078g8g2pvo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:41:27.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc95/live/09fc0350-85e2-11f1-926f-c90d1bcfbc84.jpg"
+        },
+        {
+          "id": "d866c933faf9",
+          "headline": "Joshua not ready for death of friends to 'sink in'",
+          "blurb": "Anthony Joshua says he is not ready for the loss of his two close friends and team members to \"sink in yet\" as he prepares for his first fight since their death.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/czjl3em4g74o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:20:53.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec97/live/a7141d90-8613-11f1-8e8c-eb6617e7b8b5.jpg"
+        },
+        {
+          "id": "aa51f5d3c29f",
+          "headline": "Arokodare forces Wolves training to be cancelled",
+          "blurb": "Wolves striker Tolu Arokodare forces the cancellation of a training session as he refuses to leave the pitch.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:20:48.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/452a/live/296641b0-85dd-11f1-9837-c51febdbeb82.jpg"
+        },
+        {
+          "id": "d27a33d94c93",
+          "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+          "blurb": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:17:54.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a13/live/5d582620-8572-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "d3e61cd4526f",
+          "headline": "Menzies taken ill on stage at World Matchplay",
+          "blurb": "Cameron Menzies needs medical attention after being taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:14:54.000Z",
+          "importance": 48,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618d/live/305f6ca0-8603-11f1-b3d1-d772829dc047.jpg"
+        },
+        {
+          "id": "68934edca69a",
+          "headline": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
+          "blurb": "For 'cockroach' protesters, reels and memes became a way of documenting fear, making sense of violence and refusing to let it have the last word.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:13:24.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49c/live/4294bd70-85cd-11f1-85bd-254f6de05e48.jpg"
+        },
+        {
+          "id": "1d66b9487cfe",
+          "headline": "Former defence minister Al Carns turns down ministerial offer",
+          "blurb": "Carns quit following the resignation of John Healey as defence secretary in a row over military funding.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c74geex0k82o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:12:25.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b24/live/11215840-8611-11f1-bf46-1ba486681394.jpg"
+        },
+        {
+          "id": "b7020b147393",
+          "headline": "A year after deadly jet crash at Bangladesh school, families demand answers",
+          "blurb": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-22T22:04:07.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3d8/live/ebe69aa0-85a6-11f1-a300-4537eea2be58.jpg"
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "694ea6f1119d",
+          "headline": "Where Did This Tik To Sound Come From? IYO Meme Explained",
+          "blurb": "Iyo, often capitalized as iyo, is a viral TikTok sound and nonsensical slang term originating from a Fortnite voice chat clip featuring various young-sounding players engaging in an increasingly heated exchange of trash talk. The audio includes the line, \"If you don't stop talking, I'mma get a little KK to drop a little JJ,\" followed by one of the players saying, \"Iyo,\" a distinctive pronunciation",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/iyo-tiktok-sound",
+          "publishedAt": "2026-07-22T21:24:11.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "6904b2f2f794",
+          "headline": "Twitter Is Obsessed Over The Look This Girl Gives In A Viral Foam Party Video",
+          "blurb": "Foam Party Girl or the Goddamnitdonut Look and Bounce Video, also known as the Ann K. Video, is a viral video of a girl at a foam party, purported to be Instagram user goddamnitdonut, aka Ann K., dancing and then giving an unseen person a flirtatious look before she continues dancing. The video went viral in late July 2026 on X / Twitter, inspiring discourse and memes about the look that she gives",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/foam-party-girl-goddamnitdonut-look-and-bounce-video",
+          "publishedAt": "2026-07-22T18:29:06.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "79004d1325f3",
+          "headline": "Internet Mocks Andrew Tate Arrest Outfit",
+          "blurb": "Andrew Tate Arrest Outfit, also known as the Andrew Tate Arrest Outfit Meme, refers to a series of memes and jokes mocking the clothing worn by manosphere podcaster and influencer Andrew Tate in photographs taken during his July 2026 arrest in Miami. The images showed Tate wearing a shiny, low-buttoned purple blouse-style shirt, tight cropped black pants and loafers, alongside accessories includin",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/andrew-tate-arrest-outfit",
+          "publishedAt": "2026-07-22T16:58:03.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "a6f3d91033db",
+          "headline": "The 'Marc Cucurella Cat' Meme Becomes One Of The Last Major World Cup Memes",
+          "blurb": "Marc Cucurella Cat, also known simply as the Cucurella Cat Meme, is a viral video and reaction image of a tabby cat sitting on a windowsill wearing a large black curly wig, resembling Spanish professional footballer and soccer star Marc Cucurella Saseta, who plays for the La Liga club Real Madrid and Spain's men's national team. The original video was posted to TikTok by user welcometolevush in ea",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/marc-cucurella-cat",
+          "publishedAt": "2026-07-22T16:30:41.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "7f454628bc1c",
+          "headline": "'Computah' Guy Julius Mondragon Talks About His Favorite Filming Moments",
+          "blurb": "\"Computah\" just named his favorite moment from filming so far and it's a good one. Full video is up now, link in our bio. 🔗",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/videos/439522-computa-make-x-into-y-computer-guy",
+          "publishedAt": "2026-07-21T15:04:44.000Z",
+          "importance": 48,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "markets",
+      "title": "Markets",
+      "stories": [
+        {
+          "id": "ebaeec3e40cd",
+          "headline": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+          "blurb": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+          "source": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+          "publishedAt": "2026-07-22T16:57:55.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "3a0592e4df4a",
+          "headline": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+          "blurb": "The latest tariff salvo underscored Trump's goal of reshoring low-cost drug production, but displacing established suppliers like India won't be easy.",
+          "source": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+          "publishedAt": "2026-07-22T06:28:08.000Z",
+          "importance": 72,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "f5ee282e67b1",
+          "headline": "The Odyssey’s most important visual was inspired by a 58-year-old twist from a classic sci-fi movie",
+          "blurb": "Christopher Nolan has been thinking about how to film the Trojan Horse for decades",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/the-odyssey-trojan-horse-drew-inspiration-from-planet-of-the-apes/",
+          "publishedAt": "2026-07-22T23:00:12.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-boat-news-header.jpg"
+        },
+        {
+          "id": "c1b6748ec723",
+          "headline": "Unlikely Pokémon Winds & Waves monster hides 20 years of history",
+          "blurb": "A small detail in Pokémon Pokopia might've been planned for Diamond & Pearl. And we may not see the full version until the Switch 2 Pokémon games",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/pokemon-winds-waves-leak-diamond-pearl-doc-monster-design-pokopia/",
+          "publishedAt": "2026-07-22T22:30:38.000Z",
+          "importance": 72,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22884343/BDSP_screen_27.jpg"
+        },
+        {
+          "id": "6e885cc18a42",
+          "headline": "Save $1,500 Off an Alienware Area-51 Ryzen X3D Gaming PC With RTX 5090 GPU and 64GB of RAM",
+          "blurb": "Still expensive, but a competitive price point in today's market for an extremely powerful gaming PC.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dell-alienware-area-51-rtx-5090-gaming-pc-deal-july-2026",
+          "publishedAt": "2026-07-22T22:20:00.000Z",
+          "importance": 64,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/22/alienwarearea51ryzen-1784758311800.jpg"
+        },
+        {
+          "id": "f180173b51e9",
+          "headline": "Samsung Galaxy Z Fold 8 Ultra Review So Far",
+          "blurb": "The Samsung Galaxy Z Fold 8 Ultra is Samsung's latest flagship foldable, and while it brings the better battery and camera that I've been wanting for years, its $2099 price tag is hard to swallow.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/samsung-galaxy-z-fold-8-ultra-review",
+          "publishedAt": "2026-07-22T21:34:38.000Z",
+          "importance": 56,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/22/fold-8-3-1784737902904.jpg"
+        },
+        {
+          "id": "09d40d23dc8c",
+          "headline": "Save $100 Off a Like New Asus ROG Xbox Ally X Handheld Gaming PC at Best Buy",
+          "blurb": "The most powerful Windows-based gaming handheld.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-july-2026",
+          "publishedAt": "2026-07-22T20:55:00.000Z",
+          "importance": 48,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/06/10/xboxallyx-1781118021285.jpg"
+        },
+        {
+          "id": "e40c18d0a9ea",
+          "headline": "Pokémon Diamond & Pearl video reveals tons of early Pokémon designs",
+          "blurb": "A Pokémon Diamond and Pearl documentary has been uploaded in full to YouTube, offering fans a look at how those games were made.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/pokemon-diamond-pearl-leak-early-designs-documentary/",
+          "publishedAt": "2026-07-22T20:53:29.000Z",
+          "importance": 40,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/pokemon_brilliant_diamond_and_shining_pearl_-_art_1-3.jpg"
+        },
+        {
+          "id": "3d9fa37cdf83",
+          "headline": "Best Buy's Trio of Exclusive Limited Edition Xbox Elite Series 2 Core Controllers Are on Sale Today",
+          "blurb": "Preconfigured using Xbox's Design Lab service.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/xbox-elite-controller-deal-july-2026",
+          "publishedAt": "2026-07-22T20:20:00.000Z",
+          "importance": 32,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/22/xboxdesignlabcontrollers-1784749512196.jpg"
+        },
+        {
+          "id": "c48e536af152",
+          "headline": "Fallout 3 and New Vegas remasters need to steal Fallout 4's best feature",
+          "blurb": "The way Fallout 4 treats power armor is far superior to its predecessors, and the upcoming remasters should retrofit the mechanic.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/fallout-3-new-vegas-4-power-armor-mechanic/",
+          "publishedAt": "2026-07-22T20:00:12.000Z",
+          "importance": 24,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/fallout-3-new-vegas-remasters-power-armor-header.jpg"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "5002a12e908e",
+          "headline": "SoundCloud Acquires What’s Left of Nina Protocol",
+          "blurb": "The streaming service will preserve Nina Protocol’s editorial archive and allow artists to opt into its creator ecosystem",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/soundcloud-acquires-whats-left-of-nina-protocol/",
+          "publishedAt": "2026-07-22T18:34:10.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a610b6a50bdba5e43532221/master/pass/GettyImages-1083228818.jpg"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Ella Langley – Choosin' Texas; 2. Lil Baby – Dead Fresh; 3. Drake – Janice STFU; 4. Ella Langley – Be Her; 5. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 6. Drake – Shabang; 7. Olivia Rodrigo – stupid song; 8. Morgan Wallen – 20 Cigarettes; 9. Yung Miami – Spend Dat; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Ariana Grande – hate that i made you love me; 12. Morgan Wal",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-22T23:33:41.466Z",
+          "importance": 72,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg"
+        },
+        {
+          "id": "b5cdb0bf4124",
+          "headline": "Victoria Monét Reveals New Album Frequency of Love",
+          "blurb": "Listen to the Kaytranada-produced single “Reach Out”",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/victoria-monet-reveals-new-album-frequency-of-love/",
+          "publishedAt": "2026-07-22T17:32:55.000Z",
+          "importance": 64,
+          "imageUrl": "https://media.pitchfork.com/photos/6a60ee68928f841aaafafc97/master/pass/159A0545copy.jpg"
+        },
+        {
+          "id": "1e2ab6394315",
+          "headline": "Watch Kacey Musgraves Sing “Mexico Honey” at Karaoke in New Video",
+          "blurb": "A steamy clip for the breakaway Middle of Nowhere track",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/watch-kacey-musgraves-sing-mexico-honey-at-karaoke-in-new-video/",
+          "publishedAt": "2026-07-22T16:11:50.000Z",
+          "importance": 56,
+          "imageUrl": "https://media.pitchfork.com/photos/6a60df8f52064d9beaeaff8e/master/pass/Kacey-Musgraves-Mexico-Honey.jpeg"
+        },
+        {
+          "id": "c1b3d11c8cda",
+          "headline": "Iggy Pop Heralds New Protomartyr Album, Says They’re “Kind of Like Jesus”",
+          "blurb": "The band’s Hotel Usona drops this September",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/iggy-pop-protomartyr-album-hotel-usona/",
+          "publishedAt": "2026-07-22T16:10:33.000Z",
+          "importance": 48,
+          "imageUrl": "https://media.pitchfork.com/photos/6a60d1ac26f57e7b7f19722f/master/pass/unnamed%20-%202026-07-22T101806.024.jpg"
+        },
+        {
+          "id": "f53d2cb681bf",
+          "headline": "Charli XCX – “If You Take Away The Music, Then What Has She Got?”",
+          "blurb": "Only two days until Music, Fashion, Film , but Charli XCX isn't done with the rollout. We got the latest single \" Camera \" on Tuesday (July 21), but she still has B-sides in store. Previous B-sides are \" I Keep Thinking About You Every Single Day And Night \" and \" Playboy Bunny ,\" and today she's sharing the final B-side, \"If You Take Away The Music, Then What Has She Got?,\" which she debuted in B",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2506037/charli-xcx-if-you-take-away-the-music-then-what-has-she-got/music/",
+          "publishedAt": "2026-07-22T20:06:38.000Z",
+          "importance": 40,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Screenshot-2026-07-22-at-4.03.49-PM.png?w=564"
+        },
+        {
+          "id": "119a72699ac5",
+          "headline": "Trusselina – “Gastro” & “Trusselina Archimboldi”",
+          "blurb": "Mikaela Oppenheimer used to be in the Brooklyn emo band Hello Mary, while Hayden McGarvey is a former member of the Philadelphia shoegaze crew Bleary Eyed. The two of them got to know each other when their bands toured together in 2024, and now they've joined forces to form Trusselina, a new duo whose music doesn't sound anything like their previous two bands. The post Trusselina – “Gastro” & “Tru",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2506032/trusselina-gastro-trusselina-archimboldi/music/",
+          "publishedAt": "2026-07-22T19:27:30.000Z",
+          "importance": 32,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Trusselina.jpeg?w=564"
+        },
+        {
+          "id": "995b7c5e1e3a",
+          "headline": "Wild Pink – “500 Is The New 250”",
+          "blurb": "Wild Pink's upcoming album Still Coming Down feels a lot like MJ Lenderman cosplay, but can we even be mad about it? It sounds good , and Lenderman himself works on the record, so he must not mind. \"500 Is The New 250\" — which follows \" Round Of Applause At The End Of The World \" and \" Box Store \" — has a man taking a Cybertruck to his favorite bar (poetically called Hard Luck) to bet on his phone",
+          "source": "Stereogum",
+          "url": "https://stereogum.com/2506024/wild-pink-250-is-the-new-500/music/",
+          "publishedAt": "2026-07-22T19:10:35.000Z",
+          "importance": 24,
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/unnamed-2026-07-22T150656.578.jpg?w=564"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "55d6d3cbedbc",
+          "headline": "Medici family mystery may be solved after more than 400 years",
+          "blurb": "50 points, 8 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+          "publishedAt": "2026-07-22T21:55:34Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "23396bdacf06",
+          "headline": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+          "blurb": "22 points, 4 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+          "publishedAt": "2026-07-22T21:54:30Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "a04ea70735a8",
+          "headline": "Malleable Computing, Emacs, and You",
+          "blurb": "51 points, 7 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+          "publishedAt": "2026-07-22T21:15:26Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "9be8c41a5dbf",
+          "headline": "Safari Technology Preview 248 Released",
+          "blurb": "60 points, 20 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+          "publishedAt": "2026-07-22T21:00:26Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "37d42dde86db",
+          "headline": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+          "blurb": "217 points, 47 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+          "publishedAt": "2026-07-22T20:33:44Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "d7d4ca901223",
+          "headline": "Fairphone 6 wide camera experimental Linux support",
+          "blurb": "38 points, 1 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+          "publishedAt": "2026-07-22T20:16:01Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "f202de911c0f",
+          "headline": "John C. Dvorak has died",
+          "blurb": "443 points, 132 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://twitter.com/na_announce/status/2079952538040672302",
+          "publishedAt": "2026-07-22T19:22:19Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "bc4da3fea4fc",
+          "headline": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+          "blurb": "30 points, 5 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://github.com/cactus-compute/cactus-hybrid",
+          "publishedAt": "2026-07-22T17:56:29Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 830
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 322
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 248
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1048
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 36
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 5
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 28
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day"
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/all/top/.rss?t=day"
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/Games/top/.rss?t=day"
+    }
+  ]
+}
