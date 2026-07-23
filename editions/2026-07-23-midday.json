@@ -1,0 +1,1091 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-23-midday",
+  "date": "2026-07-23",
+  "slot": "midday",
+  "slotTitle": "Midday Edition",
+  "generatedAt": "2026-07-23T18:47:04.297Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The midday edition, assembled without its editor.",
+    "weather": {
+      "tempF": 86,
+      "condition": "overcast",
+      "highF": 88,
+      "lowF": 74,
+      "precipPct": 22
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "23f0b49fe5ef",
+      "headline": "Building on ATProto",
+      "kicker": "tech",
+      "blurb": "13 points, 0 comments on Hacker News"
+    },
+    "secondaries": [
+      {
+        "storyId": "bc41525d406c",
+        "headline": "Burnham pauses plan to release some prisoners early from September",
+        "kicker": "news",
+        "blurb": "The prime minister says no prisoners will be released until a review has been conducted."
+      },
+      {
+        "storyId": "13c70694c328",
+        "headline": "2026 NBA buzz: Latest free agency and trade updates",
+        "kicker": "sports",
+        "blurb": "We're tracking deals, trades and buzz across the NBA, including the latest on rookies at summer league and offseason free agency."
+      },
+      {
+        "storyId": "e74d7847d789",
+        "headline": "What's going on with the AI chatbot lawsuits involving teens and suicide?",
+        "kicker": "internet",
+        "blurb": "What's going on with the AI chatbot lawsuits involving teens and suicide?"
+      },
+      {
+        "storyId": "6c5dfb96ab81",
+        "headline": "Quoting Seth Larson",
+        "kicker": "ai",
+        "blurb": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware "
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "5182060943ab",
+        "headline": "The Logitech G29 Racing Wheel and Driving Force Shifter Bundle Drops to the Lowest Price Ever",
+        "kicker": "gaming"
+      },
+      {
+        "storyId": "f04d0221b13b",
+        "headline": "Waxahatchee Welcomes Child With Kevin Morby",
+        "kicker": "music"
+      },
+      {
+        "storyId": "29f3a8d7feab",
+        "headline": "Is TikTok’s Chinamaxxing trend good or bad for Asian Americans? - AsAmNews",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "ebaeec3e40cd",
+        "headline": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+        "kicker": "markets"
+      },
+      {
+        "storyId": "dedc5a4790cf",
+        "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "kicker": "news"
+      },
+      {
+        "storyId": "f99143193dc4",
+        "headline": "Burnham tells Swinney independence is 'off limits' at Glasgow Commonwealth Games meeting",
+        "kicker": "news"
+      },
+      {
+        "storyId": "16c6a00a2cb6",
+        "headline": "Ukraine's ousted defence minister insists on being reinstated",
+        "kicker": "news"
+      },
+      {
+        "storyId": "d83a7bc30111",
+        "headline": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-23T18:47:04.297Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 64773,
+        "changePct": -1.51
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1878.53,
+        "changePct": -2.46
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "29f3a8d7feab",
+          "headline": "Is TikTok’s Chinamaxxing trend good or bad for Asian Americans? - AsAmNews",
+          "blurb": "Is TikTok’s Chinamaxxing trend good or bad for Asian Americans? AsAmNews",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDJIX2Y4dXNmVmhnZkdOSC1xWHN4bE1VWlZLOHduUkhIeDJSRlVnZU1POHVwTDhNUzNjX2tnajI3R2diUkFRaVFrWGI0ZHBrRVZmajBmNTZqR1BmWU92dEdnVmZONGtTZk4weHI2UG5OZWxOS2VuV0U4eDRxWk1LOVJjMGZ4UjFGYXU3NHRWcm9ZQQ?oc=5",
+          "publishedAt": "2026-07-23T17:45:07.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "984cb3ef63e1",
+          "headline": "TikTok Reacts to Don Lemon, and Hunter Biden’s Viral Interview - The Root",
+          "blurb": "TikTok Reacts to Don Lemon, and Hunter Biden’s Viral Interview The Root",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY1VQLXNRMzZkRElzNy0tWmE4UWQ1X1JFbG9GVEZmVERrRlJHOFFzQ2JzcGY1SnBSM3hxbmpBUnZKTU9ZeF9yX1hmMldVbUt4a2J4NDc0cXhoMnFkbFl2U0hsN3k1RHhxdHZnZ0VZRVdBa2tlcTdXU3FfNlNRS2tNV2ZPX216Tkd2VEZ6REtyeVV3Zlk?oc=5",
+          "publishedAt": "2026-07-23T16:39:35.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "c576aa918551",
+          "headline": "Jordan Seaton's Girlfriend Deletes Viral Video After LSU Football Star Reveals Who Purchased $20K Goyard Bags - BroBible",
+          "blurb": "Jordan Seaton's Girlfriend Deletes Viral Video After LSU Football Star Reveals Who Purchased $20K Goyard Bags BroBible",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUJqYW1ZSF91cy1GaDVZZnNkX3RaX25oNWx6Rjl6R2dBZE1JdDBqdVFmTlBzam9WbGpJUm1PdDdNOG82T0hQZDR1ZldKek5hRS1yMnVSazVuT2tnTjlPcWdKc25jWWozWnc1TDdBZmxXMW5WZ1dWMWpPMmZfZ2dTLUxwUWtZX1llcl91NFl3T1BPb2Zob2RISjBKRU95ODJGdU9OVmdndDU5aUxmT2JEWEtNM1BoMGdjaVE?oc=5",
+          "publishedAt": "2026-07-23T16:31:05.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "75ff4505c2b5",
+          "headline": "Trying Out A TikTok Beauty Trend - WWLTV.com",
+          "blurb": "Trying Out A TikTok Beauty Trend WWLTV.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcnhLOTZqc2NtdFgwdURqajQyUzN4YzQ3V3d2YXlsVGg2SUk0U21xYzhCWk9wNnVtRi1oY2JpQkl2dXQyR1NLT1o1VjIza1l5VEdXZ3NLejJOdUR6eXV3d1F1bnA2emVBR0s2Mk5wa1NEaUp2cjRpTEdveVEzWVJrUkR1R0gxMEg0b0Q5bmR4aFFFdkVpVlNMMUJGcTFBYkNhUGxkRW15YzVyalZaZVV5M1hBRkFySVcwdXlhbU1MbFZ1TExydU9zaDBQQmdXblQ4dDgxNFdnZVVtWHNkRlJ6eHoxRzJvQ2NZMTZj?oc=5",
+          "publishedAt": "2026-07-23T15:20:00.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "903aa314dac2",
+          "headline": "There’s a TikTok teen prank making adults end friendships over it - Totally The Bomb",
+          "blurb": "There’s a TikTok teen prank making adults end friendships over it Totally The Bomb",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95Tm84NVF3cHJEY3JtYTBFUEdZVEV0anZDaTZQNVc0MFlYMFlBT0FCRHlVX2hySV9TMmg5QlJCU3h6OThVU01IeVRFMkMxNndHNERNaTNBOC0zRzRCOHZRdWlFaWJ6ZDgycXRrYWZwSTRpUGFtUU5rSkgzSGV2UQ?oc=5",
+          "publishedAt": "2026-07-23T14:59:22.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "9bf36960bfce",
+          "headline": "Women on TikTok are exposing a relatable fashion dilemma - Indy100",
+          "blurb": "Women on TikTok are exposing a relatable fashion dilemma Indy100",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qUUtJUlZldW1LVWluRVNFTnFHYkNsR2xkdXlrZ2FreHg2ZS02d3dFWFQ5RWdLUGhRR1d6Z0pLbUs4TW84TnBpTXpsbmhrNTI4c3llWkp1S1JYUkI2WFV6WDc3RnZFOXc1ZUE?oc=5",
+          "publishedAt": "2026-07-23T14:40:58.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Neural Recharge (0.1hz Coherence & Alpha 8hz (Monaural Beats)); 2. Shushy🇸🇧🇵🇬 (prodshushy); 3. echoarchive (echoarchive.music); 4. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-23T18:47:05.188Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "61aed3c83fd8",
+          "headline": "Viral TikTok explains why it’s OK for adult kids to go ‘no contact’ with their parents - Motherly",
+          "blurb": "Viral TikTok explains why it’s OK for adult kids to go ‘no contact’ with their parents Motherly",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RQ1FjbzlPczRuNEFpZnd6QU92STdCRnVuSWZ5ZFR6M1d4aVdmWUU3SlI4akFfcWtXTU5hbVYwTHNfMng3RXR4cmNaNGxWaDNRbll2MTV2OXlTNlRWRjRQUGhMN3JRanZxaFNVN2NoUktQV2F5WXp3?oc=5",
+          "publishedAt": "2026-07-23T13:31:21.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "13c70694c328",
+          "headline": "2026 NBA buzz: Latest free agency and trade updates",
+          "blurb": "We're tracking deals, trades and buzz across the NBA, including the latest on rookies at summer league and offseason free agency.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+          "publishedAt": "2026-07-23T18:41:43.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2025/1225/r1593426_608x342_16-9.jpg"
+        },
+        {
+          "id": "3c3bddec618a",
+          "headline": "Schefter: Cousins the favorite to start over Mendoza for Raiders",
+          "blurb": "Schefter: Cousins the favorite to start over Mendoza for Raiders",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/video/clip/_/id/49434330/cousins-favorite-start-mendoza-raiders",
+          "publishedAt": "2026-07-23T18:18:03.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0723/ss_20260723_141106532_3601460852/ss_20260723_141106532_3601460852.jpg"
+        },
+        {
+          "id": "fa52db5a7af9",
+          "headline": "Raiders sign No. 1 pick Fernando Mendoza to rookie contract",
+          "blurb": "The Raiders have signed No. 1 pick Fernando Mendoza to his four-year, $57.27 million fully guaranteed contract with a fifth-year option.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49433918/raiders-sign-no-1-pick-fernando-mendoza-rookie-contract",
+          "publishedAt": "2026-07-23T18:17:32.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0723/r1692866_1296x729_16-9.jpg"
+        },
+        {
+          "id": "4d27431a939f",
+          "headline": "2026 MLB trade deadline tracker: Rumors, news, analysis",
+          "blurb": "Which contenders will make the biggest splash? Here's what we're hearing as 6 p.m. ET on Aug. 3 approaches.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49410877/2026-mlb-trade-deadline-tracker-rumors-alerts-news-latest-updates-analysis",
+          "publishedAt": "2026-07-23T17:33:42.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0723/r1691797_608x342_16-9.jpg"
+        },
+        {
+          "id": "025dd398474e",
+          "headline": "What we've learned about all 30 NBA teams this offseason",
+          "blurb": "There are lessons to be taken from every team's moves in the summer of 2026, big and small, and we break them all down.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/49425930/what-learned-all-30-nba-teams-offseason",
+          "publishedAt": "2026-07-23T17:10:47.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0716/r1690214_608x342_16-9.jpg"
+        },
+        {
+          "id": "d742600d649b",
+          "headline": "Andrew Hawkins lays out concerns for Tyreek Hill's future",
+          "blurb": "Andrew Hawkins lays out concerns for Tyreek Hill's future",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/video/clip/_/id/49433796/andrew-hawkins-lays-concerns-tyreek-hill-future",
+          "publishedAt": "2026-07-23T16:56:21.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0723/ss_20260723_124807533_3601378772/ss_20260723_124807533_3601378772.jpg"
+        },
+        {
+          "id": "b394009800ee",
+          "headline": "Panthers' Scourton carted off with knee injury on 1st day of camp",
+          "blurb": "Panthers second-year outside linebacker Nic Scourton was carted off the practice field with an injury to his right knee during the team's first day of training camp Thursday.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49433276/panthers-scourton-carted-knee-injury-1st-day-camp",
+          "publishedAt": "2026-07-23T16:54:35.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0723/r1692835_1296x729_16-9.jpg"
+        },
+        {
+          "id": "cf70969fad6d",
+          "headline": "As training camp opens, Chiefs point to brighter future in 2026",
+          "blurb": "Kansas City's veterans have vowed to keep the disappointment of the 2025 season in mind.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49433361/nfl-training-camp-2026-kansas-city-chiefs-patrick-mahomes-chris-jones-2026-season",
+          "publishedAt": "2026-07-23T16:26:50.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0723/r1692843_608x342_16-9.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "6c5dfb96ab81",
+          "headline": "Quoting Seth Larson",
+          "blurb": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/23/seth-larson/",
+          "publishedAt": "2026-07-23T04:50:36.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "a9bf517c759a",
+          "headline": "I think you might be fooling yourself with AI",
+          "blurb": "72 points, 134 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
+          "publishedAt": "2026-07-23T14:05:43Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "c75d5dead715",
+          "headline": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+          "blurb": "240 points, 246 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+          "publishedAt": "2026-07-23T13:10:02Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "3f0b74152ce2",
+          "headline": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+          "blurb": "255 points, 293 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+          "publishedAt": "2026-07-23T13:00:03Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "d1756e9f09fe",
+          "headline": "Understanding the AI Economy",
+          "blurb": "71 points, 133 comments on Hacker News",
+          "source": "HN · AI",
+          "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+          "publishedAt": "2026-07-23T12:11:05Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "7569338ee0d3",
+          "headline": "Launching Health in ChatGPT",
+          "blurb": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "publishedAt": "2026-07-23T00:00:00.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "76dc7b236710",
+          "headline": "Quoting Thomas Ptacek",
+          "blurb": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. — Thomas Ptacek , doesn't think this even needs a frontier model Tags: thomas-ptacek , openai , security , generative-ai , ai-security-research , ai ,",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/",
+          "publishedAt": "2026-07-22T23:59:01.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "39f65b2ea8ea",
+          "headline": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "blurb": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers. Along the way it helped make the strongest case yet for ho",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+          "publishedAt": "2026-07-22T23:51:33.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "bc41525d406c",
+          "headline": "Burnham pauses plan to release some prisoners early from September",
+          "blurb": "The prime minister says no prisoners will be released until a review has been conducted.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T18:17:54.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e5/live/0bdad990-869f-11f1-ae19-73b13bb6cb86.jpg"
+        },
+        {
+          "id": "dedc5a4790cf",
+          "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "blurb": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T17:58:02.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc91/live/5ef4e380-86a1-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "f99143193dc4",
+          "headline": "Burnham tells Swinney independence is 'off limits' at Glasgow Commonwealth Games meeting",
+          "blurb": "The heads of the UK, Scottish and Welsh governments came together ahead of the opening of the Glasgow Commonwealth Games.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8xnq7qyr7ro?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T17:49:23.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ff/live/0157e6a0-86b0-11f1-a0b6-435e4178a497.jpg"
+        },
+        {
+          "id": "16c6a00a2cb6",
+          "headline": "Ukraine's ousted defence minister insists on being reinstated",
+          "blurb": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T17:37:59.000Z",
+          "importance": 56,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg"
+        },
+        {
+          "id": "d83a7bc30111",
+          "headline": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+          "blurb": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
+          "publishedAt": "2026-07-23T17:35:02.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "4e23ac16bfc3",
+          "headline": "Google and Tesla shares plunge as AI spending rattles markets",
+          "blurb": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T17:25:10.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"
+        },
+        {
+          "id": "994677873414",
+          "headline": "Mum and daughter who died at beach were trying to save boy, 7",
+          "blurb": "Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T17:23:21.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0013/live/3408c450-86ad-11f1-8e17-395fea5a1d61.png"
+        },
+        {
+          "id": "72c9532ddf72",
+          "headline": "ChatGPT medical advice brought man 'to brink of death', lawsuit alleges",
+          "blurb": "An American man sues OpenAI and its founder Sam Altman, claiming the popular chatbot \"repeatedly misdiagnosed\" him.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwylp3nxp5yo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T17:20:06.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/195d/live/0ea96840-86b2-11f1-bb58-d3ffca85db6d.jpg"
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "e74d7847d789",
+          "headline": "What's going on with the AI chatbot lawsuits involving teens and suicide?",
+          "blurb": "What's going on with the AI chatbot lawsuits involving teens and suicide?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v4kj0z/whats_going_on_with_the_ai_chatbot_lawsuits/",
+          "publishedAt": "2026-07-23T17:26:16.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "304ad697b41c",
+          "headline": "What's going on with the investigation of the death of Nolan Wells?",
+          "blurb": "What's going on with the investigation of the death of Nolan Wells?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v4h7gg/whats_going_on_with_the_investigation_of_the/",
+          "publishedAt": "2026-07-23T15:29:47.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "4b4a131a2458",
+          "headline": "what is going on with the student protests in india?",
+          "blurb": "what is going on with the student protests in india?",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v4h1ll/what_is_going_on_with_the_student_protests_in/",
+          "publishedAt": "2026-07-23T15:23:56.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "bfe51f131811",
+          "headline": "What’s going on with PlayStation deciding to end physical discs (and the consumer backlash?)",
+          "blurb": "What’s going on with PlayStation deciding to end physical discs (and the consumer backlash?)",
+          "source": "r/OutOfTheLoop",
+          "url": "https://www.reddit.com/r/OutOfTheLoop/comments/1v4f09g/whats_going_on_with_playstation_deciding_to_end/",
+          "publishedAt": "2026-07-23T14:08:48.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "a355fdff5b66",
+          "headline": "What Does \"Slime\" Mean? Internet Slang Explained",
+          "blurb": "Slime, often used in phrases such as \"got slimed out\" or similar, is an internet slang term derived from African American Vernacular English, or AAVE. The term, which initially spread amongst black communities in the late 2010s, saw a significant increase in use across various social media platforms such as TikTok around 2021 as it became increasingly appropriated. Once menacing, the terms \"slime\"",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/slime-slang",
+          "publishedAt": "2026-07-23T18:24:55.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "d8ceb07254b0",
+          "headline": "The 'Messi Nod' Is Being Used As A Promise Of Vengeance Across Social Media",
+          "blurb": "Messi Nod is a series of memes based on a video of footballer Lionel Messi nodding and saying what looks like, \"Okay,\" or, \"Good,\" to another player during a match between Argentina and England in the 2026 FIFA World Cup semifinals. The match was played on July 15th, 2026, and Argentina won. The nod became the subject of memes as early as July 16th. As a meme, the video of Messi nodding is used in",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/messi-nod",
+          "publishedAt": "2026-07-23T17:51:18.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "1722a8fbc7fc",
+          "headline": "The 'Tarps Off' Trend Becomes The Latest Sports Craze After Sweeping The MLB",
+          "blurb": "The Tarps Off Trend is a live sports trend in which a group of fans at a stadium remove their shirts and wave them above their heads in a circular motion, similar to \"rally towels,\" to hype up their teams and get rowdy. The trend is typically performed by men going shirtless and twirling their shirts over their heads, but is also sometimes performed by women and other attendees without going shirt",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/tarps-off-trend",
+          "publishedAt": "2026-07-23T17:41:32.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "4979685092e8",
+          "headline": "Lil Baby's Tendency To Pop Up Out Of Nowhere Becomes The Center Of A Viral TikTok Meme Trend",
+          "blurb": "Lil Baby Coming Out Of Nowhere is a meme trend based on the perception that rapper Lil Baby tends to pop up \"out of nowhere\" in music videos. The most prominent example is the music video for \"Finesse Out The Gang Way\" by Lil Durk, in which he comes out of a vault and unzips a full-zip hoodie to reveal himself. The meme first appeared on TikTok in late June 2026. It was further popularized in late",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/lil-baby-coming-out-of-nowhere",
+          "publishedAt": "2026-07-23T15:48:02.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "markets",
+      "title": "Markets",
+      "stories": [
+        {
+          "id": "ebaeec3e40cd",
+          "headline": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+          "blurb": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+          "source": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+          "publishedAt": "2026-07-22T16:57:55.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "3a0592e4df4a",
+          "headline": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+          "blurb": "The latest tariff salvo underscored Trump's goal of reshoring low-cost drug production, but displacing established suppliers like India won't be easy.",
+          "source": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+          "publishedAt": "2026-07-22T06:28:08.000Z",
+          "importance": 72,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "5182060943ab",
+          "headline": "The Logitech G29 Racing Wheel and Driving Force Shifter Bundle Drops to the Lowest Price Ever",
+          "blurb": "Elevate your Forza Horizon 6 or Gran Turismo 7 gaming experience.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/logitech-g29-racing-wheel-deal-with-driving-force-shifter-july-2026",
+          "publishedAt": "2026-07-23T18:40:00.000Z",
+          "importance": 80,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/23/logitechg29-1784830789727.jpg"
+        },
+        {
+          "id": "4469a92155cd",
+          "headline": "Save 50% Off Anker's Newly Released SOLIX S2000 2,048Wh 2,400W LiFePO4 Power Station",
+          "blurb": "Anker's lightest ever 2kWh power station with 96% efficiency, 6W power draw, and 10ms UPS switchover.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/new-release-anker-solix-s2000-lifepo4-power-station-deal-july-2026",
+          "publishedAt": "2026-07-23T18:25:00.000Z",
+          "importance": 72,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/09/ankersolixs2000-1783624894528.jpg"
+        },
+        {
+          "id": "0284e3ba35af",
+          "headline": "New post-apocalyptic Gundam anime announced at Comic-Con",
+          "blurb": "Mobile Suit Gundam RG XARX-ZERO is a new anime that will tie into the recently announced game Gundam Rogue Orbit.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/new-gundam-anime-announced-mobile-suit-gundam-rg-xarx-zero-2027/",
+          "publishedAt": "2026-07-23T18:15:11.000Z",
+          "importance": 64,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/gundam-rg-teaser-1-resized.jpg"
+        },
+        {
+          "id": "401af894acbe",
+          "headline": "Disney announces Percy Jackson season 3 release date",
+          "blurb": "The Disney Plus show will adapt Rick Riordan's novel, The Titan's Curse, later this year",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/percy-jackson-and-the-olympians-san-diego-comic-con-season-3-titans-curse-release-date/",
+          "publishedAt": "2026-07-23T18:14:11.000Z",
+          "importance": 56,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25256433/165548_7396_v1_68842d93.jpeg"
+        },
+        {
+          "id": "ef80036db9f3",
+          "headline": "The $1,800 Power Lift Recliner and Massage Chair Drops to $350 at Wayfair After a Massive 80% Discount",
+          "blurb": "A chair you don't want to get it out of, even if it's designed to help you do so.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/wayfair-power-lift-recliner-and-massage-chair-deal-july-2026",
+          "publishedAt": "2026-07-23T18:10:00.000Z",
+          "importance": 48,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/23/wayfair-1784829964534.jpg"
+        },
+        {
+          "id": "4c794995d3a6",
+          "headline": "LEGO Announces Star Trek: U.S.S. Enterprise NCC-1701 Bridge Set, Now Up for Preorder",
+          "blurb": "LEGO has announced a new Star Trek: U.S.S. Enterprise NCC-1701 Bridge set, coming in September.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/lego-star-trek-uss-enterprise-ncc-1701-bridge-set-where-to-buy",
+          "publishedAt": "2026-07-23T18:05:27.000Z",
+          "importance": 40,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/23/lego-star-trek-blogroll-1784828626134.jpg"
+        },
+        {
+          "id": "199658cb1ecd",
+          "headline": "HBO's new superhero show from the creator of Watchmen officially arrives in 3 weeks",
+          "blurb": "The DC Universe show Lanterns follows Hal Jordan and John Stewart as they investigate a murder in a small Nebraska town.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/lanterns-hbo-damon-lindelof-premiere-release-date/",
+          "publishedAt": "2026-07-23T18:00:12.000Z",
+          "importance": 32,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19442152/Screen_Shot_2019_12_08_at_10.23.57_PM.png"
+        },
+        {
+          "id": "e162a0cf9771",
+          "headline": "The epic Christopher Nolan failed to make is now a #1 global streaming hit",
+          "blurb": "The gods were right to steer Nolan's ship in the Batman direction in 2004",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/epic-christopher-nolan-odyssey-streaming-hit-troy/",
+          "publishedAt": "2026-07-23T17:41:13.000Z",
+          "importance": 24,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/troy.jpeg"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "f04d0221b13b",
+          "headline": "Waxahatchee Welcomes Child With Kevin Morby",
+          "blurb": "The indie rock couple shared the news on Substack",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/waxahatchee-welcomes-child-with-kevin-morby/",
+          "publishedAt": "2026-07-23T17:49:39.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a62531fee03086d8ecea296/master/pass/9ec3e1ec-518e-4904-8f77-fe0ecae64a5d_5712x4284.jpeg"
+        },
+        {
+          "id": "4703484d88c3",
+          "headline": "Listen to Chad Hugo’s First Solo Single Featuring Tierra Whack and Leikeli47",
+          "blurb": "The song’s sci-fi music video sees the producer and Philly rapper dance through an apocalyptic planet",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/watch-chad-hugo-and-tierra-whack-dance-through-an-apocalyptic-planet/",
+          "publishedAt": "2026-07-23T16:42:51.000Z",
+          "importance": 72,
+          "imageUrl": "https://media.pitchfork.com/photos/6a623bd4f90654ad37042914/master/pass/unnamed%20(42).jpg"
+        },
+        {
+          "id": "f7f1cc0fd61c",
+          "headline": "The Avalanches and Karen O Share New Single",
+          "blurb": "“Blue Shadows” poses the age-old question: “Does anybody know how to mend a broken heart?\"",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/the-avalanches-and-karen-o-share-new-single/",
+          "publishedAt": "2026-07-23T16:42:32.000Z",
+          "importance": 64,
+          "imageUrl": "https://media.pitchfork.com/photos/6a623e5da2b2588731565b13/master/pass/The-Avalanches-Karen-O.jpeg"
+        },
+        {
+          "id": "14e57d02244e",
+          "headline": "Teenage Fanclub Announce New Album Do Not Dare to Dream",
+          "blurb": "The band recorded it on the remote island of Great Bernera",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/teenage-fanclub-announce-new-album-do-not-dare-to-dream/",
+          "publishedAt": "2026-07-23T16:07:47.000Z",
+          "importance": 56,
+          "imageUrl": "https://media.pitchfork.com/photos/6a623115aa791c7d041ed8be/master/pass/unnamed%20-%202026-07-23T105538.631.jpg"
+        },
+        {
+          "id": "e9ed8d8e60a9",
+          "headline": "Fuji Rock 2026 Livestream Schedule and Details",
+          "blurb": "Find out when to stream sets by the xx, Mitski, Turnstile, and many more",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/fuji-rock-2026-livestream-schedule-and-details/",
+          "publishedAt": "2026-07-23T15:42:48.000Z",
+          "importance": 48,
+          "imageUrl": "https://media.pitchfork.com/photos/6a623390563fca3e7f25431f/master/pass/fuji-rock-livestream.jpg"
+        },
+        {
+          "id": "134e6b59416a",
+          "headline": "Listen to an Unvaulted John Prine Song From Archival Album Found Dogs",
+          "blurb": "Five unearthed songs and several alternate versions comprise the LP, celebrating the 30th anniversary of Lost Dogs & Mixed Blessings",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/listen-to-an-unvaulted-john-prine-song-from-archival-album-found-dogs/",
+          "publishedAt": "2026-07-23T15:25:32.000Z",
+          "importance": 40,
+          "imageUrl": "https://media.pitchfork.com/photos/6a623222079de22746cd135c/master/pass/John_Prine_-_Photo_by_Rett_Rogers.jpg"
+        },
+        {
+          "id": "8c6dccee4760",
+          "headline": "Stef Chura Recruits Peter Buck, Mike Mills for New Album",
+          "blurb": "Dancing Alone on the Concrete is out October 2 on Saddle Creek",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/stef-chura-recruits-peter-buck-mike-mills-for-new-album/",
+          "publishedAt": "2026-07-23T14:22:47.000Z",
+          "importance": 32,
+          "imageUrl": "https://media.pitchfork.com/photos/6a621c42f90654ad370425d5/master/pass/unnamed%20-%202026-07-23T095047.233.jpg"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Lil Baby – Dead Fresh; 2. Ella Langley – Choosin' Texas; 3. Drake – Janice STFU; 4. Ella Langley – Be Her; 5. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 6. Drake – Shabang; 7. Olivia Rodrigo – stupid song; 8. Morgan Wallen – 20 Cigarettes; 9. Yung Miami – Spend Dat; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Ariana Grande – hate that i made you love me; 12. Morgan Wal",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-23T18:47:05.734Z",
+          "importance": 24,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "23f0b49fe5ef",
+          "headline": "Building on ATProto",
+          "blurb": "13 points, 0 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://lukekanies.com/writing/building-on-atproto/",
+          "publishedAt": "2026-07-23T18:23:50Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "5a4b5ca7efc3",
+          "headline": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "blurb": "14 points, 12 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "publishedAt": "2026-07-23T17:06:22Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "2ffe80c9e615",
+          "headline": "What happened to TheNumbers.com",
+          "blurb": "114 points, 28 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "publishedAt": "2026-07-23T16:53:33Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "fc6c32a13bee",
+          "headline": "The arguments against open source AI are bad",
+          "blurb": "54 points, 27 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+          "publishedAt": "2026-07-23T16:49:57Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "66f28115f44e",
+          "headline": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+          "blurb": "26 points, 21 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49024620",
+          "publishedAt": "2026-07-23T16:48:38Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "ddd369c81268",
+          "headline": "JEP 540: Simple JSON API (Now in Incubator)",
+          "blurb": "56 points, 40 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://openjdk.org/jeps/540",
+          "publishedAt": "2026-07-23T16:01:02Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "92a44cdd69ed",
+          "headline": "Free way to get your data out of ChatGPT Business accounts",
+          "blurb": "47 points, 4 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://github.com/Conradqh/scrapemychats",
+          "publishedAt": "2026-07-23T15:45:51Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "11b62d30a274",
+          "headline": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+          "blurb": "37 points, 15 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://github.com/onecli/onecli",
+          "publishedAt": "2026-07-23T15:42:40Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 249
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 831
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 240
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 34
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1049
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 7
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 28
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": true,
+      "items": 25
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 429 for https://www.reddit.com/r/Games/top/.rss?t=day"
+    }
+  ]
+}
