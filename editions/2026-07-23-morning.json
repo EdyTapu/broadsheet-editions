@@ -1,0 +1,993 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-07-23-morning",
+  "date": "2026-07-23",
+  "slot": "morning",
+  "slotTitle": "Morning Edition",
+  "generatedAt": "2026-07-23T13:05:01.352Z",
+  "editorial": "fallback",
+  "masthead": {
+    "tagline": "The morning edition, assembled without its editor.",
+    "weather": {
+      "tempF": 77,
+      "condition": "clear",
+      "highF": 89,
+      "lowF": 74,
+      "precipPct": 22
+    }
+  },
+  "frontPage": {
+    "lead": {
+      "storyId": "a0afbebc2daf",
+      "headline": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
+      "kicker": "news",
+      "blurb": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack."
+    },
+    "secondaries": [
+      {
+        "storyId": "d1756e9f09fe",
+        "headline": "Understanding the AI Economy",
+        "kicker": "tech",
+        "blurb": "49 points, 44 comments on Hacker News"
+      },
+      {
+        "storyId": "6c5dfb96ab81",
+        "headline": "Quoting Seth Larson",
+        "kicker": "ai",
+        "blurb": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware "
+      },
+      {
+        "storyId": "b4f6856f2224",
+        "headline": "Fantasy baseball: Bobby Witt Jr. to the IL and other Thursday news",
+        "kicker": "sports",
+        "blurb": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news."
+      },
+      {
+        "storyId": "d2e430e9d60e",
+        "headline": "Nintendo & Lego unveil Donkey new Kong set with official pics",
+        "kicker": "gaming",
+        "blurb": "Lego Donkey Kong is coming this August, Nintendo and Lego announced, confirming the next retro set collaboration."
+      }
+    ],
+    "briefs": [
+      {
+        "storyId": "8ad996cec5b1",
+        "headline": "Watch the First Trailer for Pulp’s New Film What Do You Do for an Encore?",
+        "kicker": "music"
+      },
+      {
+        "storyId": "55b2b5c4f409",
+        "headline": "I Tried TikTok’s Viral Espresso Lemonade—and I Can’t Believe It Actually Works - parade.com",
+        "kicker": "tiktok"
+      },
+      {
+        "storyId": "694ea6f1119d",
+        "headline": "Where Did This Tik To Sound Come From? IYO Meme Explained",
+        "kicker": "internet"
+      },
+      {
+        "storyId": "ebaeec3e40cd",
+        "headline": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+        "kicker": "markets"
+      },
+      {
+        "storyId": "557e14aee923",
+        "headline": "Liquor store employee narrowly escapes leopard attack",
+        "kicker": "news"
+      },
+      {
+        "storyId": "50ce77d56d16",
+        "headline": "Norway consider complaint over Balogun ban decision",
+        "kicker": "news"
+      },
+      {
+        "storyId": "4022c37b9624",
+        "headline": "Get into med school in the graphic memoir 'See One, Do One, Teach One'",
+        "kicker": "news"
+      },
+      {
+        "storyId": "4b0254fc4f1c",
+        "headline": "Johnson-Thompson and Asher-Smith out of Commonwealths",
+        "kicker": "news"
+      }
+    ]
+  },
+  "markets": {
+    "asOf": "2026-07-23T13:05:01.352Z",
+    "tickers": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "price": 65168,
+        "changePct": -0.64
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "price": 1904.26,
+        "changePct": -0.7
+      }
+    ],
+    "note": "Ticker data below; the editor was unavailable for commentary."
+  },
+  "sections": [
+    {
+      "category": "tiktok",
+      "title": "TikTok Trends",
+      "stories": [
+        {
+          "id": "55b2b5c4f409",
+          "headline": "I Tried TikTok’s Viral Espresso Lemonade—and I Can’t Believe It Actually Works - parade.com",
+          "blurb": "I Tried TikTok’s Viral Espresso Lemonade—and I Can’t Believe It Actually Works parade.com",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6M3A2blJZS3dGNTd1NlRJMmRUM2ltZWRDZ2dpeVFqVzJKa2djTDJ1Tlk0N0pvdXlVV290RFZ3a0ZSZlRqMkNFUXlZNk1wLUQwM0tZRGxyZkM5WF9Gc1ZPWlBSVHRRdw?oc=5",
+          "publishedAt": "2026-07-23T12:17:00.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "f384a167f0be",
+          "headline": "Georgia Department of Corrections says viral TikTok video of flooded cell is fake - WRDW",
+          "blurb": "Georgia Department of Corrections says viral TikTok video of flooded cell is fake WRDW",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3pacG1QZ2tWYXpZWUpYa2I0aFlxYzhkR2xLQl9fX2tYT0VvVnFiNnBTRVNJcHdOTWdHY29JVEJsMUtfekJncWd5b3BmYXRuRlVOVXluRkhkbWFiT0RxYW94MGctOWFVOWFCWF9MMk1xVjFHOU1pMlJsQksxaWxFNUc3Z1FhX0sweEVHbWQyNXlQXzlMLTFpTTB6OUx3SktCUVljY1ZsRlluUmVH0gHAAUFVX3lxTE9zNlRQY0Zya1ROaDBvcUlzWkhiN1p5WGJKbGl4VzVLbHpNZ0tFMEJWRTFSQXZWYjN3U2p5NWNFeXpTUDdQV3NBLTFWTHJ4YjBjODBTNktvVWVuaUZRNG1BaWVGaWdEZlNteVFSeVBwTUtXaHktMENKVU9jSEJabTk5c3F5dWZnYWI4YXhwUzhxQjlnM3psTjQ5S0VDQnJWcGd0cFlob2J5NXFuZGVvei1nOTRrR0t4VzBzbDBZemhvUA?oc=5",
+          "publishedAt": "2026-07-23T10:57:00.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "28c4f97f998e",
+          "headline": "Full list of quotes for TikTok’s ‘1000 Little Things’ trend, that’s based on old Tumblr blog - The Tab",
+          "blurb": "Full list of quotes for TikTok’s ‘1000 Little Things’ trend, that’s based on old Tumblr blog The Tab",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWxYN0h4ODk3XzlRUWNDb1NkX2tVSmdHSnJrRzRETWJqenFjbDRVZ3pxZ2NvQnNxamRxUGRoSHJmMktvSl8ya0lNNUFJckJCWW9xWG5IaXNKQkFnb0V5bjNWb2o2RmRTUHFmZGpmYzF1cDVIYkRhZGZFd3ZHQ09DZGh6YmlOdnBTWTNxZTczc1ZORDVpQXo1a1ZHR3F2QTZOeFoxc1FPWVN5MUpzMHNjbE9ZTGxBUmhU?oc=5",
+          "publishedAt": "2026-07-23T10:36:14.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "e16ede50400a",
+          "headline": "Trending TikTok sounds",
+          "blurb": "1. Neural Recharge (0.1hz Coherence & Alpha 8hz (Monaural Beats)); 2. Shushy🇸🇧🇵🇬 (prodshushy); 3. echoarchive (echoarchive.music); 4. 𝐂𝐊 𝐌𝐔𝐒𝐈𝐂 𖦤 (cksound2)",
+          "source": "Tokchart",
+          "url": "https://tokchart.com/",
+          "publishedAt": "2026-07-23T13:05:02.724Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "b7be1e323a10",
+          "headline": "TikTok Made Me Think About Everything I Wouldn’t Add to Cart - Good Things Guy",
+          "blurb": "TikTok Made Me Think About Everything I Wouldn’t Add to Cart Good Things Guy",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QMHlNWUJucWoybThfRjlYR2RLWUM4WEtkTlRwZlNSQjFDSklsZmYxeGtBWGJ1ZHliWGVUS2hIeTVSel9iMVpuRERXMkVKdW84RDNOdzVOTFRhNHhVZHk4TWxB?oc=5",
+          "publishedAt": "2026-07-23T06:00:22.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "dd6c6cff8f92",
+          "headline": "Baby Dolls revive Vhong Navarro’s movie songs into viral hits - Daily Tribune",
+          "blurb": "Baby Dolls revive Vhong Navarro’s movie songs into viral hits Daily Tribune",
+          "source": "Google News · TikTok",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2dTeEd6WHdWOUlna3lBRW01YTZPd1lERmI3X3BkcHZOcWxtZHhFMTVyR3ZCNzJUT1d3cXhKaWlIbHVUeUdVOUV0MlJCazFCSGQ5c1pUZGRBTFRIUnZXRXp5cC1DeEZDaHo0eFE2aklQejFjLU5rMlJPZ0I5LThscDZVWXdpLXp6ZHpOd0pFZk9yMWl0eGY0Q2hn?oc=5",
+          "publishedAt": "2026-07-23T05:26:21.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "c99957bcac69",
+          "headline": "Costco shoppers still have time to claim part of $14m lawsuit",
+          "blurb": "A number of Costco customers are still entitled to a part of a $14 million compensation payout, but you’ll have to act soon if you want to get your hands on it.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/costco-shoppers-still-have-time-to-claim-part-of-14m-lawsuit-3390511/",
+          "publishedAt": "2026-07-23T11:59:41.000Z",
+          "importance": 32,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/08/Costco-is-cutting-popular-Kirkland-Signature-item-after-two-years-and-fans-are-22bummed22.jpg?width=1080&quality=75&format=auto"
+        },
+        {
+          "id": "d80841c60403",
+          "headline": "Bear dies after getting stuck on utility pole as rescue deemed too risky",
+          "blurb": "A bear that got stranded on top of a utility pole in rural New Mexico has reportedly died after being electrocuted, bringing a tragic end to an incident that quickly went viral online.",
+          "source": "Dexerto",
+          "url": "https://www.dexerto.com/entertainment/bear-dies-after-getting-stuck-on-utility-pole-as-rescue-deemed-too-risky-3390499/",
+          "publishedAt": "2026-07-23T11:57:18.000Z",
+          "importance": 24,
+          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/23/bear-utility-pole-dies.jpg?width=1080&quality=75&format=auto"
+        }
+      ]
+    },
+    {
+      "category": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "b4f6856f2224",
+          "headline": "Fantasy baseball: Bobby Witt Jr. to the IL and other Thursday news",
+          "blurb": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/fantasy/baseball/story/_/id/48297021/espn-fantasy-baseball-buzz-injuries-promotions-demotions-trades-prospects-lineup-changes-mlb-news-analysis-2026",
+          "publishedAt": "2026-07-23T12:40:22.000Z",
+          "importance": 80,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0723/r1692742_576x324_16-9.jpg"
+        },
+        {
+          "id": "58969627af85",
+          "headline": "How good are the Chiefs without a healthy Patrick Mahomes?",
+          "blurb": "How good are the Chiefs without a healthy Patrick Mahomes?",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/video/clip/_/id/49431690/how-good-chiefs-healthy-patrick-mahomes",
+          "publishedAt": "2026-07-23T12:30:10.000Z",
+          "importance": 72,
+          "imageUrl": "https://a.espncdn.com/media/motion/2026/0723/ss_20260723_082435677_3601085/ss_20260723_082435677_3601085.jpg"
+        },
+        {
+          "id": "4d27431a939f",
+          "headline": "2026 MLB trade deadline tracker: Rumors, news, analysis",
+          "blurb": "Which contenders will make the biggest splash? Here's what we're hearing as 6 p.m. ET on Aug. 3 approaches.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/49410877/2026-mlb-trade-deadline-tracker-rumors-alerts-news-latest-updates-analysis",
+          "publishedAt": "2026-07-23T12:06:05.000Z",
+          "importance": 64,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0720/r1691797_608x342_16-9.jpg"
+        },
+        {
+          "id": "13c70694c328",
+          "headline": "2026 NBA buzz: Latest free agency and trade updates",
+          "blurb": "We're tracking deals, trades and buzz across the NBA, including the latest on rookies at summer league and offseason free agency.",
+          "source": "ESPN NBA",
+          "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+          "publishedAt": "2026-07-23T11:54:00.000Z",
+          "importance": 56,
+          "imageUrl": "https://a.espncdn.com/photo/2025/1225/r1593426_608x342_16-9.jpg"
+        },
+        {
+          "id": "e525a292583d",
+          "headline": "Tyreek Hill posts workout video, says still 'no power' in leg",
+          "blurb": "Tyreek Hill posted a workout video in which he discussed his ongoing recovery from a dislocated knee and multiple ligament tears, saying he still has \"no power\" in his left leg.",
+          "source": "ESPN NFL",
+          "url": "https://www.espn.com/nfl/story/_/id/49431301/tyreek-hill-posts-workout-video-says-no-power-leg",
+          "publishedAt": "2026-07-23T11:45:36.000Z",
+          "importance": 48,
+          "imageUrl": "https://a.espncdn.com/photo/2025/0619/r1508481_1296x729_16-9.jpg"
+        },
+        {
+          "id": "914d292620fb",
+          "headline": "MLB betting tips for Thursday: Diamondbacks seek to remain road warriors",
+          "blurb": "All of the odds, recommended prop bets and trends in baseball for Thursday, July 23.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/espn/betting/story/_/id/49431100/mlb-betting-tips-odds-lines-2026-thursday-july-23",
+          "publishedAt": "2026-07-23T11:34:32.000Z",
+          "importance": 40,
+          "imageUrl": "https://a.espncdn.com/photo/2026/0723/r1692744_576x324_16-9.jpg"
+        },
+        {
+          "id": "1f5d67a2ea86",
+          "headline": "Fantasy baseball forecaster: Team hitting ratings",
+          "blurb": "Stay ahead of the game and optimize your fantasy baseball hitters with our forecaster, which provides a rolling 10-day outlook of every team's hitting matchups as well as the potential for stolen bases.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/fantasy/baseball/story/_/id/31165089/fantasy-baseball-forecaster-team-hitting-stolen-base-ratings-platoon-matchups-daily-weekly-leagues",
+          "publishedAt": "2026-07-23T11:34:07.000Z",
+          "importance": 32,
+          "imageUrl": "https://a.espncdn.com/photo/2022/0406/r996173_576x324_16-9.jpg"
+        },
+        {
+          "id": "203a81ff29a7",
+          "headline": "Fantasy baseball forecaster: Pitcher projections for the next 10 days",
+          "blurb": "Keep up to date on who is pitching -- and how well they're expected to do -- with our forecaster, which provides a rolling 10-day outlook of every team's probable starting pitchers with game score projections.",
+          "source": "ESPN MLB",
+          "url": "https://www.espn.com/fantasy/baseball/story/_/id/31165100/fantasy-baseball-forecaster-probable-starting-pitcher-projections-matchups-daily-weekly-leagues",
+          "publishedAt": "2026-07-23T11:33:53.000Z",
+          "importance": 24,
+          "imageUrl": "https://a.espncdn.com/photo/2025/0425/r1483869_576x324_16-9.jpg"
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "title": "Artificial Intelligence",
+      "stories": [
+        {
+          "id": "6c5dfb96ab81",
+          "headline": "Quoting Seth Larson",
+          "blurb": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/23/seth-larson/",
+          "publishedAt": "2026-07-23T04:50:36.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "76dc7b236710",
+          "headline": "Quoting Thomas Ptacek",
+          "blurb": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. — Thomas Ptacek , doesn't think this even needs a frontier model Tags: thomas-ptacek , openai , security , generative-ai , ai-security-research , ai ,",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/",
+          "publishedAt": "2026-07-22T23:59:01.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "39f65b2ea8ea",
+          "headline": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "blurb": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers. Along the way it helped make the strongest case yet for ho",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+          "publishedAt": "2026-07-22T23:51:33.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "9c1d584c771f",
+          "headline": "Are AI labs pelicanmaxxing?",
+          "blurb": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark . I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but ",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/",
+          "publishedAt": "2026-07-22T23:01:00.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "390b99b6b1f7",
+          "headline": "Orchestrions",
+          "blurb": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds you may well be the ONLY person activating the Orchestrions, which means you get to craft the soundscape for the entire museum. Tags: san-francisco",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/",
+          "publishedAt": "2026-07-22T14:48:52.000Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "bd6ce42035f5",
+          "headline": "Building AI infrastructure with the Effingham County community",
+          "blurb": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "publishedAt": "2026-07-22T13:00:00.000Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "130e23c4bd2f",
+          "headline": "How news organizations are using AI to advance their vital missions",
+          "blurb": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "publishedAt": "2026-07-22T13:00:00.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "fc3528d001b5",
+          "headline": "Advancing the next era of national science",
+          "blurb": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "publishedAt": "2026-07-22T12:00:00.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "news",
+      "title": "News & Politics",
+      "stories": [
+        {
+          "id": "a0afbebc2daf",
+          "headline": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
+          "blurb": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T12:51:36.000Z",
+          "importance": 80,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db06/live/4846a370-8684-11f1-b60e-a7e0943a9c78.jpg"
+        },
+        {
+          "id": "557e14aee923",
+          "headline": "Liquor store employee narrowly escapes leopard attack",
+          "blurb": "After nearly five hours, officials captured the animal and it was later released back into the wild, local authorities confirmed.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cly893zrjgdo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T12:49:55.000Z",
+          "importance": 72,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c70f/live/e83909d0-8694-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "50ce77d56d16",
+          "headline": "Norway consider complaint over Balogun ban decision",
+          "blurb": "The Norwegian Football Federation is considering filing a formal complaint to Fifa's ethics committee.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1l1vz4n484o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T12:43:30.000Z",
+          "importance": 64,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e89/live/41ca33b0-868c-11f1-a8a9-6d36c8f2857e.jpg"
+        },
+        {
+          "id": "4022c37b9624",
+          "headline": "Get into med school in the graphic memoir 'See One, Do One, Teach One'",
+          "blurb": "Grace Farris' book brings readers behind the med school scenes — documenting anxiety over loans, bouts of impostor syndrome, friendships forged in stress, and the ever-impossible work-life balance.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/07/23/nx-s1-5901975/med-school-graphic-memoir-grace-farris",
+          "publishedAt": "2026-07-23T12:36:29.000Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "4b0254fc4f1c",
+          "headline": "Johnson-Thompson and Asher-Smith out of Commonwealths",
+          "blurb": "Olympic silver medallist Katarina Johnson-Thompson pulls out of the Commonwealth Games because of injury.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/athletics/articles/crrv0nzq8wgo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T12:19:03.000Z",
+          "importance": 48,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cf/live/2b5a5600-868c-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "064b86ea421a",
+          "headline": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+          "blurb": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T12:18:36.000Z",
+          "importance": 40,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a6e/live/b0338440-8683-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "8f72c2cd2e4c",
+          "headline": "'I'm Mr Slim now' - Fury lighter than opponent for only fourth time",
+          "blurb": "Tyson Fury weighs less than his opponent for the first time in 15 years before Friday's heavyweight bout with Mariusz Wach.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/c20jg564ddeo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T12:17:56.000Z",
+          "importance": 32,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b717/live/021a8410-8694-11f1-9e03-bdd14c1ce63a.jpg"
+        },
+        {
+          "id": "85bd07a0469a",
+          "headline": "France evacuates 20,000 as wildfires spread in south-west",
+          "blurb": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-07-23T12:17:13.000Z",
+          "importance": 24,
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df8/live/48d08300-867b-11f1-8c77-df97511a6b05.jpg"
+        }
+      ]
+    },
+    {
+      "category": "internet",
+      "title": "Internet Culture",
+      "stories": [
+        {
+          "id": "694ea6f1119d",
+          "headline": "Where Did This Tik To Sound Come From? IYO Meme Explained",
+          "blurb": "Iyo, often capitalized as iyo, is a viral TikTok sound and nonsensical slang term originating from a Fortnite voice chat clip featuring various young-sounding players engaging in an increasingly heated exchange of trash talk. The audio includes the line, \"If you don't stop talking, I'mma get a little KK to drop a little JJ,\" followed by one of the players saying, \"Iyo,\" a distinctive pronunciation",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/iyo-tiktok-sound",
+          "publishedAt": "2026-07-22T21:24:11.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "6904b2f2f794",
+          "headline": "Twitter Is Obsessed Over The Look This Girl Gives In A Viral Foam Party Video",
+          "blurb": "Foam Party Girl or the Goddamnitdonut Look and Bounce Video, also known as the Ann K. Video, is a viral video of a girl at a foam party, purported to be Instagram user goddamnitdonut, aka Ann K., dancing and then giving an unseen person a flirtatious look before she continues dancing. The video went viral in late July 2026 on X / Twitter, inspiring discourse and memes about the look that she gives",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/foam-party-girl-goddamnitdonut-look-and-bounce-video",
+          "publishedAt": "2026-07-22T18:29:06.000Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "79004d1325f3",
+          "headline": "Internet Mocks Andrew Tate Arrest Outfit",
+          "blurb": "Andrew Tate Arrest Outfit, also known as the Andrew Tate Arrest Outfit Meme, refers to a series of memes and jokes mocking the clothing worn by manosphere podcaster and influencer Andrew Tate in photographs taken during his July 2026 arrest in Miami. The images showed Tate wearing a shiny, low-buttoned purple blouse-style shirt, tight cropped black pants and loafers, alongside accessories includin",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/andrew-tate-arrest-outfit",
+          "publishedAt": "2026-07-22T16:58:03.000Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "a6f3d91033db",
+          "headline": "The 'Marc Cucurella Cat' Meme Becomes One Of The Last Major World Cup Memes",
+          "blurb": "Marc Cucurella Cat, also known simply as the Cucurella Cat Meme, is a viral video and reaction image of a tabby cat sitting on a windowsill wearing a large black curly wig, resembling Spanish professional footballer and soccer star Marc Cucurella Saseta, who plays for the La Liga club Real Madrid and Spain's men's national team. The original video was posted to TikTok by user welcometolevush in ea",
+          "source": "Know Your Meme",
+          "url": "https://knowyourmeme.com/memes/marc-cucurella-cat",
+          "publishedAt": "2026-07-22T16:30:41.000Z",
+          "importance": 56,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "markets",
+      "title": "Markets",
+      "stories": [
+        {
+          "id": "ebaeec3e40cd",
+          "headline": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+          "blurb": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+          "source": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+          "publishedAt": "2026-07-22T16:57:55.000Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "3a0592e4df4a",
+          "headline": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+          "blurb": "The latest tariff salvo underscored Trump's goal of reshoring low-cost drug production, but displacing established suppliers like India won't be easy.",
+          "source": "CNBC Markets",
+          "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+          "publishedAt": "2026-07-22T06:28:08.000Z",
+          "importance": 72,
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "title": "Gaming",
+      "stories": [
+        {
+          "id": "d2e430e9d60e",
+          "headline": "Nintendo & Lego unveil Donkey new Kong set with official pics",
+          "blurb": "Lego Donkey Kong is coming this August, Nintendo and Lego announced, confirming the next retro set collaboration.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/lego-nintendo-donkey-kong-arcade-set-price-revealed/",
+          "publishedAt": "2026-07-23T13:03:37.000Z",
+          "importance": 80,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/72051_lifestyle_cons_02.jpg"
+        },
+        {
+          "id": "936af06136d3",
+          "headline": "Prime Video adds free games for millions of subscribers",
+          "blurb": "Amazon brings its lineup of games on Luna directly into Prime Video, following Netflix by letting Prime subscribers play Dispatch and EA Sports FC 26.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/prime-video-free-games-on-amazon-luna-cloud-gaming/",
+          "publishedAt": "2026-07-23T13:00:12.000Z",
+          "importance": 72,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/dispatch-review-2.jpg"
+        },
+        {
+          "id": "ee16f9fe2e2f",
+          "headline": "Motor City review: Alan Ritchson's near-perfect revenge thriller puts Netflix to shame",
+          "blurb": "Alan Ritchson's revenge thriller revives a style of visual storytelling that modern action movies have quietly left behind.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/motor-city-refuses-to-narrate-itselfand-its-better-for-it/",
+          "publishedAt": "2026-07-23T13:00:12.000Z",
+          "importance": 64,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/motor-city-still-6.jpg"
+        },
+        {
+          "id": "b511f4a2ab8b",
+          "headline": "Jon Bernthal reveals the difference between making Marvel movies and TV: 'I was blown away'",
+          "blurb": "The Punisher actor and Spider-Man: Brand New Day star reflects on shooting his first Marvel movie after a decade on streaming",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/jon-bernthal-interview-spider-man-brand-new-day/",
+          "publishedAt": "2026-07-23T12:30:11.000Z",
+          "importance": 56,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/punisher.jpg"
+        },
+        {
+          "id": "9afd15fbbfd5",
+          "headline": "Family Guy Spinoff Stewie Cast Includes Seth MacFarlane, Seth MacFarlane, and Kenan Thompson",
+          "blurb": "The cast of Family Guy spinoff Stewie has been announced, and it contains SNL stalwart Kenan Thompson, as well as several roles for Seth MacFarlane.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/family-guy-spinoff-stewie-cast-includes-seth-macfarlane-seth-macfarlane-and-kenan-thompson",
+          "publishedAt": "2026-07-23T12:07:21.000Z",
+          "importance": 48,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/07/23/mv5bzme3nmqymjytyjlhnc00nmmylwi2mtktotq3mzflnzixmzzjxkeyxkfqcgc-v1-fmjpg-ux1000-1784807727630.jpg"
+        },
+        {
+          "id": "6c7615193887",
+          "headline": "Avatar: Legends needs a fighting game crossover with James Cameron’s Avatar",
+          "blurb": "Avatar: Legends already plays like Marvel vs. Capcom, so its only logical sequel would pit Aang and Korra against Jake Sully and the Na’vi.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/avatar-legends-fighting-game-sequel-james-cameron-avatar/",
+          "publishedAt": "2026-07-23T12:00:12.000Z",
+          "importance": 40,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avatar-legends-the-fighting-game-key-art.png"
+        },
+        {
+          "id": "c18b96a26fc9",
+          "headline": "Pinocchio Unstrung Review",
+          "blurb": "Pinocchio Unstrung review: Wishing upon a star won’t save you from his wrath.",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/pinocchio-unstrung-review",
+          "publishedAt": "2026-07-23T12:00:00.000Z",
+          "importance": 32,
+          "imageUrl": "https://assets-prd.ignimgs.com/2026/03/02/pinothumb-1772488620901.png"
+        },
+        {
+          "id": "dcc0e9e80111",
+          "headline": "Latest Steam update makes it easier for your grandparents to give you games",
+          "blurb": "Wishlists and gifting have both been improved with the latest Steam update, so non-Steam users can buy and gift games directly.",
+          "source": "Polygon",
+          "url": "https://www.polygon.com/steam-update-wishlists-gifting-improvements/",
+          "publishedAt": "2026-07-23T11:55:13.000Z",
+          "importance": 24,
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/polygon-steam-stock-art-neon-alt.jpg"
+        }
+      ]
+    },
+    {
+      "category": "music",
+      "title": "Music & Culture",
+      "stories": [
+        {
+          "id": "8ad996cec5b1",
+          "headline": "Watch the First Trailer for Pulp’s New Film What Do You Do for an Encore?",
+          "blurb": "Part concert film, part career-spanning documentary, Garth Jennings’ feature comes to MUBI this fall",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/watch-the-first-trailer-for-pulps-new-film-what-do-you-do-for-an-encore/",
+          "publishedAt": "2026-07-23T13:00:00.000Z",
+          "importance": 80,
+          "imageUrl": "https://media.pitchfork.com/photos/6a60f3eb928f841aaafafcac/master/pass/pulp-film-trailer-Jarvis-Cocker.jpg"
+        },
+        {
+          "id": "97ed94b84ad9",
+          "headline": "Apple Music Top Songs (US)",
+          "blurb": "1. Lil Baby – Dead Fresh; 2. Ella Langley – Choosin' Texas; 3. Drake – Janice STFU; 4. Drake – Shabang; 5. Ella Langley – Be Her; 6. Ella Langley & Morgan Wallen – I Can't Love You Anymore; 7. Yung Miami – Spend Dat; 8. Olivia Rodrigo – stupid song; 9. Morgan Wallen – 20 Cigarettes; 10. Drake, Future & Molly Santana – Ran To Atlanta; 11. Olivia Rodrigo – the cure; 12. Mac Miller – Cinderella (feat",
+          "source": "Apple Music Top 25",
+          "url": "https://music.apple.com/us/room/6459306033",
+          "publishedAt": "2026-07-23T13:05:04.998Z",
+          "importance": 72,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/100x100bb.jpg"
+        }
+      ]
+    },
+    {
+      "category": "tech",
+      "title": "Technology",
+      "stories": [
+        {
+          "id": "d1756e9f09fe",
+          "headline": "Understanding the AI Economy",
+          "blurb": "49 points, 44 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+          "publishedAt": "2026-07-23T12:11:05Z",
+          "importance": 80,
+          "imageUrl": null
+        },
+        {
+          "id": "4c928fce5a4a",
+          "headline": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+          "blurb": "51 points, 43 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://frame.work/desktop?tab=192gb-coming-soon",
+          "publishedAt": "2026-07-23T11:09:48Z",
+          "importance": 72,
+          "imageUrl": null
+        },
+        {
+          "id": "6a82eb7ae5a6",
+          "headline": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
+          "blurb": "76 points, 48 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.worseonpurpose.com/",
+          "publishedAt": "2026-07-23T11:05:11Z",
+          "importance": 64,
+          "imageUrl": null
+        },
+        {
+          "id": "6c4d8d78c442",
+          "headline": "EU fines Google €890M for competition breaches over search and apps",
+          "blurb": "97 points, 96 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+          "publishedAt": "2026-07-23T10:07:22Z",
+          "importance": 56,
+          "imageUrl": null
+        },
+        {
+          "id": "51662456233a",
+          "headline": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+          "blurb": "88 points, 56 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+          "publishedAt": "2026-07-23T05:40:20Z",
+          "importance": 48,
+          "imageUrl": null
+        },
+        {
+          "id": "65b394a0bc33",
+          "headline": "Amiga 1000: Ten years ahead of its time",
+          "blurb": "113 points, 104 comments on Hacker News",
+          "source": "Hacker News",
+          "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+          "publishedAt": "2026-07-23T05:24:17Z",
+          "importance": 40,
+          "imageUrl": null
+        },
+        {
+          "id": "decd6df19f72",
+          "headline": "Google Fined $1 Billion by EU for Search Bias and App Store Restrictions",
+          "blurb": "Google was today fined €890 million ($1 billion) by the European Union for breaching antitrust rules with regard to its search and Google Play store services. The European Commission found that Google had broken the Digital Markets Act (DMA) by using its dominant position in the search market to favour its own services, like shopping and hotel deals, over those of rivals. The Commission also said ",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/23/google-fined-1-billion-by-eu/",
+          "publishedAt": "2026-07-23T12:39:27.000Z",
+          "importance": 32,
+          "imageUrl": null
+        },
+        {
+          "id": "79d4496f4b2c",
+          "headline": "Foldable iPhone Still Faces Production Hurdles, Report Says",
+          "blurb": "Apple's foldable iPhone still faces production hurdles that leave its exact launch timing undecided, according to a new report from DigiTimes , even as Foxconn carries out what supply chain sources describe as \"final mass-production adjustments.\" The report says Apple has assigned Foxconn to lead the device from new product introduction (NPI) through to mass production, citing the assembler's expe",
+          "source": "MacRumors",
+          "url": "https://www.macrumors.com/2026/07/23/foldable-iphone-still-faces-production-hurdles/",
+          "publishedAt": "2026-07-23T12:18:17.000Z",
+          "importance": 24,
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "sourceHealth": [
+    {
+      "source": "Alpha Vantage",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MacRumors",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "9to5Mac",
+      "category": "tech",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Import AI",
+      "category": "ai",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://importai.substack.com/feed"
+    },
+    {
+      "source": "Anthropic",
+      "category": "ai",
+      "ok": true,
+      "items": 248
+    },
+    {
+      "source": "Simon Willison",
+      "category": "ai",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Hugging Face",
+      "category": "ai",
+      "ok": true,
+      "items": 831
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "arXiv cs.AI",
+      "category": "ai",
+      "ok": true,
+      "items": 240
+    },
+    {
+      "source": "HN · AI",
+      "category": "ai",
+      "ok": true,
+      "items": 14
+    },
+    {
+      "source": "BBC News",
+      "category": "news",
+      "ok": true,
+      "items": 35
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "ai",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "ESPN NBA",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "ESPN NFL",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "Google News",
+      "category": "news",
+      "ok": true,
+      "items": 38
+    },
+    {
+      "source": "NPR",
+      "category": "news",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "ESPN MLB",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "The Guardian",
+      "category": "news",
+      "ok": true,
+      "items": 45
+    },
+    {
+      "source": "MLS scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "MLB scores",
+      "category": "sports",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "NBA scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "NFL scores",
+      "category": "sports",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "ESPN Soccer",
+      "category": "sports",
+      "ok": true,
+      "items": 6
+    },
+    {
+      "source": "CoinGecko",
+      "category": "markets",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Dexerto",
+      "category": "tiktok",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "Know Your Meme",
+      "category": "internet",
+      "ok": true,
+      "items": 4
+    },
+    {
+      "source": "Steam Top Sellers",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "OpenAI",
+      "category": "ai",
+      "ok": true,
+      "items": 1048
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "markets",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "source": "Pitchfork",
+      "category": "music",
+      "ok": true,
+      "items": 28
+    },
+    {
+      "source": "Google News · TikTok",
+      "category": "tiktok",
+      "ok": true,
+      "items": 100
+    },
+    {
+      "source": "IGN",
+      "category": "gaming",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "source": "Polygon",
+      "category": "gaming",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "source": "GitHub Trending",
+      "category": "tech",
+      "ok": true,
+      "items": 8
+    },
+    {
+      "source": "Tokchart",
+      "category": "tiktok",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Stereogum",
+      "category": "music",
+      "ok": true,
+      "items": 40
+    },
+    {
+      "source": "Steam Most Played",
+      "category": "gaming",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "Open-Meteo",
+      "category": "_weather",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "Apple Music Top 25",
+      "category": "music",
+      "ok": true,
+      "items": 1
+    },
+    {
+      "source": "r/OutOfTheLoop",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/OutOfTheLoop/top/.rss?t=day"
+    },
+    {
+      "source": "r/all",
+      "category": "internet",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 429 for https://www.reddit.com/r/all/top/.rss?t=day"
+    },
+    {
+      "source": "r/Games",
+      "category": "gaming",
+      "ok": false,
+      "items": 0,
+      "error": "HTTP 403 for https://www.reddit.com/r/Games/top/.rss?t=day"
+    }
+  ]
+}
